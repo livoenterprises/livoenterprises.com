@@ -1,0 +1,162 @@
+/* Livo Enterprises — site styles.
+   One typeface (Newsreader), a paper-and-ink palette, no framework.
+   Colors live on :root so light/dark is a single switch. */
+
+:root {
+  --paper: #f5f4ef;
+  --ink: #23262c;
+  --ink-soft: #5b606b;
+  --rule: #d9d6cc;
+  --brass: #8a6218;
+  --brass-soft: #f0e6cf;
+  --well: #ebe9e2;
+  --max: 40rem;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #17191d;
+    --ink: #e7e5df;
+    --ink-soft: #a3a6ad;
+    --rule: #33363d;
+    --brass: #d1a84f;
+    --brass-soft: #2c2610;
+    --well: #1f2227;
+  }
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { font-size: 106.25%; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "Newsreader", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  font-weight: 400;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+a { color: var(--brass); text-decoration: none; text-underline-offset: 0.15em; }
+a:hover, a:focus-visible { text-decoration: underline; }
+:focus-visible { outline: 2px solid var(--brass); outline-offset: 3px; border-radius: 2px; }
+
+img { max-width: 100%; height: auto; display: block; }
+
+/* Frame */
+.wrap { max-width: var(--max); margin: 0 auto; padding: 0 1.25rem; }
+
+header.site {
+  padding: 1.4rem 0 0;
+}
+header.site .wrap {
+  display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; flex-wrap: wrap;
+}
+.wordmark {
+  color: var(--ink);
+  font-weight: 500;
+  font-size: 1.05rem;
+  letter-spacing: 0.005em;
+}
+.wordmark:hover { text-decoration: none; color: var(--brass); }
+nav.site a {
+  color: var(--ink-soft);
+  margin-left: 1.25rem;
+  font-size: 0.95rem;
+}
+nav.site a[aria-current="page"] { color: var(--ink); border-bottom: 1px solid var(--brass); }
+nav.site a:hover { color: var(--ink); text-decoration: none; }
+
+main { padding: 4rem 0 5rem; }
+
+footer.site {
+  border-top: 1px solid var(--rule);
+  padding: 1.6rem 0 2.5rem;
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+}
+footer.site .wrap { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem 1.5rem; }
+footer.site a { color: var(--ink-soft); }
+
+/* Type scale — 1.25 ratio */
+h1, h2, h3 { font-weight: 500; line-height: 1.15; margin: 0; letter-spacing: -0.01em; }
+h1 { font-size: 2.45rem; }
+h2 { font-size: 1.55rem; margin-top: 3rem; }
+h3 { font-size: 1.15rem; margin-top: 2rem; }
+h2 + p, h3 + p { margin-top: 0.6rem; }
+p { margin: 0 0 1.1rem; }
+p.lede { font-size: 1.3rem; line-height: 1.4; color: var(--ink); margin: 1.2rem 0 2.2rem; }
+p.small, .small { font-size: 0.92rem; color: var(--ink-soft); }
+ul, ol { padding-left: 1.3rem; }
+li { margin-bottom: 0.4rem; }
+hr { border: 0; border-top: 1px solid var(--rule); margin: 3rem 0; }
+
+/* The capsule — the one object the site is about. Drawn as a file tree. */
+.capsule {
+  margin: 2.4rem 0 3rem;
+  padding: 1.4rem 1.5rem 1.5rem;
+  background: var(--well);
+  border-left: 3px solid var(--brass);
+}
+.capsule .name {
+  font-size: 0.95rem;
+  color: var(--brass);
+  word-break: break-all;
+  margin: 0 0 0.9rem;
+}
+.capsule .tree {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  column-gap: 1.6rem;
+  row-gap: 0.15rem;
+  font-size: 0.92rem;
+  line-height: 1.45;
+}
+.capsule .f { font: 0.86rem/1.6 ui-monospace, "SF Mono", Menlo, Consolas, monospace; color: var(--ink); white-space: nowrap; }
+.capsule .c { color: var(--ink-soft); font-style: italic; }
+@media (max-width: 40rem) {
+  .capsule .tree { grid-template-columns: 1fr; row-gap: 0; }
+  .capsule .c { margin: 0 0 0.6rem 1rem; }
+  .capsule .c:empty { display: none; }
+}
+
+/* Definitions used on the product and support pages */
+dl { margin: 0; }
+dt { font-weight: 500; margin-top: 1.4rem; }
+dd { margin: 0.25rem 0 0; }
+
+/* A quiet call-to-action row */
+.cta {
+  display: flex; gap: 1.2rem 2rem; flex-wrap: wrap; align-items: baseline;
+  margin: 2.2rem 0 0;
+  padding-top: 1.4rem;
+  border-top: 1px solid var(--rule);
+}
+.cta .primary {
+  color: var(--ink);
+  border: 1px solid var(--ink);
+  padding: 0.5rem 1rem;
+  border-radius: 3px;
+}
+.cta .primary:hover { background: var(--ink); color: var(--paper); text-decoration: none; }
+
+/* Post list */
+.posts { list-style: none; padding: 0; margin: 1.5rem 0 0; }
+.posts li { padding: 1rem 0; border-top: 1px solid var(--rule); margin: 0; }
+.posts time { display: block; color: var(--ink-soft); font-size: 0.9rem; }
+
+/* Policy text runs long; keep it readable */
+.policy h2 { font-size: 1.3rem; margin-top: 2.4rem; }
+.policy p.updated { color: var(--ink-soft); font-size: 0.92rem; margin-bottom: 2rem; }
+
+@media (max-width: 40rem) {
+  h1 { font-size: 1.95rem; }
+  main { padding: 2.8rem 0 4rem; }
+  nav.site a { margin-left: 0.9rem; }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a, .cta .primary { transition: color 120ms ease, background-color 120ms ease; }
+}
