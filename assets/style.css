@@ -206,3 +206,8 @@ article.post h2 { font-size: 1.4rem; margin-top: 2.6rem; }
 article.post li { margin-bottom: 0.7rem; }
 .topics { margin-top: 2.6rem; color: var(--ink-soft); font-size: 0.92rem; font-style: italic; }
 @media (max-width: 40rem) { article.post h1 { font-size: 1.7rem; } }
+
+/* Livo mark in the header */
+.wordmark { display: inline-flex; align-items: center; gap: 0.55rem; }
+.wordmark img { display: block; width: 1.5rem; height: 1.5rem; }
+header.site .wrap { align-items: center; }
