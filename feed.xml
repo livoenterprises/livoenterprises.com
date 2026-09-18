@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Livo Enterprises — Notes</title>
+  <link>https://livoenterprises.com/blog/</link>
+  <atom:link href="https://livoenterprises.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <description>Notes on owning your data, technology that works for people, and building software with AI.</description>
+  <language>en-us</language>
+  <item>
+    <title>The thread I didn’t see until I wrote it down</title>
+    <link>https://livoenterprises.com/blog/the-thread.html</link>
+    <guid>https://livoenterprises.com/blog/the-thread.html</guid>
+    <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
+    <description>Owning your data and making devices work for you sound like two beliefs. They are one, and it is about autonomy.</description>
+  </item>
+  <item>
+    <title>I built an iPhone app without learning Swift. The interesting part isn’t the AI.</title>
+    <link>https://livoenterprises.com/blog/built-without-swift.html</link>
+    <guid>https://livoenterprises.com/blog/built-without-swift.html</guid>
+    <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
+    <description>How LivoCapsule was built by describing it in plain English to an AI and holding it to a real engineering process, and what broke along the way.</description>
+  </item>
+</channel>
+</rss>

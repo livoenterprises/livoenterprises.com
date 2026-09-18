@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>I built an iPhone app without learning Swift. The interesting part isn't the AI. — Livo Enterprises</title>
+  <meta name="description" content="How LivoCapsule was built by describing it in plain English to an AI and holding it to a real engineering process, and what broke along the way.">
+  <link rel="canonical" href="https://livoenterprises.com/blog/built-without-swift.html">
+  <meta property="og:site_name" content="Livo Enterprises">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="I built an iPhone app without learning Swift. The interesting part isn't the AI. — Livo Enterprises">
+  <meta property="og:description" content="How LivoCapsule was built by describing it in plain English to an AI and holding it to a real engineering process, and what broke along the way.">
+  <meta property="og:url" content="https://livoenterprises.com/blog/built-without-swift.html">
+  <meta property="og:image" content="https://livoenterprises.com/assets/social-card.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+  <link rel="alternate" type="application/rss+xml" title="Livo Enterprises — Notes" href="/feed.xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/style.css">
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"BlogPosting","headline":"I built an iPhone app without learning Swift. The interesting part isn’t the AI.","datePublished":"2026-09-18","author":{"@type":"Person","name":"Ken Jones"},"publisher":{"@type":"Organization","name":"Livo Enterprises"},"mainEntityOfPage":"https://livoenterprises.com/blog/built-without-swift.html"}
+  </script>
+</head>
+<body>
+<header class="site">
+  <div class="wrap">
+    <a class="wordmark" href="/">Livo Enterprises</a>
+    <nav class="site" aria-label="Site">
+      <a href="/livocapsule.html">LivoCapsule</a>
+      <a href="/about.html">About</a>
+      <a href="/blog/" aria-current="page">Notes</a>
+      <a href="/support.html">Support</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <article class="post">
+    <p class="post-meta"><a href="/blog/">Notes</a> &middot; <time datetime="2026-09-18">September 18, 2026</time> &middot; Ken Jones</p>
+    <h1>I built an iPhone app without learning Swift. The interesting part isn&rsquo;t the AI.</h1>
+
+    <h2>The thread</h2>
+    <p>I&rsquo;ve spent a career building applications, and for the past fifteen years I&rsquo;ve worked in business intelligence and data &mdash; managing BI projects, thinking about what systems know and what people can do with it. Somewhere in there a conviction formed that I didn&rsquo;t recognize as a single idea until recently, when I sat down to write this.</p>
+    <p>It&rsquo;s this: people should own their data, and devices should work for people &mdash; not the other way around.</p>
+    <p>Those sound like two ideas. They&rsquo;re one. If you own your data, you decide who sees it, and you decide whether it will still open in fifty years. If devices work for you, you don&rsquo;t spend your life learning their menus, their gestures, their file formats &mdash; you tell them what you want, in the language you already think in, and they do it.</p>
+    <p>For most of my career the technology wasn&rsquo;t there for either half. Your photos went to a social network that owned them. Building an app meant learning the platform&rsquo;s language whether you wanted to or not. The idea was right and the tools were wrong.</p>
+    <p>This is the story of the first thing I built when the tools caught up. It&rsquo;s an app called LivoCapsule, and the reason it exists is the same reason I was able to build it without reading a line of Swift.</p>
+
+    <h2>Why LivoCapsule</h2>
+    <p>I wanted a way to preserve my family&rsquo;s photos, video, voices and stories that had a real chance of surviving across generations. Not as a feed on someone else&rsquo;s server &mdash; where you don&rsquo;t know who&rsquo;s looking, whether the company will exist in twenty years, or whether the format will open in fifty when your great-grandchildren go looking. As something you hold, and hand to the people you choose.</p>
+    <p>So LivoCapsule gathers photos and video from the Camera Roll and OneDrive, tags them with people and places, curates them into Memories, lets you narrate a Memory in your own voice, and seals it into a self-contained time capsule: a plain zip file holding the originals, the metadata, the audio, and a static web page that opens in any browser on any machine, with no app and no account. The capsule lands in your phone&rsquo;s Files folder where you can copy it, AirDrop it, or put it on a drive in a drawer. There&rsquo;s no server. There&rsquo;s no sharing platform. You give a capsule to someone the way you&rsquo;d give them a photo album.</p>
+    <p>The architecture followed from that goal rather than from convenience. JPEG originals pass through byte-for-byte. HEIC is transcoded to JPEG with every scrap of metadata preserved, because JPEG is the format most likely to still open in 2076. Live Photos keep their motion clip as a verbatim MOV so the pair can be reunited later. The catalog inside the app is a cache; the zip and its manifest are the truth, and a folder scan can rebuild everything else. Every one of those was a decision, and every one was argued &mdash; with an AI.</p>
+
+    <h2>Why I didn&rsquo;t learn Swift</h2>
+    <p>I had no interest in becoming an Xcode expert. I&rsquo;ve learned my share of languages; Swift wasn&rsquo;t going to be one of them, and having to learn it to get an app that preserves my family&rsquo;s memories would have been the machine making me work for it again.</p>
+    <p>So I set up an experiment. Could a generative AI be my expert programmer, with me in the role I&rsquo;d actually held for most of my career &mdash; the person who owns the requirements, challenges the architecture, and decides whether the thing works? Not &ldquo;let the AI do it.&rdquo; The AI wrote every line. I made every design decision, argued most of them, lost a few, and validated every feature on a physical phone.</p>
+    <p>What surprised me was not that the AI could write Swift. It was that the ordinary engineering process &mdash; requirements, design specification, implementation, change control, verification &mdash; still applied completely, and that I could run all of it in natural language. I wasn&rsquo;t translating my thinking into an IDE. I was doing engineering out loud, and the AI kept the books.</p>
+    <p>That&rsquo;s the alignment I&rsquo;d been waiting for without quite knowing it. My natural process is the engineering process. My natural interface is language. For the first time, a collaborator could meet me on both at once.</p>
+
+    <h2>The process, as it stands</h2>
+    <p>This is an experiment in progress. It has worked for this app, it isn&rsquo;t a finished method, and the next version will be better. Here is the shape of it today.</p>
+    <ol>
+      <li><strong>The idea, in plain language.</strong> I describe what I want the app to do, to whom, and why. The AI turns that into a requirements document I can read, argue with, and correct.</li>
+      <li><strong>Design specification.</strong> From the requirements, the AI proposes an architecture and I challenge it &mdash; storage, formats, what&rsquo;s an invariant, what&rsquo;s a decision with consequences. Decisions get numbers and dates. This document keeps getting revised; it&rsquo;s never finished.</li>
+      <li><strong>The session loop &mdash; state handover.</strong> Every working session opens with a fresh text export of the entire codebase, plus the three documents the last session produced. The AI confirms what build is on my phone and what&rsquo;s still open. Nothing depends on it remembering anything.</li>
+      <li><strong>The session loop &mdash; decide, then build.</strong> Open questions are settled before any code. Each change then arrives as a complete shell script that backs up what it touches, verifies its own edits, stamps the build with its own name, and tells me what to tap to prove it worked. I never see a snippet.</li>
+      <li><strong>The session loop &mdash; verify and close.</strong> I run the scripts and report what I actually saw on the device &mdash; observations, never verdicts. The session ends with three documents written for a reader with no memory: a summary, a requirements delta, and a checklist for next time. Then git commit, regenerate the export.</li>
+      <li><strong>Periodic validation.</strong> Every so often, no new features: walk every unreported check, audit the requirements against the live code, and test the artifact outside the app &mdash; I&rsquo;ve opened sealed capsules byte-for-byte on a Linux box with no LivoCapsule in sight. If it needs the app to open, it won&rsquo;t survive the app.</li>
+      <li><strong>Release.</strong> TestFlight, App Store, and whatever comes after. This is the step I&rsquo;m still working out. More to come.</li>
+    </ol>
+    <p>The thing I&rsquo;d underline is step 3. Because the project&rsquo;s state lives in plain-text documents on my disk rather than in any model&rsquo;s memory, I&rsquo;m agnostic to the model. Switching costs a session of re-establishing context, not the project. The AI writes those documents at each close-out; I check them the way I check a script.</p>
+    <p>And I only noticed this while writing: that&rsquo;s the same principle as the capsules. Own the data, keep it in a format that will open anywhere, don&rsquo;t trust it to someone else&rsquo;s server &mdash; whether the data is family photos or the state of a software project.</p>
+
+    <h2>What broke, and what we changed</h2>
+    <p>Every rule in that process was paid for. A few of the invoices:</p>
+    <p><strong>Snippets with placement instructions.</strong> The AI&rsquo;s first instinct was &ldquo;add this to the top of the file.&rdquo; Fix: the deliverable is a script that makes the change itself, never a fragment for me to place.</p>
+    <p><strong>Code it remembered writing.</strong> Patches missed because the AI worked from memory of a script that had failed or been skipped. Fix: memory is illegal; the export is the only description of the code, and the build stamp on the phone is the only statement of what&rsquo;s running.</p>
+    <p><strong>A stale export.</strong> Once the export predated work already on disk and the AI acted on it. Fix: a contradiction between the export and the session documents is resolved before anything is written; check the export&rsquo;s own timestamp; only upload from the newest folder.</p>
+    <p><strong>The retry loop.</strong> &ldquo;Anchor found 0 times&rdquo; invited variants, each costing a build. Fix: zero matches is a diagnosis with exactly three causes, and after two failed patches on one file I paste it verbatim and get a whole-file rewrite.</p>
+    <p><strong>The incidental dependency.</strong> We retired a sheet that was silently refreshing the screen behind it. Fix: never retire a path before its replacement is observable, and ask what depended on it incidentally, not just what called it.</p>
+    <p><strong>The crash with no dialog.</strong> Tap record, app closes, reopens on the Gallery. I reported exactly that, and the AI had it in one step: a missing microphone permission string. The lesson was about reporting, not code &mdash; say what you tapped and what you saw. &ldquo;Didn&rsquo;t get to it&rdquo; is an answer; an assumed pass is how a wrong model of the app accumulates.</p>
+    <p><strong>Losing an argument.</strong> I proposed making a Live Photo&rsquo;s video the primary asset. The AI argued the still is the 12-megapixel artifact every feature wants and OneDrive has no Live Photo type anyway. I was persuaded, and the decision is recorded with a number and the reasoning. Owning the decisions includes owning the ones where I changed my mind.</p>
+
+    <h2>Why I&rsquo;m writing this down</h2>
+    <p>I&rsquo;m sharing this because it&rsquo;s a starting point, not a finished thing, and I&rsquo;d rather other engineers build on it than rediscover it. Somebody with a different app, a different platform, or a different model will hit failures I haven&rsquo;t, and the process should absorb those the same way it absorbed mine: a symptom, a diagnosis, a standing rule. I intend to keep pushing on it. I&rsquo;d be glad to find someone ahead of me.</p>
+    <p>If you take this and take it further, the only thing I&rsquo;d ask is what the process asks of the AI: write down what broke, what you changed, and why &mdash; so the next person doesn&rsquo;t pay for it twice.</p>
+    <p>What I have on my phone right now is a handful of zip files that my grandchildren&rsquo;s grandchildren should be able to open with no account, no subscription, and no one in between. And I got there by describing what I wanted, in my own language, to a machine that finally worked for me.</p>
+
+    <h2>Appendix &mdash; the process documents</h2>
+    <p>After the first three sessions I asked the AI to write the method down generically so it could be re-established with any model on any app. It produced these; I reviewed and corrected them against what actually happened, but I didn&rsquo;t write them.</p>
+    <ul>
+      <li><strong>Start Here</strong> &mdash; the five ideas the method rests on, and the half-hour procedure for handing a project to a new model.</li>
+      <li><strong>Bootstrap Prompt</strong> &mdash; the contract: the script-not-snippet constraint, the two sources of truth, the requirements discipline, the session shape.</li>
+      <li><strong>Session Start Prompt</strong> &mdash; the opening message: build stamp quoted from the phone, export timestamp, last session&rsquo;s checks as observations, today&rsquo;s aim.</li>
+      <li><strong>Session Close Prompt</strong> &mdash; asks for the three handoff documents before anything is run; has a mid-session variant.</li>
+      <li><strong>Script Delivery Contract</strong> &mdash; the specification every script meets, with a reference skeleton; also what gets pasted back when a rule is broken.</li>
+      <li><strong>Document Templates</strong> &mdash; the shapes of the addendum, session summary, checklist and design note.</li>
+      <li><strong>Code Export Spec</strong> &mdash; the export script, the build-stamp constant and its Settings row, the runner file, and why the commit is not optional.</li>
+      <li><strong>Failure Playbook</strong> &mdash; what to do when the model drifts and when the work goes wrong.</li>
+      <li><strong>Degraded Mode</strong> &mdash; a capability check to run before uploading anything real, and fallbacks for weaker models.</li>
+      <li><strong>Worked Example</strong> &mdash; the generic documents filled in with LivoCapsule&rsquo;s real values.</li>
+      <li><strong>Prompt Checklists</strong> &mdash; the two lists kept open at the keyboard: cold start, and drift prevention.</li>
+    </ul>
+
+    <p class="topics">Filed under: Building with AI, Technology that serves you</p>
+    </article>
+
+    <div class="cta">
+      <a href="/blog/">All notes</a>
+      <a href="mailto:support@livoenterprises.com?subject=About%20your%20note">Write to Ken about this</a>
+    </div>
+  </div>
+</main>
+
+<footer class="site">
+  <div class="wrap">
+    <span>&copy; 2026 Livo Enterprises LLC &middot; Technology for living well</span>
+    <span><a href="/privacy.html">Privacy</a> &nbsp; <a href="/feed.xml">RSS</a> &nbsp; <a href="mailto:support@livoenterprises.com">Contact</a></span>
+  </div>
+</footer>
+</body>
+</html>

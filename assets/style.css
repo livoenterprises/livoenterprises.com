@@ -160,3 +160,49 @@ dd { margin: 0.25rem 0 0; }
 @media (prefers-reduced-motion: no-preference) {
   a, .cta .primary { transition: color 120ms ease, background-color 120ms ease; }
 }
+
+/* ---- Brand pages (Sept 2026) ---- */
+
+/* The two promises: large brass numerals in the margin of an ordered list */
+ol.promises { list-style: none; padding: 0; margin: 1.6rem 0 0; counter-reset: promise; }
+ol.promises > li {
+  counter-increment: promise;
+  position: relative;
+  margin: 0;
+  padding: 1.5rem 0 0.6rem 3.2rem;
+  border-top: 1px solid var(--rule);
+}
+ol.promises > li::before {
+  content: counter(promise);
+  position: absolute; left: 0; top: 1.05rem;
+  font-size: 2.6rem; line-height: 1; color: var(--brass);
+}
+ol.promises h3 { margin-top: 0; font-size: 1.3rem; }
+ol.promises dl { margin: 0.4rem 0 0.6rem; padding-left: 1.1rem; border-left: 3px solid var(--brass-soft); }
+ol.promises dt:first-child { margin-top: 0.6rem; }
+@media (max-width: 40rem) {
+  ol.promises > li { padding-left: 2.3rem; }
+  ol.promises > li::before { font-size: 2rem; top: 1.25rem; }
+}
+
+/* Product list */
+dl.products dt { font-size: 1.15rem; }
+.status { font-weight: 400; font-size: 0.9rem; color: var(--ink-soft); font-style: italic; margin-left: 0.4rem; }
+
+/* Pull quote */
+blockquote {
+  margin: 2.2rem 0; padding: 0 0 0 1.3rem;
+  border-left: 3px solid var(--brass);
+  font-size: 1.3rem; line-height: 1.4; font-style: italic;
+}
+
+/* Notes */
+.posts a { display: block; font-size: 1.15rem; font-weight: 500; line-height: 1.3; margin: 0.15rem 0 0.3rem; }
+.posts .sum { display: block; color: var(--ink-soft); font-size: 0.95rem; }
+.post-meta { color: var(--ink-soft); font-size: 0.92rem; margin-bottom: 1.2rem; }
+.post-meta a { color: var(--ink-soft); }
+article.post h1 { font-size: 2.1rem; margin-bottom: 2rem; }
+article.post h2 { font-size: 1.4rem; margin-top: 2.6rem; }
+article.post li { margin-bottom: 0.7rem; }
+.topics { margin-top: 2.6rem; color: var(--ink-soft); font-size: 0.92rem; font-style: italic; }
+@media (max-width: 40rem) { article.post h1 { font-size: 1.7rem; } }
