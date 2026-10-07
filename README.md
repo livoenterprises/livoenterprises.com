@@ -9,10 +9,24 @@ publishes within about a minute.
 - `index.html` — front page: mission, the two promises, products, latest notes
 - `about.html` — why Ken started the company
 - `livocapsule.html` — product page
-- `support.html` — support and FAQ
-- `privacy.html` — privacy policy (Apple requires this URL)
+- `support.html` — support and FAQ. Generated from `content/support.md`
+- `privacy.html` — privacy policy (Apple requires this URL). Generated from `content/privacy.md`
+- `about-livo.html` — what Livo is (the app's About Livo text). Generated from `content/about-livo.md`
+- `guide/` — the Livo guide, one page per topic. Generated from `content/guide/*.md`
 - `blog/` — Notes (the blog). `blog/index.html` lists the posts
 - `404.html` — not-found page
+
+## Content: the words the site and the Livo app share (Oct 2026)
+
+`content/` holds Markdown masters for the privacy policy, the support page,
+About Livo and the Livo guide. `tools/build_content.py` turns them into
+`privacy.html`, `support.html`, `about-livo.html` and `guide/*.html`;
+GitHub Actions (`.github/workflows/build-content.yml`) runs it after every
+change to `content/` and commits the pages, and Cloudflare publishes as
+usual. The Livo app carries the same `content/` files and shows them on
+its own screens. **Edit the `.md`, never those generated pages** (each
+starts with a GENERATED comment). `content/README.md` has the header
+format, the Markdown subset and the steps.
 
 ## Plumbing
 
