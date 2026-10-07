@@ -1,0 +1,51 @@
+# Builds the site's pages from content/*.md after every change to content/
+# (or to the builder itself), and commits the HTML back to main.
+# Cloudflare Pages then publishes main as it always has.
+#
+# Nothing here touches pages that are not generated from content/.
+# The commit message carries [skip ci] so this workflow does not run again
+# on its own commit.
+
+name: Build pages from content
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "content/**"
+      - "tools/**"
+      - ".github/workflows/build-content.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out main
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install the Markdown package
+        run: pip install markdown
+
+      - name: Build the pages
+        run: python3 tools/build_content.py
+
+      - name: Commit the generated pages
+        run: |
+          git config user.name "content-builder"
+          git config user.email "content-builder@livoenterprises.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+          else
+            git commit -m "Build pages from content [skip ci]"
+            git push
+          fi
