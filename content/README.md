@@ -40,7 +40,8 @@ they are reading. `web` is where the page is written (leave it out for
 a file the app shows but the site does not). `nav` names the top-bar
 item to mark as current. `style: policy` gives the privacy page its
 tighter headings. `app` records which screen in Livo shows the file.
-Guide files take `order: 1`, `2`, … for the list at `/guide/`.
+Guide files take `order: 1`, `2`, … for the list at `/guide/`, and `screen:`
+(the screen whose (i) button opens this topic in the app).
 
 ## The Livo Markdown subset
 
@@ -52,6 +53,14 @@ used in the body:
 - `**bold**` and `*italic*`
 - `[links](https://…)` and `[mail](mailto:…)`
 - `- ` bullet lists and `1. ` numbered lists
+- **app links**: `[Open Organize › Family](livo://organize/family)` opens that
+  screen inside Livo; on the website the builder shows the words with a
+  dotted underline. Links only open screens; they never act. Targets:
+  `livo://gallery`, `livo://memory-lane`, `livo://vault`, `livo://search`,
+  `livo://gallery/filter`, `livo://gallery/moments`, `livo://organize`,
+  `livo://organize/<getting-started|people|places|buckets|life-events|family|backup|activity|trash|settings>`,
+  `livo://settings/<your-name|appearance|onedrive|family-share|about>`,
+  `livo://vault/places`, `livo://getting-started`
 
 No tables, images, code blocks or raw HTML. The builder refuses a file
 that uses them.

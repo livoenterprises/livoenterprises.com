@@ -51,7 +51,7 @@ SITE = "https://livoenterprises.com"
 NAV_ITEMS = [("LivoCapsule", "/livocapsule.html"), ("About", "/about.html"),
              ("Notes", "/blog/"), ("Support", "/support.html")]
 ALLOWED_KEYS = {"title", "description", "version", "updated", "web", "nav",
-                "style", "app", "lede", "order"}
+                "style", "app", "lede", "order", "screen"}
 
 
 def read_front_matter(text, path):
@@ -96,8 +96,14 @@ def check_subset(body, path):
             sys.exit(f"{path}: uses {what}, which is outside the Livo Markdown subset")
 
 
+APP_LINK = re.compile(r'<a href="livo://[^"]*">(.*?)</a>')
+
+
 def render_body(body):
-    return markdown.markdown(body, output_format="html5", extensions=["smarty"])
+    html_out = markdown.markdown(body, output_format="html5", extensions=["smarty"])
+    # A livo:// link opens a screen inside the app. On the web it is the
+    # path in words, marked "in Livo"; it never leaves the page.
+    return APP_LINK.sub(r'<span class="app-link" title="Opens this screen in Livo">\1</span>', html_out)
 
 
 def pretty_date(iso):
