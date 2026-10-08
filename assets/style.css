@@ -218,3 +218,6 @@ p.updated { color: var(--ink-soft); font-size: 0.92rem; margin: 0.6rem 0 1.4rem;
 
 /* A link that opens a screen in the Livo app (livo://…): on the web, the path in words */
 .app-link { border-bottom: 1px dotted var(--brass); color: var(--ink); cursor: help; }
+article.post figure { margin: 2rem 0; }
+article.post figure img { width: 100%; border-radius: 4px; }
+article.post figcaption { color: var(--ink-soft); font-size: 0.9rem; margin-top: 0.5rem; }

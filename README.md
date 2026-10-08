@@ -39,20 +39,27 @@ format, the Markdown subset and the steps.
 
 ## Publishing a new note
 
-Easiest: hand Claude the draft text and this folder, and ask for the new post
-plus the four updates below. By hand:
+A note is a Markdown file, `content/blog/<slug>.md` (the slug is the
+page's address: lower-case letters, digits and hyphens). Its pictures go
+in `content/blog/images/`. The builder makes `blog/<slug>.html`, the list
+in `blog/index.html`, the newest notes on the front page, `feed.xml` and
+`sitemap.xml`. `content/README.md` has the header and what the body may
+use. Easiest: hand Claude the draft text and the pictures; it returns the
+file(s), you apply and publish them with `LivoContent.sh` (below).
 
-1. Copy `blog/post-template.html` to `blog/your-post-slug.html`.
-2. In the new file, replace every `POST TITLE`, `ONE-SENTENCE SUMMARY`,
-   `POST-SLUG`, `TOPIC` and the two dates, delete the `noindex` line marked
-   DELETE, and put the text in `<p>` paragraphs.
-3. Add an `<li>` for it at the top of the list in `blog/index.html`
-   (copy an existing one). Do the same in `index.html` if it should show on the front page.
-4. Add an `<item>` at the top of `feed.xml` (copy an existing one).
-5. Add a `<url>` line to `sitemap.xml`.
-6. Commit and push.
+The content loop on Ken's Mac (`~/Developer/Projects/LivoContent.sh`,
+v2): `fetch` mirrors this repo into the OneDrive editing folder
+(`content/` and `site/`; generated pages are never fetched), `status`
+says what differs, `apply <zip>` drops a delivered zip in, `publish`
+copies the editing folder here, builds the pages, commits and pushes
+(the site is live about a minute later), `sync` carries `content/` into
+the Livo app. `pulls` and `restore <stamp>` keep every fetch and put one
+back. GitHub's web "Upload files" still works for a single file.
 
-## Topics used on notes
+`blog/post-template.html` is from before the builder made notes; it is
+kept for reference only.
+
+Topics used on notes
 
 Own your data · Technology that serves you · Building with AI · Keeping memories
 
