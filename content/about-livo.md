@@ -1,34 +1,35 @@
 ---
 title: About Livo
 description: What Livo is, the three promises it makes, and what it is not.
-version: 1
-updated: 2026-10-07
+version: 2
+updated: 2026-10-08
 web: about-livo.html
 nav: LivoCapsule
 app: about
-lede: Apple finds your photos. Livo remembers what they mean — and passes it on.
+lede: Your photos capture the moments. Livo lets you describe what they mean — and saves them for future generations to enjoy.
 ---
 
-Your phone already finds your photos. Livo is where you keep what they mean — who is in them, where you were, and the story — and gathers the ones that matter into Memories you can watch and Time Capsules you can hand on.
+Your phone already has your photos. Livo is where you keep what they mean — who is in them, where they were, and the story — and allows you to turn the ones that matter into Memories you can re-live and lock into Time Capsules for future generations to enjoy.
 
-Livo has no accounts and no server. Your photos stay in your Camera Roll; Livo keeps only small copies and your notes, and its backups, capsules and family sharing use your own OneDrive or any folder you choose.
+Livo has no accounts and no server. Your photos stay in your Camera Roll; Livo keeps thumbnail copies and your context information, and its backups, Time Capsules for passing on.
 
 Nothing is named, written or shared without your tap.
 
-*From Livo Enterprises, a family company.*
+*From Livo Enterprises, Technology for Living Well.*
 
-## Three promises
+## Two Livo promises
 
-1. It makes life simpler, not more complicated.
+1. We strive to make your life simpler, not more complicated.
 2. You stay in charge.
-3. Your memories outlast any company, including ours.
+
 
 ## What Livo is not
 
+- Not a social media application. We don't have access to your Livo data and neither does anyone else unless you share directly with them.
 - Not a cloud: no Livo server, no Livo account, no password to lose.
-- Not a photo-recognition app: Livo never guesses who someone is. It makes naming fast, by hand.
-- Not a replacement for Photos: it adds to your library, and writes names and stories into exported files in fields other apps can read.
-- Not a subscription: one purchase, and nothing you have made is ever locked away.
+- Not a photo-recognition app: Livo never guesses who someone is. We make it easy for you to name photo faces by hand without AI guessing.
+- Not a replacement for Photos: it adds to your library,by allowing you to collect your photos into memories and share directly with those you choose.
+- Not a subscription: one purchase, and even if you do not purchase you get to keep what you have already done in Livo. Nothing you have made is ever locked away.
 
 ## More
 
