@@ -1,7 +1,7 @@
 ---
 title: About Livo
-description: What Livo is, where the name comes from, the three promises it makes, and what it is not.
-version: 2
+description: What Livo is, where the name comes from, the two promises it makes, and what it is not.
+version: 3
 updated: 2026-10-09
 web: about-livo.html
 nav: LivoCapsule
@@ -19,11 +19,10 @@ Livo Enterprises believes technology should serve life, not crowd it. So we hold
 
 A **LivoCapsule** is how a life is handed on. It gathers your photos, videos, names and stories and seals them into one gift. Years from now, a grandchild you may never meet can open it and hear the laughter, see the faces and learn the stories. A moment that is stored is only kept. A moment that is shared keeps living.
 
-## Three promises
+## Two promises
 
 1. It makes life simpler, not more complicated.
 2. You stay in charge.
-3. Your memories outlast any company, including ours.
 
 ## What Livo is not
 

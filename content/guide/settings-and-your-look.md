@@ -1,8 +1,8 @@
 ---
 title: Settings, your look, and Livo Full
 description: Your name, the three palettes, how stories are shown, About, and the one-time purchase.
-version: 1
-updated: 2026-10-07
+version: 2
+updated: 2026-10-09
 order: 19
 app: guide
 screen: settings
@@ -27,7 +27,7 @@ lede: Settings is short on purpose. Most of what you need day to day is under Or
 
 ## About
 
-[Settings › About](livo://settings/about): **About Livo** (what Livo is and the three promises), **Getting Started**, this guide, the Privacy Policy and Support, the version and build, and **Send Feedback**, which opens a mail to us with the build and your phone's details filled in.
+[Settings › About](livo://settings/about): **About Livo** (what Livo is and the two promises), **Getting Started**, this guide, the Privacy Policy and Support, the version and build, and **Send Feedback**, which opens a mail to us with the build and your phone's details filled in.
 
 ## Livo Full
 
