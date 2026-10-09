@@ -1,8 +1,8 @@
 ---
 title: Moments and the Gallery
 description: Browsing by Moment, All Moments, Marked photos, and what the selection row does.
-version: 1
-updated: 2026-10-07
+version: 2
+updated: 2026-10-09
 order: 4
 app: guide
 screen: gallery
@@ -27,7 +27,7 @@ Tap a photo to select it; keep dragging to select more. A row appears under the 
 
 ## Opening a photo
 
-Tap a selected photo, or double-tap any photo, to see it full screen. Swipe between photos, pinch to zoom, pull down to close. A LIVE pill plays a Live Photo. If the full-size picture cannot be shown, the caption under it says why — see [When something looks wrong](/guide/when-something-looks-wrong.html).
+Tap a selected photo, or double-tap any photo, to see it full screen. Swipe between photos, pinch to zoom, pull down to close. A LIVE pill plays a Live Photo. The buttons under a photo include Info, Rotate, Edit Photo and, on a video, Edit Segments — see [Editing photos and videos](/guide/editing-photos-and-videos.html). If the full-size picture cannot be shown, the caption under it says why — see [When something looks wrong](/guide/when-something-looks-wrong.html).
 
 ## The badges on a photo
 

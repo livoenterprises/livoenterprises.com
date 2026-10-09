@@ -1,35 +1,36 @@
 ---
 title: About Livo
-description: What Livo is, the three promises it makes, and what it is not.
+description: What Livo is, where the name comes from, the three promises it makes, and what it is not.
 version: 2
-updated: 2026-10-08
+updated: 2026-10-09
 web: about-livo.html
 nav: LivoCapsule
 app: about
-lede: Your photos capture the moments. Livo lets you describe what they mean — and saves them for future generations to enjoy.
+lede: Livo: short for life, and for living it well.
 ---
 
-Your phone already has your photos. Livo is where you keep what they mean — who is in them, where they were, and the story — and allows you to turn the ones that matter into Memories you can re-live and lock into Time Capsules for future generations to enjoy.
+Every life is a story. Livo helps you tell that story and share it.
 
-Livo has no accounts and no server. Your photos stay in your Camera Roll; Livo keeps thumbnail copies and your context information, and its backups, Time Capsules for passing on.
+I chose it because it is short, and because it sounds like *life*. It made me think of living well, of a life well lived, with its ordinary mornings, its laughter, and the people we love. Then I understood what the name was for: holding on to those moments, and giving them to the ones who come after us.
 
-Nothing is named, written or shared without your tap.
+*From Livo Enterprises: technology for living well.*
 
-*From Livo Enterprises, Technology for Living Well.*
+Livo Enterprises believes technology should serve life, not crowd it. So we hold ourselves to two goals. We **make life simpler**, so the things that matter are not buried under effort. And we **give people control**, so your memories stay yours, in your hands and never in anyone else's keeping. Livo is where that begins: the photos and videos of a lifetime, kept simply and kept safe.
 
-## Two Livo promises
+A **LivoCapsule** is how a life is handed on. It gathers your photos, videos, names and stories and seals them into one gift. Years from now, a grandchild you may never meet can open it and hear the laughter, see the faces and learn the stories. A moment that is stored is only kept. A moment that is shared keeps living.
 
-1. We strive to make your life simpler, not more complicated.
+## Three promises
+
+1. It makes life simpler, not more complicated.
 2. You stay in charge.
-
+3. Your memories outlast any company, including ours.
 
 ## What Livo is not
 
-- Not a social media application. We don't have access to your Livo data and neither does anyone else unless you share directly with them.
 - Not a cloud: no Livo server, no Livo account, no password to lose.
-- Not a photo-recognition app: Livo never guesses who someone is. We make it easy for you to name photo faces by hand without AI guessing.
-- Not a replacement for Photos: it adds to your library,by allowing you to collect your photos into memories and share directly with those you choose.
-- Not a subscription: one purchase, and even if you do not purchase you get to keep what you have already done in Livo. Nothing you have made is ever locked away.
+- Not a photo-recognition app: Livo never guesses who someone is. It makes naming fast, by hand.
+- Not a replacement for Photos: it adds to your library, and writes names and stories into exported files in fields other apps can read.
+- Not a subscription: one purchase, and nothing you have made is ever locked away.
 
 ## More
 
