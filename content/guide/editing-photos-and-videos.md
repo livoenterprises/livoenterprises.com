@@ -1,7 +1,7 @@
 ---
 title: Editing photos and videos
-description: Rotate, crop and adjust a photo, cut a long video into dated segments, and join clips into one video. Livo never changes the original.
-version: 1
+description: Rotate, crop and adjust a photo, cut a long video into dated segments, save one frame of a video as a photo, and join clips into one video. Livo never changes the original.
+version: 2
 updated: 2026-10-09
 order: 7
 app: guide
@@ -11,7 +11,7 @@ lede: Every edit in Livo makes a new photo or video next to the original. The or
 
 ## The one rule
 
-Livo does not touch the files you brought in. Rotate is a note Livo keeps for itself. Edit Photo, Edit Segments and Stitch each make a **new** file, saved where the original lives (the Camera Roll, or the same OneDrive folder), and bring it into Livo with its own badge and its own line in the Filter. The original stays as it was. If you want it out of the way afterwards, move it to a Bucket.
+Livo does not touch the files you brought in. Rotate is a note Livo keeps for itself. Edit Photo, Edit Segments, Save Frame and Stitch each make a **new** file, saved where the original lives (the Camera Roll, or the same OneDrive folder), and bring it into Livo with its own badge and its own line in the Filter. The original stays as it was. If you want it out of the way afterwards, move it to a Bucket.
 
 ## Rotate
 
@@ -31,6 +31,10 @@ For a long recording — a transferred videotape, an hour of a party — open th
 4. Find where it ends and tap **Mark Segment End & Save**.
 
 Livo saves that stretch as a new video named with the date you typed, so it lands in the Moment of that date, not the day the tape was transferred. The next segment starts where this one ended, so you work along the tape in order. Each segment carries the segment badge; the Filter has **Edited Segments Only**. The long original is untouched.
+
+## Save a frame as a photo
+
+On the same Edit Segments screen, stop on the picture you want — the face, the cake, the moment — and tap **Save Frame as Photo**. Livo takes that one frame at the video's full size and saves it as a new photo in your Camera Roll, dated the video's date plus the time into the video, so it sits right after the video in the same Moment. Nothing is copied from the video: the frame starts with no story or tags, and you add what it needs. The tile carries the frame badge; Info says which video it came from and where; the Filter has **Video Frames Only**. A frame is never sharper than the video it came from.
 
 ## Stitch
 
