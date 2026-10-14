@@ -1,8 +1,8 @@
 ---
 title: Making a Memory
 description: Turning marked photos into a Memory with a story and your voice, and sharing it as a video.
-version: 1
-updated: 2026-10-07
+version: 2
+updated: 2026-10-14
 order: 9
 app: guide
 screen: canvas
@@ -15,7 +15,7 @@ Mark the photos you want (swipe up in the Gallery), then tap **New Memory** on t
 
 ## The canvas
 
-Write the **Story** (type or dictate). Long-press a photo to make it the hero; swipe a photo left to take it out; **Add from Library** brings more in. The **Memory Date** is the date the Memory is about — Livo sets it from the earliest photo, and you can change it. **Save** keeps it; a new Memory then asks whether to clear your marks.
+Write the **Story** (type or dictate). Long-press a photo to make it the hero; swipe a photo left to take it out; **Add from Library** brings more in. The **Memory Date** is the date the Memory is about — Livo sets it from the earliest photo, and you can change it. **Save** keeps it; a new Memory then asks whether to clear your marks, and says how many of your five free Memories you have created (see [Settings, your look, and Livo Full](/guide/settings-and-your-look.html)). The canvas can also make a **Scrapbook** or a **Collage** from the same photos; each counts as a Memory.
 
 If some photos are no longer on this phone, Save says so and offers **Find Them** (see [When something looks wrong](/guide/when-something-looks-wrong.html)) or **Save Anyway**, using Livo's small copies.
 
@@ -29,4 +29,4 @@ On the Memory's screen, tap **Record** to tell the story in your own voice. List
 
 ## Editing later
 
-Every Memory stays editable: open it from Memory Lane, tap **Edit**. Editing never changes your marked photos. Putting the photos in a different order is coming.
+Every Memory stays editable: open it from Memory Lane, tap **Edit**. Editing never changes your marked photos. **Reorder Photos** puts them in any order you like.

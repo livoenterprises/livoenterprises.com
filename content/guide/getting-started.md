@@ -1,14 +1,12 @@
 ---
 title: Getting started
-description: The seven steps on Livo's Getting Started sheet, and what each one does.
-version: 3
-updated: 2026-10-08
-version: 2
-
+description: The six steps on Livo's Getting Started sheet, and what each one does.
+version: 4
+updated: 2026-10-14
+order: 1
 app: guide
 screen: getting-started
-lede: Livo asks for nothing at first launch. Getting Started is a list of seven optional steps you can take in any order, now or later.
----
+lede: Livo asks for nothing at first launch. Getting Started is a list of six optional steps you can take in any order, now or later.
 ---
 
 Open it from the line under the Gallery's header, from [Organize › Getting Started](livo://organize/getting-started), or from Settings › About. Each row shows a tick when it is done, and you can swipe a row left to skip it for now.
@@ -23,20 +21,16 @@ Livo is always dark, with white lettering, in one of three palettes: Charcoal (t
 
 ## 3. Your photos
 
-Scans your Camera Roll. Livo creates a thumbnail copy of each photo to associate with your context informaton; your photos stay where they are, and Livo never deletes or changes them. This is the only step that asks for a permission (Scan Photos), and only when you requst the import from Camera Roll.
+Bring in your Camera Roll, or scan prints. Livo keeps a small copy of each photo; your photos stay where they are, and Livo never deletes or changes them. Livo asks for permission to your photos when you start the import, and for the camera when you scan prints. See [Bringing in your photos](/guide/bringing-in-your-photos.html).
 
-## 4. OneDrive
+## 4. Keep a copy
 
-Optional. If you already have a Microsfot OneDrive account to keep backups. Sign in to you Microsoft account to bring in photos from OneDrive into Livo for you to enter your context information and eventually store your memory Time Capsules to share with your family. Livo works with or without OneDrive. Add or remove accounts in [Settings › Data › OneDrive Accounts](livo://settings/onedrive).
+Optional. Until you choose a place, your Time Capsules are only on this phone. Choose a folder in Files (iCloud Drive, Dropbox or another app), or OneDrive, and every sealed capsule is copied there too, and checked. Add places in [Vault › Places](livo://vault/places). Backups are separate: Organize › Backup & Restore.
 
-## 5. Family Share
+## 5. Share with family
 
-Optional, and needs OneDrive. If you have signed up with a subscription for Microsoft Office for Family it currently allows you to setup up 6 accounts with 1TB of photo storage allowed for each account. If you choose to provide Livo with those MS Account names, Livo will setup a folder for each Family member to store their Camera Roll photos and share their memories and Time Caplsues with other family members. Everything each person shares stays in their own OneDrive account; nothing goes through a server.
+Optional. Send Time Capsules any way you like. With a free Microsoft account (a personal account is enough; nothing to buy), you can also see what your family shares in their OneDrive and share back. Everything each person shares stays in their own OneDrive; nothing goes through a server. Livo works fully without a Microsoft account. See [Family Share](/guide/family-share.html).
 
-## 6. Keep a copy
+## 6. Where things are
 
-Optional, If you have a Cloud storage location where you want to save your Livo Backups this Turns on the copy of each backup and each sealed Time Capsule to your Cloud storage, and lets you add other folders of your own in [Vault › Places](livo://vault/places), such as iCloud Drive.
-
-## 7. Where things are
-
-A short tour of the four places in Livo: the Gallery, Memory Lane, the Vault and the book. See [Where things are](/guide/where-things-are.html).
+A short tour of the places in Livo: the Gallery, Memory Lane, the Vault and the book. See [Where things are](/guide/where-things-are.html).

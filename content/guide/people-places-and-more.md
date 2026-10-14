@@ -1,8 +1,8 @@
 ---
-title: People, Places, Life Events and Buckets
+title: People, Places, Life Events, Tags and Buckets
 description: The lists behind your photos, and the one hidden place.
-version: 1
-updated: 2026-10-07
+version: 2
+updated: 2026-10-14
 order: 8
 app: guide
 screen: organize
@@ -15,15 +15,21 @@ lede: Everything you name lives in Organize — the book icon — and nothing is
 
 ## Places
 
-[Open Organize › Places](livo://organize/places). A place has a name, nicknames, and a city, state and country. **Look Up Place** fills the address from the map. Livo can suggest places from the photos' own GPS (**Places to Review**); nothing is applied until you confirm. Merging places works like merging people.
+[Open Organize › Places](livo://organize/places). A place has a name, nicknames, and a city, state and country. **Look Up Place** fills the address from the map. Livo can suggest places from the photos' own GPS (**Places to Review**); nothing is applied until you confirm. Merging places works like merging people. **Places to Review** runs by itself after an import finishes, and nothing is tagged until you confirm. Places are listed A to Z.
 
 ## Life Events
 
 [Open Organize › Life Events](livo://organize/life-events). A dated event on a person — a birth, a wedding. Livo Search uses them: "when Elise was born", "our anniversary".
 
+Two entries for one event? Swipe an event and tap **Merge into…**, then pick the one to keep. Photos and people move over, and the merged event goes to the Trash, where restoring it undoes the merge.
+
+## Tags
+
+[Open Organize › Tags](livo://organize/tags). Every tag with its photo count, by name or by count. Swipe a tag, or tap it, for **Rename**, **Merge into…** or **Delete**. Renaming a tag to a name another tag already has merges them, and asks first. Delete asks too, and removes the tag from your photos without touching the photos or their stories. What Livo Search has learned about a renamed or merged tag follows it.
+
 ## Buckets
 
-[Open Organize › Buckets](livo://organize/buckets). A Bucket is a hidden shelf: photos moved there leave the Gallery, Moments, Memories, search and every export until you move them back. Not the Trash — nothing is deleted.
+[Open Organize › Buckets](livo://organize/buckets). A Bucket is a hidden shelf: photos moved there leave the Gallery, Moments, Memories, search and every export until you move them back. Not the Trash — nothing is deleted. Swipe a Bucket to **Rename** or **Delete** it. Deleting a Bucket asks first, and every photo still in it goes back to the Gallery. To move photos from one Bucket to another, open the Bucket, select them, and tap the lock button, as in the Gallery.
 
 ## Trash
 

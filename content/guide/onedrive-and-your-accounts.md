@@ -1,8 +1,8 @@
 ---
 title: OneDrive and your accounts
 description: Signing in, what "Needs sign-in" means, and the folders Livo keeps in your OneDrive.
-version: 1
-updated: 2026-10-07
+version: 2
+updated: 2026-10-14
 order: 17
 app: guide
 screen: onedrive
@@ -11,7 +11,7 @@ lede: Livo works without OneDrive. With it, you get photos from OneDrive, backup
 
 ## Signing in
 
-[Open Settings › Data › OneDrive Accounts](livo://settings/onedrive) and tap **Add Account**. Microsoft's own sign-in runs inside Livo; Livo never sees your password. You can add more than one account; one is **active for import**, and photos remember which account they came from. **Choose Folders** picks what to import; **Reset import progress** starts an import over.
+[Open Settings › Data › OneDrive Accounts](livo://settings/onedrive) and tap **Add Account**. (If you have never signed in, Settings first shows **Use OneDrive and Microsoft family sharing**; tap it and the Data section appears.) Microsoft's own sign-in runs inside Livo; Livo never sees your password. You can add more than one account; one is **active for import**, and photos remember which account they came from. **Choose Folders** picks what to import; **Reset import progress** starts the active account's import over; each account keeps its own place.
 
 ## Needs sign-in
 

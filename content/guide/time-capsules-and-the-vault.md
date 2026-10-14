@@ -1,8 +1,8 @@
 ---
 title: Time Capsules and the Vault
 description: Sealing a Memory into a Time Capsule, what is inside one, and how anyone can open it — with or without Livo.
-version: 1
-updated: 2026-10-07
+version: 2
+updated: 2026-10-14
 order: 11
 app: guide
 screen: vault
@@ -11,7 +11,7 @@ lede: A Time Capsule is one Memory, sealed into a single file that will open in 
 
 ## Sealing
 
-[Open the Vault](livo://vault) and tap **+** (**Create Time Capsules**). Pick the Memories; each one is sealed into its own capsule and appears in the list at once. The first time, Livo asks for your name, which is stamped on every capsule you seal. **Stop** keeps the capsules already finished and discards the one in progress.
+[Open the Vault](livo://vault) and tap **+** (**Create Time Capsules**). Pick the Memories; each one is sealed into its own capsule and appears in the list at once. The first time, Livo asks for your name, which is stamped on every capsule you seal. **Stop** keeps the capsules already finished and discards the one in progress. If a photo or video cannot be fetched (it is gone from the Camera Roll, or OneDrive cannot be reached), the capsule still seals: Livo says "Sealed with 11 of 12 items", names what was left out and why, and lets you **Keep It** or **Discard and Try Again**. The capsule's README lists anything not included.
 
 ## What is inside
 
@@ -23,7 +23,7 @@ On this phone, in the Files app under On My iPhone › Livo › TimeCapsules; in
 
 ## The list
 
-Each capsule shows its name, the date and time it was sealed, and its state: **Checked 6 Oct · 2 places** when all is well; **Not checked yet**; **Needs attention**; **Re-seal**; **Lost**. The line at the top sums them up. The **Filter** button shows only capsules from the family, or older versions. Tap a capsule for its screen: look inside, Export, Send to a Livo, the checks and repairs, **Keep forever (a Keepsake)**, and Delete.
+Each capsule shows its name, the date and time it was sealed, and its state: **Checked 6 Oct · 2 places** when all is well; **Not checked yet**; **Needs attention**; **Re-seal**; **Lost**. The line at the top sums them up. The **Filter** button shows only capsules from the family, or older versions. Tap a capsule for its screen: look inside, Export, Send to a Livo, the checks and repairs, **Keep forever (a Keepsake)**, and Delete. Delete says which copies Livo knows of and offers **Delete and Remove Its Copies** or **Delete Here Only**; a Keepsake copy is never removed.
 
 ## Importing
 

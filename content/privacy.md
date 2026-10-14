@@ -1,8 +1,8 @@
 ---
 title: Privacy Policy
 description: Privacy policy for Livo (LivoCapsule on the App Store) and other Livo Enterprises apps.
-version: 2
-updated: 2026-10-07
+version: 3
+updated: 2026-10-14
 web: privacy.html
 nav: Support
 style: policy
@@ -14,7 +14,7 @@ This policy applies to Livo, sold on the App Store as LivoCapsule.
 
 ## What Livo keeps, and where
 
-Everything Livo makes is stored on your iPhone or iPad: the names, places and stories you add to your photos, the Memories you assemble, your narration recordings, the Time Capsules you seal, the text Livo reads from scanned prints, and your settings. Your photos and videos themselves stay in your Camera Roll or your OneDrive; Livo keeps a small copy of each photo so that it can still show you one that is no longer in Photos.
+Everything Livo makes is stored on your iPhone or iPad: the names, places and stories you add to your photos, the Memories you assemble, your narration recordings, the Time Capsules you seal, the text Livo reads from scanned prints, what Livo Search has learned from you (the meanings you confirmed and your recent searches), and your settings. A count of the free Memories you have created is also kept in your iOS keychain, so that reinstalling the app does not reset it. Your photos and videos themselves stay in your Camera Roll or your OneDrive; Livo keeps a small copy of each photo so that it can still show you one that is no longer in Photos.
 
 Time Capsules and backups are ordinary files. Capsules are kept in the Files app, under On My iPhone › Livo › TimeCapsules, so you can copy them wherever you like. None of this is sent to Livo Enterprises.
 
@@ -22,7 +22,7 @@ Time Capsules and backups are ordinary files. Capsules are kept in the Files app
 
 Each permission is asked for the first time a feature needs it, and each can be withdrawn at any time in iOS Settings. Livo keeps working without it, minus that feature.
 
-- **Photos.** To show your photo library, bring photos into Livo, and save new photos (edited copies, Memory videos, scanned prints, photos received from family) to it. Livo never deletes or changes an original.
+- **Photos.** To show your photo library, bring photos into Livo, and save new photos (edited copies, Memory videos, scanned prints, photos received from family) to it. If you allow only some photos, Livo works with those. Livo never deletes or changes an original.
 - **Camera.** Only for Scan Prints, which photographs printed pictures one at a time with Apple's document scanner. The scans are saved to your Camera Roll.
 - **Microphone.** Only when you tap record, to capture a narration. The recording is saved on your device with the Memory it belongs to.
 - **Location.** Livo reads the location already inside your photos to suggest place names. It never tracks where your device is.
@@ -40,6 +40,7 @@ With OneDrive, Livo can:
 - read photos and videos from the folders you pick;
 - keep a copy of your Livo backups in a folder named Livo Backup, which only you can see;
 - keep a copy of each Time Capsule in a folder named Livo Vault, and a write-once copy in Livo Keepsakes, and check them now and then so you are told while a damaged copy can still be repaired;
+- keep a capsule you send as a link in a folder named Livo Sent, and share that link with the person you choose;
 - share Memory videos, photos and capsules with your family through a folder named Livo Family Share, which Livo shares with the family members you choose, as view-only, and read what your family has shared in theirs.
 
 Livo writes only inside those folders in your own OneDrive, deletes there only what you ask it to delete, and never writes in another person's drive.
@@ -62,11 +63,11 @@ A Time Capsule is a file you make and send. It holds the photos, videos, story a
 
 ## Send Feedback
 
-Settings › About › Send Feedback opens your mail app with a message addressed to us. It fills in Livo's build and version, the iOS version and your phone's model. Nothing is sent unless you send it, and we use what you send only to answer you and to fix what you report.
+In Settings, the Send Feedback button at the bottom (in the About section) opens your mail app with a message addressed to feedback@livoenterprises.com. It fills in Livo's build and version, the iOS version and your phone's model. Nothing is sent unless you send it, and we use what you send only to answer you and to fix what you report.
 
 ## Purchases
 
-Livo is sold through the App Store. Apple processes the payment and tells the app only that a purchase was made. We do not receive your name, payment details or Apple ID.
+Livo is sold through the App Store. Apple processes the payment and tells the app only that a purchase was made. We do not receive your name, payment details or Apple ID. Livo Full is a one-time purchase and there is no subscription.
 
 ## Children
 

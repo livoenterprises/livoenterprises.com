@@ -1,8 +1,8 @@
 ---
 title: Bringing in your photos
 description: Import from your Camera Roll or OneDrive, what Livo keeps, and what the + badge means.
-version: 1
-updated: 2026-10-07
+version: 2
+updated: 2026-10-14
 order: 3
 app: guide
 screen: import
@@ -13,11 +13,11 @@ lede: Livo never copies, changes or deletes your photos. It keeps a small copy o
 
 [Open the Gallery](livo://gallery), tap **+** at the top right, then **Import from Camera Roll**. Livo asks for permission to your Photos the first time, then brings in every photo and video, newest first. A big library takes a while; you can keep using Livo, and the progress shows under the Gallery header and in [Organize › Activity](livo://organize/activity).
 
-Before it starts, Livo checks your free space: it warns if the import would leave under 2 GB, and will not start below 1 GB. If space runs out part way, the import pauses and keeps everything it has brought in; tap Resume in Activity, or start another import, to carry on.
+If you allowed Livo only some of your photos, it works with those and says so. Before it starts, Livo checks your free space ("Importing about 140 items needs about 2.3 GB"): it warns if the import would leave under 2 GB, and will not start below 1 GB. If space runs out part way, the import pauses and keeps everything it has brought in; tap Resume in Activity, or start another import, to carry on.
 
 ## Import from OneDrive
 
-Sign in first ([Settings › Data › OneDrive Accounts](livo://settings/onedrive)), choose which folders to import, then **+** › **Import from OneDrive**. Livo reads the photos where they are and keeps a small copy; the originals stay in OneDrive. Livo's own folders in your OneDrive (Livo Backup, Livo Family Share, Livo Vault, Livo Keepsakes, Livo Sent) are never imported.
+Sign in first ([Settings › Data › OneDrive Accounts](livo://settings/onedrive)), choose which folders to import, then **+** › **Import from OneDrive**. Livo reads the photos where they are and keeps a small copy; the originals stay in OneDrive. Livo's own folders in your OneDrive (Livo Backup, Livo Family Share, Livo Vault, Livo Keepsakes, Livo Sent) are never imported. An item that fails is remembered and tried again first next time; the result says "3 could not be imported; they will be tried again next time." A photo you removed for good in Livo is left out, and the result says how many.
 
 ## What Livo keeps
 
@@ -25,7 +25,7 @@ For every photo: its date, place, size and a small copy (800 × 800) that Livo u
 
 ## Tidying up
 
-At the end of every import Livo looks for the same photo brought in twice (once from the Camera Roll and once from OneDrive, say) and keeps one record of it, with everything you had written on either copy. Your photos are not touched; only Livo's own duplicate record goes. The message says "Livo also tidied up its library" when that happened.
+At the end of every import Livo looks for the same photo brought in twice (once from the Camera Roll and once from OneDrive, say) and keeps one record of it, with everything you had written on either copy. Two records are treated as the same photo only when the whole files match; a copy Livo cannot read to check is left alone. Your photos are not touched; only Livo's own duplicate record goes. The message says "Livo also tidied up its library" when that happened.
 
 ## The + badge
 

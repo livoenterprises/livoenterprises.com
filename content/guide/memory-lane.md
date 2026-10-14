@@ -1,17 +1,17 @@
 ---
 title: Memory Lane
 description: Where your Memories live, Live and Sealed, and what the Share menu offers.
-version: 1
-updated: 2026-10-07
+version: 2
+updated: 2026-10-14
 order: 10
 app: guide
 screen: memory-lane
-lede: Memory Lane is the shelf of Memories you have made, newest first, and of the Time Capsules you have sealed or received.
+lede: Memory Lane is the shelf of Memories you have made, and of the Time Capsules you have sealed or received.
 ---
 
 ## Live and Sealed
 
-[Open Memory Lane](livo://memory-lane). **Live** shows your Memories as cards — the date, the first lines of the story, the hero photo. Double-tap a card to open it; swipe left to move it to the Trash. A gold **Sealed** mark means a Time Capsule holds this Memory. **Sealed** lists the capsules themselves; tap one to look inside, read-only.
+[Open Memory Lane](livo://memory-lane). **Live** shows your Memories as cards — the date, the first lines of the story, the hero photo. Double-tap a card to open it; swipe left for **Rename**, **Combine with…** and Delete (Delete moves it to the Trash). A sort button above the list switches between oldest first, the default, and newest first, and Livo remembers your choice. **Combine with…** adds another Memory's photos to the end of this one, skipping any it already has; the other Memory is not changed or deleted. A gold **Sealed** mark means a Time Capsule holds this Memory. **Sealed** lists the capsules themselves; tap one to look inside, read-only.
 
 ## Opening a Memory
 

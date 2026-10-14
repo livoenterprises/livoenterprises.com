@@ -1,8 +1,8 @@
 ---
 title: Keeping capsules safe
 description: How the Vault keeps at least two copies of every Time Capsule, checks them, and tells you while a problem can still be fixed.
-version: 1
-updated: 2026-10-07
+version: 2
+updated: 2026-10-14
 order: 12
 app: guide
 screen: vault-places
@@ -17,7 +17,7 @@ Livo writes only its own capsule files into a place and never deletes anything t
 
 ## Checking
 
-Livo quick-checks each capsule's copies about once a week on its own, and while the app is closed it may check a few in the background. **Check** at the top of the Vault offers **Check All**, **Check the Ones Not Checked in a While**, and **Verify Every OneDrive Copy** (which downloads each one and proves it byte for byte). A capsule's own screen has Quick Check, Verify Every File and Verify the OneDrive Copy.
+Livo quick-checks each capsule's copies about once a week on its own, and while the app is closed it may check a few in the background. **Check** at the top of the Vault offers **Check All** and **Verify Every OneDrive Copy** (which downloads each one and proves it byte for byte). A capsule's own screen has Quick Check, Verify Every File and Verify the OneDrive Copy.
 
 You only hear about trouble: one quiet notification when a copy needs attention, never a message that everything is fine.
 

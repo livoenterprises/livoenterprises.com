@@ -1,8 +1,8 @@
 ---
 title: Editing photos and videos
 description: Rotate, crop and adjust a photo, cut a long video into dated segments, save one frame of a video as a photo, and join clips into one video. Livo never changes the original.
-version: 2
-updated: 2026-10-09
+version: 3
+updated: 2026-10-14
 order: 7
 app: guide
 screen: edit
@@ -38,7 +38,7 @@ On the same Edit Segments screen, stop on the picture you want — the face, the
 
 ## Stitch
 
-Select two or more videos in the Gallery and tap **Stitch** in the bottom bar. Livo lists the clips in the order they were taken, the total running time, and where the result will go (where the first clip lives). **Stitch** makes one new video of all of them, end to end. When the clips are all the same way up it is joined without re-encoding, so nothing is lost; otherwise it is re-encoded. The result has the stitched badge; the Filter has **Stitched Videos Only**. Edit Segments works on a stitched video like any other.
+Select two or more videos in the Gallery and tap **Stitch** in the bottom bar. Livo lists the clips in the order they were taken, the total running time, and where the result will go (where the first clip lives). **Stitch** makes one new video of all of them, end to end. When the clips are all the same way up it is joined without re-encoding, so nothing is lost; otherwise it is re-encoded. **Stop** works at any time before saving starts: it cancels the join, removes any partial file and says "Stopped; nothing was saved." Clips with no date go last, and the result is dated by the earliest dated clip. The result has the stitched badge; the Filter has **Stitched Videos Only**. Edit Segments works on a stitched video like any other.
 
 ## What Livo does not do
 

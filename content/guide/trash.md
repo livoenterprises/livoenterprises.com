@@ -1,8 +1,8 @@
 ---
 title: Trash, and what Livo never deletes
 description: The two steps of deleting, what Empty Trash really removes, and the things Livo will never touch.
-version: 1
-updated: 2026-10-07
+version: 2
+updated: 2026-10-14
 order: 18
 app: guide
 screen: trash
@@ -18,6 +18,7 @@ Deleting a photo, Memory, capsule, person or place moves it to [Organize › Tra
 - A **photo**: Livo's record and its small copy. The photo in Photos or OneDrive is untouched, and Livo remembers not to import it again.
 - A **Memory**: the story, order and narration.
 - A **Time Capsule**: its record and its file on this phone (a Keepsake's copy in OneDrive is never removed).
+- A **Bucket**: only the empty Bucket itself. Deleting a Bucket first sends its photos back to the Gallery.
 - A **person** or **place**: the entry itself. Restoring a merged person or place undoes the merge.
 
 The confirmation names the consequence for that kind of thing.

@@ -1,8 +1,8 @@
 ---
 title: Family Share
 description: Sharing Memories, photos and capsules with your whole family through your own OneDrive, and seeing what they share with you.
-version: 1
-updated: 2026-10-07
+version: 2
+updated: 2026-10-14
 order: 14
 app: guide
 screen: family
@@ -25,6 +25,8 @@ A Memory video shared this way is a plain video the family can play in the OneDr
 
 The Organize book and the Gallery's **+** carry a badge when the family has shared something new; **Import from Family Share** under **+** brings in everything new at once. While Livo is closed, a quiet notification may tell you the family shared something.
 
+If more than one of your Microsoft accounts is signed in, Livo reads every one: each section header says which account it came through, an entry reachable through two accounts is listed once, and an account that needs a new sign-in is named and skipped.
+
 ## Clearing your folder
 
-Settings › OneDrive Accounts › Family Share › **Clear Family Share** deletes the files you shared from your own folder, after asking. It never touches anyone else's.
+Settings › OneDrive Accounts › Family Share › **Clear Family Share** deletes the files Livo shared from your own folder, after asking. It deletes only files on Livo's own list and says "Removed 8 of 8 listed; 2 other files left alone" if there were others. It never touches anyone else's folder.

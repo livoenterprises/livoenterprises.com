@@ -1,8 +1,8 @@
 ---
 title: Describing a Moment
 description: Giving a Moment its story, tags and place in one go, and editing a single photo's details.
-version: 1
-updated: 2026-10-07
+version: 2
+updated: 2026-10-14
 order: 7
 app: guide
 screen: describe
@@ -11,7 +11,7 @@ lede: One sheet gives every photo in a Moment the same story, tags and place. Ph
 
 ## Describe the Moment
 
-[Open the Gallery](livo://gallery), pick a Moment, and tap the **tag icon** beside the date. Type or dictate the **Story**, add **Tags** (suggestions come from nearby Moments), and set a **Place** (type a few letters, or **Pick from Places…**). Then tap **Next**: Livo writes them onto every photo in the Moment and moves to the next Moment that has no story yet. **Previous** goes back; **Done** saves and closes.
+[Open the Gallery](livo://gallery), pick a Moment, and tap the **tag icon** beside the date. Type or dictate the **Story**, add **Tags** (suggestions come from nearby Moments; the story-to-tags icon beside the Tags row lists the story's words so you can pick the ones you want, and Livo never adds tags from a story on its own), and set a **Place** (type a few letters, or **Pick from Places…**). Then tap **Next**: Livo writes them onto every photo in the Moment and moves to the next Moment that has no story yet. **Previous** goes back; **Done** saves and closes.
 
 Livo fills in blanks and replaces only what the sheet itself wrote before. A photo whose story or place you changed by hand keeps it — the saved line tells you how many "kept their own story". **Overwrite all** (the orange switch) is the exception: it asks first, then replaces the story, the whole tag list and the place on every photo. **Undo** takes the last save back exactly.
 
@@ -25,4 +25,4 @@ After you add a person or place, **Also in this Moment?** offers the other photo
 
 ## The tagging screen
 
-Select several photos and tap **Tag** in the bottom bar to add or remove people, places and tags on all of them at once. Nothing is written until you tap **Apply**.
+Select several photos and tap **Tag** in the bottom bar to add or remove people, places and tags on all of them at once. A story you type is added only to photos that have none; if some already have one, Livo asks whether to **Keep Theirs, Add Where Empty** or **Replace Theirs**. The tags the photos already have are listed, each with a minus that removes it from every selected photo. On a single photo, what you write replaces its story and its tag list. Nothing is written until you tap **Apply**, and a draft you have not applied is kept if you close Livo.

@@ -1,8 +1,8 @@
 ---
 title: Naming the faces
 description: How Livo helps you name everyone in a Moment, quickly and by hand.
-version: 1
-updated: 2026-10-07
+version: 2
+updated: 2026-10-14
 order: 6
 app: guide
 screen: faces
@@ -20,7 +20,7 @@ lede: Livo finds the faces; you say who they are. It never guesses a name.
 3. Tap **Apply**. Those chips leave the grid and the photos are tagged with that person.
 4. Pick the next person. When everyone left is one person, **Everyone else is…** names them all at once.
 
-Long-press a chip for **Not a face**, **Don't name** (a stranger), **Hide for now**, or **Show the photo**. **Skip rest** marks everything left as Don't name, after asking.
+Long-press a chip for **Not a face**, **Don't name** (a stranger), **Hide for now**, or **Show the photo**. **Skip rest** marks everything left as Don't name, after asking. Faces you marked **Not a face** wait in a collapsed row at the bottom, "Not faces (3)"; open it and tap a chip, or its **Restore**, to put that face back as unnamed.
 
 ## Review
 

@@ -1,8 +1,8 @@
 ---
 title: Moments and the Gallery
 description: Browsing by Moment, All Moments, Marked photos, and what the selection row does.
-version: 2
-updated: 2026-10-09
+version: 3
+updated: 2026-10-14
 order: 4
 app: guide
 screen: gallery
@@ -19,11 +19,11 @@ Beside the date are two small icons: the **face** opens Name the Faces for this 
 
 ## Marked photos
 
-Swipe a photo up to mark it (thumbs up), down to hide it from Memories (thumbs down). The **N Marked** pill shows how many are marked across the whole library; tap it to see only them. Marked photos are the set a new Memory is made from — see [Making a Memory](/guide/making-a-memory.html).
+Swipe a photo up to mark it (thumbs up), down to hide it from Memories (thumbs down). The **N Marked** pill shows how many marked photos the library has (photos in the Trash, in a Bucket, or hidden by Hide Thumbs Down are not counted); tap it to see only them. Marked photos are the set a new Memory is made from — see [Making a Memory](/guide/making-a-memory.html).
 
 ## Selecting photos
 
-Tap a photo to select it; keep dragging to select more. A row appears under the header: **Select All / Unselect All** (what is on screen), **Mark Selected** (thumbs up on the selection only), **Unmark All** (clears every mark in the whole library; nothing else changes), and **Share**. The bar at the bottom offers what you can do with the selection: Info and Find Moment (one photo), Tag, Rotate, Set Date, Stitch (videos), Move to Bucket, Delete, Make a Video.
+Tap a photo to select it; keep dragging to select more. A row appears under the header: **Select All / Unselect All** (what is on screen), **Mark Selected** (thumbs up on the selection only), **Unmark Selected** (takes the thumbs up off the selected photos only), and **Share**. The bar at the bottom offers what you can do with the selection: Info and Find Moment (one photo), Tag, Rotate, Set Date, Stitch (videos), Move to Bucket (the lock), and Delete, which asks first and moves the photos to the Trash.
 
 ## Opening a photo
 
