@@ -65,6 +65,7 @@ Own your data · Technology that serves you · Building with AI · Keeping memor
 
 ## When a second product ships
 
-Add `livominder.html` (copy `livocapsule.html`), link it from the Products
-section of `index.html`, and change the first nav link on every page from
-"LivoCapsule" to "Products" pointing at `/#products`.
+The Products page (`products.html`) is the listing, and the first link in the
+navigation. Add the new product's panel there and on the front page, and add
+a page for it (`livominder.html`, copied from `livocapsule.html`) that the
+panel's title links to.

@@ -322,3 +322,5 @@ nav.pager a { display: block; max-width: 48%; }
 nav.pager small { display: block; color: var(--ink-soft); font-size: 0.82rem; letter-spacing: 0.02em; }
 nav.pager .next { margin-left: auto; text-align: right; }
 @media (max-width: 40rem) { nav.pager a { max-width: 100%; } nav.pager .next { text-align: left; margin-left: 0; } }
+
+article.product + p.small { margin-top: 0.9rem; }

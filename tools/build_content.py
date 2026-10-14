@@ -89,7 +89,7 @@ GUIDE_GROUPS = [
 TEMPLATE = ROOT / "tools" / "page_template.html"
 POST_TEMPLATE = ROOT / "tools" / "post_template.html"
 SITE = "https://livoenterprises.com"
-NAV_ITEMS = [("LivoCapsule", "/livocapsule.html"), ("About", "/about.html"),
+NAV_ITEMS = [("Products", "/products.html"), ("About", "/about.html"),
              ("Notes", "/blog/"), ("Support", "/support.html")]
 ALLOWED_KEYS = {"title", "description", "version", "updated", "web", "nav",
                 "style", "app", "lede", "order", "screen"}
@@ -101,7 +101,7 @@ IMAGE_MAX_BYTES = 500 * 1024  # bytes; larger is a warning
 IMAGE_TYPES = {".jpg", ".jpeg", ".png", ".webp", ".gif", ".svg"}
 # Pages that are not generated but belong in the sitemap, with the file
 # whose last commit date is their lastmod.
-FIXED_PAGES = [("", "index.html"), ("about.html", "about.html"),
+FIXED_PAGES = [("", "index.html"), ("products.html", "products.html"), ("about.html", "about.html"),
                ("livocapsule.html", "livocapsule.html"), ("blog/", "blog/index.html")]
 MARK_BEGIN = "<!-- POSTS:begin -->"
 MARK_END = "<!-- POSTS:end -->"
@@ -226,7 +226,7 @@ def rfc822(iso, path):
 def nav_html(current):
     out = []
     for label, href in NAV_ITEMS:
-        cur = ' aria-current="page"' if label == current else ""
+        cur = ' aria-current="page"' if (label == current or (label == "Products" and current == "LivoCapsule")) else ""
         out.append(f'      <a href="{href}"{cur}>{label}</a>')
     return "\n".join(out)
 
