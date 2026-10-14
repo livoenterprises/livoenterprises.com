@@ -2,6 +2,23 @@
    One typeface (Newsreader), a paper-and-ink palette, no framework.
    Colors live on :root so light/dark is a single switch. */
 
+/* Newsreader, hosted here (SIL Open Font License, see /assets/fonts/OFL.txt).
+   No request leaves this site to load type. */
+@font-face {
+  font-family: "Newsreader";
+  font-style: normal;
+  font-weight: 200 800;
+  font-display: swap;
+  src: url("fonts/newsreader-latin-opsz-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Newsreader";
+  font-style: italic;
+  font-weight: 200 800;
+  font-display: swap;
+  src: url("fonts/newsreader-latin-wght-italic.woff2") format("woff2");
+}
+
 :root {
   --paper: #f5f4ef;
   --ink: #23262c;
@@ -10,6 +27,8 @@
   --brass: #8a6218;
   --brass-soft: #f0e6cf;
   --well: #ebe9e2;
+  --card: #faf9f5;
+  --on-brass: #fbfaf6;
   --max: 40rem;
 }
 @media (prefers-color-scheme: dark) {
@@ -21,6 +40,8 @@
     --brass: #d1a84f;
     --brass-soft: #2c2610;
     --well: #1f2227;
+    --card: #1c1f24;
+    --on-brass: #17191d;
   }
 }
 
@@ -82,8 +103,8 @@ footer.site a { color: var(--ink-soft); }
 
 /* Type scale — 1.25 ratio */
 h1, h2, h3 { font-weight: 500; line-height: 1.15; margin: 0; letter-spacing: -0.01em; }
-h1 { font-size: 2.45rem; }
-h2 { font-size: 1.55rem; margin-top: 3rem; }
+h1 { font-size: clamp(2.2rem, 1.6rem + 2.4vw, 3rem); letter-spacing: -0.02em; text-wrap: balance; }
+h2 { font-size: 1.6rem; margin-top: 3.4rem; text-wrap: balance; }
 h3 { font-size: 1.15rem; margin-top: 2rem; }
 h2 + p, h3 + p { margin-top: 0.6rem; }
 p { margin: 0 0 1.1rem; }
@@ -221,3 +242,83 @@ p.updated { color: var(--ink-soft); font-size: 0.92rem; margin: 0.6rem 0 1.4rem;
 article.post figure { margin: 2rem 0; }
 article.post figure img { width: 100%; border-radius: 4px; }
 article.post figcaption { color: var(--ink-soft); font-size: 0.9rem; margin-top: 0.5rem; }
+
+
+/* ---- Refresh (Oct 2026): buttons, promise strip, cards, product panel ---- */
+
+/* Buttons */
+.btn {
+  display: inline-block;
+  background: var(--brass); color: var(--on-brass);
+  padding: 0.6rem 1.15rem; border-radius: 4px;
+  font-weight: 500; line-height: 1.2;
+  border: 1px solid var(--brass);
+}
+.btn:hover, .btn:focus-visible { background: var(--ink); border-color: var(--ink); color: var(--paper); text-decoration: none; }
+.status-pill {
+  display: inline-block;
+  font-size: 0.86rem; line-height: 1.2; font-style: italic;
+  color: var(--ink-soft);
+  border: 1px solid var(--rule); border-radius: 999px;
+  padding: 0.3rem 0.8rem;
+}
+.cta.top { border-top: 0; padding-top: 0; margin: 0.4rem 0 2.2rem; align-items: center; }
+.cta.bare { border-top: 0; padding-top: 0; margin-top: 1.2rem; align-items: center; }
+
+/* The promise strip: four short facts under the opening line */
+ul.strip {
+  list-style: none; margin: 2rem 0 0; padding: 1.1rem 0 0;
+  display: grid; grid-template-columns: repeat(4, 1fr); gap: 1rem 1.2rem;
+  border-top: 1px solid var(--rule);
+}
+ul.strip li { margin: 0; line-height: 1.3; }
+ul.strip b { display: block; font-weight: 500; color: var(--ink); font-size: 1rem; }
+ul.strip span { display: block; margin-top: 0.15rem; font-size: 0.86rem; color: var(--ink-soft); }
+@media (max-width: 40rem) { ul.strip { grid-template-columns: repeat(2, 1fr); } }
+
+/* A product panel on the home page */
+article.product {
+  margin: 1.4rem 0 0; padding: 1.5rem 1.6rem 1.6rem;
+  background: var(--card); border: 1px solid var(--rule); border-top: 3px solid var(--brass);
+  border-radius: 3px;
+}
+article.product h3 { margin: 0; font-size: 1.5rem; }
+article.product h3 a { color: var(--ink); }
+article.product h3 a:hover { color: var(--brass); text-decoration: none; }
+article.product .product-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.4rem 0.9rem; }
+article.product p { margin: 0.8rem 0 0; }
+article.product.quiet { background: transparent; border-top: 1px solid var(--rule); padding: 1.1rem 1.6rem 1.2rem; }
+article.product.quiet h3 { font-size: 1.2rem; color: var(--ink); }
+
+/* Feature cards on the product page. The grid is a little wider than the text column. */
+.breakout {
+  position: relative; left: 50%; transform: translateX(-50%);
+  width: min(58rem, calc(100vw - 2.5rem));
+}
+dl.cards { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 1.6rem 0 0; }
+dl.cards .card {
+  background: var(--card); border: 1px solid var(--rule); border-radius: 3px;
+  padding: 1.15rem 1.3rem 1.25rem;
+}
+dl.cards .card.span { grid-column: 1 / -1; background: var(--well); border-left: 3px solid var(--brass); }
+dl.cards dt { margin: 0; font-size: 1.08rem; color: var(--brass); }
+dl.cards dd { margin: 0.4rem 0 0; font-size: 0.98rem; line-height: 1.5; }
+@media (max-width: 46rem) { dl.cards { grid-template-columns: 1fr; } }
+
+/* Phone screenshots, for when they exist: <div class="shots"><figure class="phone"><img ...></figure>...</div> */
+.shots { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin: 2rem 0; }
+figure.phone { margin: 0; width: min(13rem, 42vw); }
+figure.phone img { border-radius: 1.6rem; border: 1px solid var(--rule); box-shadow: 0 8px 24px rgba(0,0,0,0.12); }
+figure.phone figcaption { margin-top: 0.6rem; text-align: center; font-size: 0.86rem; color: var(--ink-soft); }
+
+/* Guide: grouped index and previous/next */
+.guide-group { margin-top: 2.4rem; }
+.guide-group h2 { font-size: 0.82rem; margin: 0; color: var(--ink-soft); font-weight: 500; text-transform: uppercase; letter-spacing: 0.12em; }
+nav.pager {
+  display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;
+  margin: 3.4rem 0 0; padding-top: 1.2rem; border-top: 1px solid var(--rule);
+}
+nav.pager a { display: block; max-width: 48%; }
+nav.pager small { display: block; color: var(--ink-soft); font-size: 0.82rem; letter-spacing: 0.02em; }
+nav.pager .next { margin-left: auto; text-align: right; }
+@media (max-width: 40rem) { nav.pager a { max-width: 100%; } nav.pager .next { text-align: left; margin-left: 0; } }

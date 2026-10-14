@@ -1,7 +1,7 @@
 ---
 title: Memory Lane
 description: Where your Memories live, Live and Sealed, and what the Share menu offers.
-version: 2
+version: 3
 updated: 2026-10-14
 order: 10
 app: guide
@@ -24,4 +24,4 @@ The review screen shows the story in full, with **Edit**, **Play** for the narra
 
 ## Filtering
 
-The Gallery's Filter also narrows Memory Lane — the banner under the Live/Sealed row says what is on; its ✕ clears it. **From Family Only** shows only Memories and capsules the family sent you; they carry "From <name>".
+The Gallery's Filter also narrows Memory Lane — the banner under the Live/Sealed row says what is on; its ✕ clears it. **From Family Only** shows only Memories and capsules the family sent you; each one is marked "From" and the sender's name.

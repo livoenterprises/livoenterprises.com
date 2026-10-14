@@ -17,10 +17,8 @@
   <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
   <link rel="icon" href="/assets/favicon-32.png" sizes="32x32" type="image/png">
   <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/assets/style.css?v=4">
+  <link rel="preload" href="/assets/fonts/newsreader-latin-opsz-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/assets/style.css?v=6">
 </head>
 <body>
 <header class="site">
@@ -54,13 +52,18 @@
 <p>Tap a selected photo, or double-tap any photo, to see it full screen. Swipe between photos, pinch to zoom, pull down to close. A LIVE pill plays a Live Photo. The buttons under a photo include Info, Rotate, Edit Photo and, on a video, Edit Segments — see <a href="/guide/editing-photos-and-videos.html">Editing photos and videos</a>. If the full-size picture cannot be shown, the caption under it says why — see <a href="/guide/when-something-looks-wrong.html">When something looks wrong</a>.</p>
 <h2>The badges on a photo</h2>
 <p>A small mark in the corner tells you what a photo is: video, LIVE, stitched, used in a Memory, in a Bucket, a scanned print, or <strong>Aa</strong> when Livo has read text on it.</p>
+    <nav class="pager" aria-label="More topics">
+      <a class="prev" href="/guide/scan-prints.html"><small>&larr; Previous</small>Scan Prints</a>
+      <a class="next" href="/guide/finding-photos.html"><small>Next &rarr;</small>Finding photos</a>
+    </nav>
+
   </div>
 </main>
 
 <footer class="site">
   <div class="wrap">
     <span>&copy; 2026 Livo Enterprises LLC &middot; Technology for living well</span>
-    <span><a href="/privacy.html">Privacy</a> &nbsp; <a href="/feed.xml">RSS</a> &nbsp; <a href="mailto:support@livoenterprises.com">Contact</a></span>
+    <span><a href="/guide/">Guide</a> &nbsp; <a href="/support.html">Support</a> &nbsp; <a href="/privacy.html">Privacy</a> &nbsp; <a href="/feed.xml">RSS</a> &nbsp; <a href="mailto:support@livoenterprises.com">Contact</a></span>
   </div>
 </footer>
 </body>

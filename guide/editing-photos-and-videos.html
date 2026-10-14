@@ -17,10 +17,8 @@
   <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
   <link rel="icon" href="/assets/favicon-32.png" sizes="32x32" type="image/png">
   <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/assets/style.css?v=4">
+  <link rel="preload" href="/assets/fonts/newsreader-latin-opsz-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/assets/style.css?v=6">
 </head>
 <body>
 <header class="site">
@@ -63,13 +61,18 @@
 <p>Select two or more videos in the Gallery and tap <strong>Stitch</strong> in the bottom bar. Livo lists the clips in the order they were taken, the total running time, and where the result will go (where the first clip lives). <strong>Stitch</strong> makes one new video of all of them, end to end. When the clips are all the same way up it is joined without re-encoding, so nothing is lost; otherwise it is re-encoded. <strong>Stop</strong> works at any time before saving starts: it cancels the join, removes any partial file and says &ldquo;Stopped; nothing was saved.&rdquo; Clips with no date go last, and the result is dated by the earliest dated clip. The result has the stitched badge; the Filter has <strong>Stitched Videos Only</strong>. Edit Segments works on a stitched video like any other.</p>
 <h2>What Livo does not do</h2>
 <p>Trim a video in place, change its speed, add titles or music, or edit sound. A Memory is the place to put photos and clips together with a story and your voice — see <a href="/guide/making-a-memory.html">Making a Memory</a>.</p>
+    <nav class="pager" aria-label="More topics">
+      <a class="prev" href="/guide/describing-a-moment.html"><small>&larr; Previous</small>Describing a Moment</a>
+      <a class="next" href="/guide/people-places-and-more.html"><small>Next &rarr;</small>People, Places, Life Events, Tags and Buckets</a>
+    </nav>
+
   </div>
 </main>
 
 <footer class="site">
   <div class="wrap">
     <span>&copy; 2026 Livo Enterprises LLC &middot; Technology for living well</span>
-    <span><a href="/privacy.html">Privacy</a> &nbsp; <a href="/feed.xml">RSS</a> &nbsp; <a href="mailto:support@livoenterprises.com">Contact</a></span>
+    <span><a href="/guide/">Guide</a> &nbsp; <a href="/support.html">Support</a> &nbsp; <a href="/privacy.html">Privacy</a> &nbsp; <a href="/feed.xml">RSS</a> &nbsp; <a href="mailto:support@livoenterprises.com">Contact</a></span>
   </div>
 </footer>
 </body>

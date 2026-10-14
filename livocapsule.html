@@ -16,10 +16,8 @@
   <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
   <link rel="icon" href="/assets/favicon-32.png" sizes="32x32" type="image/png">
   <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/assets/style.css?v=3">
+  <link rel="preload" href="/assets/fonts/newsreader-latin-opsz-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/assets/style.css?v=6">
 </head>
 <body>
 <header class="site">
@@ -38,6 +36,11 @@
   <div class="wrap">
     <h1>LivoCapsule</h1>
     <p class="lede">Seal a memory into one file. Send it to anyone. It opens in a web browser, today and in fifty years, with nothing to install.</p>
+
+    <div class="cta top">
+      <span class="status-pill">for iPhone &middot; coming to the App Store</span>
+      <a class="btn" href="mailto:support@livoenterprises.com?subject=LivoCapsule%20interest">Email to express your interest</a>
+    </div>
 
     <p>The name comes from the time capsule: the box a family or a town fills with the things that matter, seals, and puts away for safekeeping so that people generations later can open it and see who came before them. A Livo Time Capsule is the same idea for the photos, voices and stories on your phone.</p>
 
@@ -61,36 +64,32 @@
     </div>
 
     <h2>What it does</h2>
-    <dl>
-      <dt>Makes a memory from photos you already have</dt>
-      <dd>Pick photos and videos from your library, put them in order, and write the story. Or say it: hold the microphone and talk. LivoCapsule keeps the recording with the pictures.</dd>
-
-      <dt>Seals it</dt>
-      <dd>One tap produces the capsule file and offers to share it by Messages, AirDrop, email or a USB stick. The capsule also stays in your Files app, where you can copy it anywhere you like.</dd>
-
-      <dt>Opens anywhere</dt>
-      <dd>The recipient doesn't need LivoCapsule, an Apple device, or an account. A browser is enough. The original photos are inside, full size, so they can be printed or kept.</dd>
-
-      <dt>Opens again in LivoCapsule, exactly as it was made</dt>
-      <dd>A capsule never needs LivoCapsule. A browser will always do. But if the iPhone and LivoCapsule are still around when your great-grandchildren find it, they can bring the capsule back into the app and see the Memory just as it was sealed: the same photos in the same order, the same layout, the same words and the same voice. What your grandmother put together fifty years ago appears the way she arranged it. It comes in as a faithful, read-only original, and anyone who wants to build on it can make their own copy and leave hers untouched.</dd>
-
-      <dt>Keeps the originals original</dt>
-      <dd>Your photos stay in your photo library. LivoCapsule never deletes or alters them. A capsule holds copies; the library stays yours.</dd>
-
-      <dt>Works with your own cloud, if you have one</dt>
-      <dd>LivoCapsule can read photos stored in a Microsoft OneDrive account you sign into and, if you choose, keep copies of your backups and capsules there and share with your family through a folder in your own OneDrive. Livo Enterprises runs no servers of its own and never sees your photos.</dd>
-
-      <dt>Finds what you mean</dt>
-      <dd>Livo Search understands plain requests, such as "Elise at the lake" or "when Tom was born," and shows what it understood as chips you can correct with a tap. It only finds photos and never changes anything, and it works entirely on the phone.</dd>
+    <div class="breakout">
+    <dl class="cards">
+      <div class="card"><dt>Makes a memory from photos you already have</dt><dd>Pick photos and videos from your library, put them in order, and write the story. Or say it: hold the microphone and talk. LivoCapsule keeps the recording with the pictures.</dd></div>
+      <div class="card"><dt>Seals it</dt><dd>One tap produces the capsule file and offers to share it by Messages, AirDrop, email or a USB stick. The capsule also stays in your Files app, where you can copy it anywhere you like.</dd></div>
+      <div class="card"><dt>Opens anywhere</dt><dd>The recipient doesn't need LivoCapsule, an Apple device, or an account. A browser is enough. The original photos are inside, full size, so they can be printed or kept.</dd></div>
+      <div class="card"><dt>Keeps the originals original</dt><dd>Your photos stay in your photo library. LivoCapsule never deletes or alters them. A capsule holds copies; the library stays yours.</dd></div>
+      <div class="card span"><dt>Opens again in LivoCapsule, exactly as it was made</dt><dd>A capsule never needs LivoCapsule. A browser will always do. But if the iPhone and LivoCapsule are still around when your great-grandchildren find it, they can bring the capsule back into the app and see the Memory just as it was sealed: the same photos in the same order, the same layout, the same words and the same voice. What your grandmother put together fifty years ago appears the way she arranged it. It comes in as a faithful, read-only original, and anyone who wants to build on it can make their own copy and leave hers untouched.</dd></div>
+      <div class="card"><dt>Works with your own cloud, if you have one</dt><dd>LivoCapsule can read photos stored in a Microsoft OneDrive account you sign into and, if you choose, keep copies of your backups and capsules there and share with your family through a folder in your own OneDrive. Livo Enterprises runs no servers of its own and never sees your photos.</dd></div>
+      <div class="card"><dt>Finds what you mean</dt><dd>Livo Search understands plain requests, such as "Elise at the lake" or "when Tom was born," and shows what it understood as chips you can correct with a tap. It only finds photos and never changes anything, and it works entirely on the phone.</dd></div>
     </dl>
+    </div>
+
+    <!-- SCREENSHOTS: when phone screenshots exist, put them in /assets/shots/ (PNG or WebP, about 600 px wide)
+         and uncomment this block, one <figure> per screenshot:
+    <div class="shots">
+      <figure class="phone"><img src="/assets/shots/gallery.png" alt="The Gallery" width="600" height="1300" loading="lazy"><figcaption>Your Moments</figcaption></figure>
+    </div>
+    -->
 
     <h2>Buying it</h2>
     <p>LivoCapsule is a one-time purchase. There is no subscription and no trial that expires. It supports Apple's Family Sharing, so one purchase covers your family's devices.</p>
     <p>Everything works for free: bring in photos, name people and places, search, back up, seal capsules and share with your family. A free copy lets you create five Memories in all; the one-time purchase, Livo Full, lets you create as many as you like. Nothing you have made is ever locked away, and everything you have already made stays yours to view and edit.</p>
 
-    <div class="cta">
-      <span class="primary" aria-disabled="true">Coming to the App Store</span>
-      <a href="mailto:support@livoenterprises.com?subject=LivoCapsule%20interest">Email to express your interest</a>
+    <div class="cta bare">
+      <span class="status-pill">Coming to the App Store</span>
+      <a class="btn" href="mailto:support@livoenterprises.com?subject=LivoCapsule%20interest">Email to express your interest</a>
     </div>
     <p class="small">We&rsquo;ll use your email only to tell you when LivoCapsule is available.</p>
 
@@ -101,7 +100,7 @@
 <footer class="site">
   <div class="wrap">
     <span>&copy; 2026 Livo Enterprises LLC &middot; Technology for living well</span>
-    <span><a href="/privacy.html">Privacy</a> &nbsp; <a href="/feed.xml">RSS</a> &nbsp; <a href="mailto:support@livoenterprises.com">Contact</a></span>
+    <span><a href="/guide/">Guide</a> &nbsp; <a href="/support.html">Support</a> &nbsp; <a href="/privacy.html">Privacy</a> &nbsp; <a href="/feed.xml">RSS</a> &nbsp; <a href="mailto:support@livoenterprises.com">Contact</a></span>
   </div>
 </footer>
 </body>

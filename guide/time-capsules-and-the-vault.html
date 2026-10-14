@@ -17,10 +17,8 @@
   <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
   <link rel="icon" href="/assets/favicon-32.png" sizes="32x32" type="image/png">
   <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/assets/style.css?v=4">
+  <link rel="preload" href="/assets/fonts/newsreader-latin-opsz-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/assets/style.css?v=6">
 </head>
 <body>
 <header class="site">
@@ -54,13 +52,18 @@
 <p><strong>Import</strong> at the top takes a capsule file from Files. Its photos go into your Camera Roll and your Gallery, and the Memory appears in Memory Lane — see <a href="/guide/sending-to-someone.html">Sending to someone</a>.</p>
 <h2>Older versions</h2>
 <p>Re-sealing a Memory makes a new capsule and keeps the old one under Older Versions; nothing you sealed is ever thrown away by Livo.</p>
+    <nav class="pager" aria-label="More topics">
+      <a class="prev" href="/guide/memory-lane.html"><small>&larr; Previous</small>Memory Lane</a>
+      <a class="next" href="/guide/sending-to-someone.html"><small>Next &rarr;</small>Sending to someone</a>
+    </nav>
+
   </div>
 </main>
 
 <footer class="site">
   <div class="wrap">
     <span>&copy; 2026 Livo Enterprises LLC &middot; Technology for living well</span>
-    <span><a href="/privacy.html">Privacy</a> &nbsp; <a href="/feed.xml">RSS</a> &nbsp; <a href="mailto:support@livoenterprises.com">Contact</a></span>
+    <span><a href="/guide/">Guide</a> &nbsp; <a href="/support.html">Support</a> &nbsp; <a href="/privacy.html">Privacy</a> &nbsp; <a href="/feed.xml">RSS</a> &nbsp; <a href="mailto:support@livoenterprises.com">Contact</a></span>
   </div>
 </footer>
 </body>

@@ -17,10 +17,8 @@
   <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
   <link rel="icon" href="/assets/favicon-32.png" sizes="32x32" type="image/png">
   <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/assets/style.css?v=4">
+  <link rel="preload" href="/assets/fonts/newsreader-latin-opsz-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/assets/style.css?v=6">
 </head>
 <body>
 <header class="site">
@@ -51,13 +49,18 @@
 <p>Tap a backup in the list — on the phone, or under <strong>Backups in OneDrive</strong> — and <strong>Restore</strong>. Restoring replaces what Livo has now (your photos&rsquo; records, people, places, tags, stories, Memories and learned search data) with what the backup holds; this cannot be undone. It does not touch your Time Capsule files, your OneDrive, what your family already shared with you, or your Camera Roll. Swiping a backup on the phone to delete it asks first; a copy in OneDrive stays. On the same phone, every photo links back at once.</p>
 <h2>A new phone</h2>
 <p>Install Livo, allow access to Photos, and restore the backup. Livo finds each photo in the new phone&rsquo;s library by its iCloud identity, then by its content, and re-links it; a photo it cannot find keeps its record and small copy, and is counted (&ldquo;N photos not found on this phone&rdquo;). Sign in to OneDrive again for OneDrive photos. Copy your Time Capsules from the old phone&rsquo;s TimeCapsules folder, or from OneDrive › Livo Vault.</p>
+    <nav class="pager" aria-label="More topics">
+      <a class="prev" href="/guide/keeping-capsules-safe.html"><small>&larr; Previous</small>Keeping capsules safe</a>
+      <a class="next" href="/guide/trash.html"><small>Next &rarr;</small>Trash, and what Livo never deletes</a>
+    </nav>
+
   </div>
 </main>
 
 <footer class="site">
   <div class="wrap">
     <span>&copy; 2026 Livo Enterprises LLC &middot; Technology for living well</span>
-    <span><a href="/privacy.html">Privacy</a> &nbsp; <a href="/feed.xml">RSS</a> &nbsp; <a href="mailto:support@livoenterprises.com">Contact</a></span>
+    <span><a href="/guide/">Guide</a> &nbsp; <a href="/support.html">Support</a> &nbsp; <a href="/privacy.html">Privacy</a> &nbsp; <a href="/feed.xml">RSS</a> &nbsp; <a href="mailto:support@livoenterprises.com">Contact</a></span>
   </div>
 </footer>
 </body>

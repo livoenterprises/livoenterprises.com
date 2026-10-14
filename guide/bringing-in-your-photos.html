@@ -17,10 +17,8 @@
   <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
   <link rel="icon" href="/assets/favicon-32.png" sizes="32x32" type="image/png">
   <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/assets/style.css?v=4">
+  <link rel="preload" href="/assets/fonts/newsreader-latin-opsz-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/assets/style.css?v=6">
 </head>
 <body>
 <header class="site">
@@ -55,13 +53,18 @@
 <p>The <strong>+</strong> carries a number when there is something new to bring in: photos added to your Camera Roll since the last import, and things your family has shared. Each row shows its own count — &ldquo;Import from Camera Roll (4)&rdquo;, &ldquo;Import from Family Share (3)&rdquo;. The OneDrive number is counted only when you tap the refresh button left of the <strong>+</strong>, because counting it takes a moment. A photo Livo itself put in your Camera Roll (a scanned print, a family photo you added) is not counted as new.</p>
 <h2>Other ways photos arrive</h2>
 <p><span class="app-link" title="Opens this screen in Livo">Scan Prints</span> for printed photos, <span class="app-link" title="Opens this screen in Livo">Import from Family Share</span> for what the family shared, and a Time Capsule someone sent you — each of these puts the photo in your Camera Roll and in Livo in one step.</p>
+    <nav class="pager" aria-label="More topics">
+      <a class="prev" href="/guide/where-things-are.html"><small>&larr; Previous</small>Where things are</a>
+      <a class="next" href="/guide/scan-prints.html"><small>Next &rarr;</small>Scan Prints</a>
+    </nav>
+
   </div>
 </main>
 
 <footer class="site">
   <div class="wrap">
     <span>&copy; 2026 Livo Enterprises LLC &middot; Technology for living well</span>
-    <span><a href="/privacy.html">Privacy</a> &nbsp; <a href="/feed.xml">RSS</a> &nbsp; <a href="mailto:support@livoenterprises.com">Contact</a></span>
+    <span><a href="/guide/">Guide</a> &nbsp; <a href="/support.html">Support</a> &nbsp; <a href="/privacy.html">Privacy</a> &nbsp; <a href="/feed.xml">RSS</a> &nbsp; <a href="mailto:support@livoenterprises.com">Contact</a></span>
   </div>
 </footer>
 </body>

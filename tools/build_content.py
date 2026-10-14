@@ -74,6 +74,18 @@ except ImportError:
 
 ROOT = Path(__file__).resolve().parent.parent
 CONTENT = ROOT / "content"
+# Sections of the guide index, in reading order. Keys are file names without .md.
+GUIDE_GROUPS = [
+    ("Start here", ["getting-started", "where-things-are"]),
+    ("Your photos", ["bringing-in-your-photos", "scan-prints", "moments-and-the-gallery", "finding-photos",
+                     "naming-the-faces", "describing-a-moment", "editing-photos-and-videos",
+                     "people-places-and-more"]),
+    ("Memories and capsules", ["making-a-memory", "memory-lane", "time-capsules-and-the-vault",
+                               "sending-to-someone"]),
+    ("Family, cloud and safekeeping", ["family-share", "onedrive-and-your-accounts", "keeping-capsules-safe",
+                                       "backup-and-restore", "trash"]),
+    ("Settings and help", ["settings-and-your-look", "when-something-looks-wrong"]),
+]
 TEMPLATE = ROOT / "tools" / "page_template.html"
 POST_TEMPLATE = ROOT / "tools" / "post_template.html"
 SITE = "https://livoenterprises.com"
@@ -409,31 +421,64 @@ def main():
 
     # --- the guide ---------------------------------------------------
     guide = sorted(p for p in (CONTENT / "guide").glob("*.md") if p.name != "index.md")
-    entries = []
+    entries = []     # (order, meta, web, body, stem)
     for path in guide:
         meta, body = read_front_matter(path.read_text(encoding="utf-8"), path, ALLOWED_KEYS,
                                        ("title", "version", "updated"))
         check_subset(body, path)
         web = meta.get("web") or f"guide/{path.stem}.html"
         meta.setdefault("nav", "Support")
+        entries.append((int(meta.get("order", "999")), meta, web, body, path))
+    entries.sort(key=lambda e: (e[0], e[1]["title"]))
+
+    # The index shows the topics in sections. Sections live here, not in the
+    # content files, so the app's copies of the topics do not change. A topic
+    # that is not listed falls into "More", so a new topic never disappears.
+    groups = []
+    placed = set()
+    for gtitle, stems in GUIDE_GROUPS:
+        by_stem = {e[4].stem: e for e in entries}
+        members = [by_stem[st] for st in stems if st in by_stem]
+        placed.update(e[4].stem for e in members)
+        if members:
+            groups.append((gtitle, members))
+    rest = [e for e in entries if e[4].stem not in placed]
+    if rest:
+        groups.append(("More", rest))
+    sequence = [e for _, members in groups for e in members]   # reading order = index order
+
+    for i, (_, meta, web, body, path) in enumerate(sequence):
         back = '    <p class="small"><a href="/guide/">&larr; Livo guide</a></p>\n'
-        page = build_page(meta, render_body(body), web, f"guide/{path.name}", extra_top=back)
+        pager = ['\n    <nav class="pager" aria-label="More topics">']
+        if i > 0:
+            pm, pw = sequence[i - 1][1], sequence[i - 1][2]
+            pager.append(f'      <a class="prev" href="/{pw}"><small>&larr; Previous</small>'
+                         f'{html.escape(smart(pm["title"]), quote=False)}</a>')
+        if i < len(sequence) - 1:
+            nm, nw = sequence[i + 1][1], sequence[i + 1][2]
+            pager.append(f'      <a class="next" href="/{nw}"><small>Next &rarr;</small>'
+                         f'{html.escape(smart(nm["title"]), quote=False)}</a>')
+        pager.append("    </nav>")
+        page = build_page(meta, render_body(body) + "\n".join(pager) + "\n", web,
+                          f"guide/{path.name}", extra_top=back)
         write(ROOT / web, page)
-        entries.append((int(meta.get("order", "999")), meta, web))
         sitemap.append((web, meta["updated"]))
     if entries:
-        entries.sort(key=lambda e: (e[0], e[1]["title"]))
-        items = []
-        for _, meta, web in entries:
-            items.append(f'<li><a href="/{web}">{html.escape(smart(meta["title"]), quote=False)}</a>'
-                         f'<span class="sum">{html.escape(smart(meta.get("description", "")), quote=False)}</span></li>')
+        parts = []
+        for gtitle, members in groups:
+            items = []
+            for _, meta, web, _b, _p in members:
+                items.append(f'<li><a href="/{web}">{html.escape(smart(meta["title"]), quote=False)}</a>'
+                             f'<span class="sum">{html.escape(smart(meta.get("description", "")), quote=False)}</span></li>')
+            parts.append(f'<section class="guide-group">\n<h2>{html.escape(gtitle, quote=False)}</h2>\n'
+                         '<ul class="posts">\n' + "\n".join(items) + "\n</ul>\n</section>")
         newest = max(e[1]["updated"] for e in entries)
         index_meta = {"title": "Livo guide", "version": str(len(entries)),
                       "updated": newest,
                       "description": "How to use Livo, one topic at a time. The same pages are in the app under Organize › Guide.",
                       "nav": "Support",
                       "lede": "How to use Livo, one topic at a time. The same pages are inside the app."}
-        index_body = '<ul class="posts">\n' + "\n".join(items) + "\n</ul>\n"
+        index_body = "\n".join(parts) + "\n"
         page = build_page(index_meta, index_body, "guide/index.html", "guide/")
         page = page.replace("<p class=\"updated\">Version " + str(len(entries)),
                             "<p class=\"updated\">" + str(len(entries)) + " topics")
