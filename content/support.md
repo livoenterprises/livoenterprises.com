@@ -1,6 +1,6 @@
 ---
 title: Support
-description: Help with Livo (LivoCapsule): how to reach us, and answers to common questions.
+description: Help with Livo (LivoCapsule) - how to reach us, and answers to common questions.
 version: 3
 updated: 2026-10-14
 web: support.html
