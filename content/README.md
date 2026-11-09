@@ -55,7 +55,7 @@ description: One sentence: the summary under the title in lists and the feed.
 date: 2026-09-18
 updated: 2026-09-18
 topics: Own your data, Technology that serves you
-author: Ken Jones
+author: Livo Enterprises
 listed: yes
 front: yes
 draft: no

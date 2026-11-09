@@ -4,7 +4,7 @@ description: How LivoCapsule was built by describing it in plain English to an A
 date: 2026-09-18
 updated: 2026-09-18
 topics: Building with AI, Technology that serves you
-author: Ken Jones
+author: Livo Enterprises
 listed: no
 ---
 

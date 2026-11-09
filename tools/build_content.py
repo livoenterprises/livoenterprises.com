@@ -44,7 +44,7 @@ A note (content/blog/<slug>.md) is web-only; the app never shows it. Header:
     date: 2026-09-18           # published; the slug is the file name
     updated: 2026-09-18        # optional; defaults to date
     topics: Own your data, Technology that serves you
-    author: Ken Jones          # optional; this is the default
+    author: Livo Enterprises   # optional; this is the default
     listed: yes                # no = the page exists but is not in Notes, the feed or the front page
     front: yes                 # no = in Notes and the feed, not on the front page
     draft: no                  # yes = built with noindex, never listed; for looking at it before it goes out
@@ -276,7 +276,7 @@ def build_post(meta, body_html, web_path, source_name):
     topics = ", ".join(t.strip() for t in meta.get("topics", "").split(",") if t.strip())
     topics_html = (f'    <p class="topics">Filed under: {html.escape(topics, quote=False)}</p>\n'
                    if topics else "")
-    author = meta.get("author", "Ken Jones")
+    author = meta.get("author", "Livo Enterprises")
     noindex = ('  <meta name="robots" content="noindex">\n' if yes(meta.get("draft"), "no") else "")
     page = (template
             .replace("{{title}}", title)

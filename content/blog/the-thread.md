@@ -4,7 +4,7 @@ description: Owning your data and making devices work for you sound like two bel
 date: 2026-09-18
 updated: 2026-09-18
 topics: Own your data, Technology that serves you
-author: Ken Jones
+author: Livo Enterprises
 listed: yes
 ---
 
