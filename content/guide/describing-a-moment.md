@@ -1,28 +1,42 @@
 ---
-title: Describing a Moment
-description: Giving a Moment its story, tags and place in one go, and editing a single photo's details.
-version: 2
-updated: 2026-10-14
+title: Events and the story
+description: Naming what happened (an Event with its dates, people and places), writing a line of story on the photos, and tags.
+version: 3
+updated: 2026-11-09
 order: 7
 app: guide
 screen: describe
-lede: One sheet gives every photo in a Moment the same story, tags and place. Photos you have written on by hand are left alone.
+lede: A Moment is Livo's guess from the dates. An Event is what you say happened, and the story is how you would tell it.
 ---
 
-## Describe the Moment
+## What an Event is
 
-[Open the Gallery](livo://gallery), pick a Moment, and tap the **tag icon** beside the date. Type or dictate the **Story**, add **Tags** (suggestions come from nearby Moments; the story-to-tags icon beside the Tags row lists the story's words so you can pick the ones you want, and Livo never adds tags from a story on its own), and set a **Place** (type a few letters, or **Pick from Places…**). Then tap **Next**: Livo writes them onto every photo in the Moment and moves to the next Moment that has no story yet. **Previous** goes back; **Done** saves and closes.
+An Event has a name, the way you would say it ("Family beach trip 2024", "Emma's 5th birthday"), a first and last day, the people who were there, the places, and other names it goes by. One Event can cover many Moments, and two can overlap (a birthday in the middle of a vacation). A photo is in an Event only when you put it there; the dates alone never decide. Events live in [Organize › Events](livo://organize/events), in the Events row at the top of Memory Lane, in Tag the Moment and in search.
 
-Livo fills in blanks and replaces only what the sheet itself wrote before. A photo whose story or place you changed by hand keeps it — the saved line tells you how many "kept their own story". **Overwrite all** (the orange switch) is the exception: it asks first, then replaces the story, the whole tag list and the place on every photo. **Undo** takes the last save back exactly.
+## Putting photos in an Event
 
-Double-tap a photo in the strip to see it full screen while you write.
+Three ways, all the same list:
 
-## One photo at a time
+- **+ Event** on the Gallery's selection row, or on a Moment's header for the whole Moment. The list shows the past Events covering those dates, newest first, with **New event** at the top already filled with the photos' dates. Tap one and the photos are in it at once ("Added 12 to Zoo trip").
+- **Tag the Moment › Event** tab: type a few letters to find any event, or pick **Last used**, then Apply. See [Tag the Moment](/guide/tag-the-moment.html).
+- **Search**: when nothing matches what you typed, the card offers **Make it an event** with your words as its name.
 
-Open a photo full screen and tap the **tag icon** at the top to show the Details strip: **People · Places · Tags · Story**. Tap a chip to add or remove; type or say names in the box, with **Add** and **Replace**; **Same as previous** copies the people from the photo before. Every change saves at once, with one **Undo**. Livo never creates a person or place from a mistyped word: a name it does not know becomes a dashed chip that asks you.
+An Event's dates grow as you add photos from other days, so one Event can follow a whole trip. Choosing an Event while tagging lists its people and places as **From the event** picks, unticked: you tick who is in the frame and which stop this was.
 
-After you add a person or place, **Also in this Moment?** offers the other photos of the Moment that lack it, so one tap covers them all.
+## The story
 
-## The tagging screen
+The story is a sentence or a paragraph, in your words, written onto the photos themselves and into every capsule and gift. Write it in three places:
 
-Select several photos and tap **Tag** in the bottom bar to add or remove people, places and tags on all of them at once. A story you type is added only to photos that have none; if some already have one, Livo asks whether to **Keep Theirs, Add Where Empty** or **Replace Theirs**. The tags the photos already have are listed, each with a minus that removes it from every selected photo. On a single photo, what you write replaces its story and its tag list. Nothing is written until you tap **Apply**, and a draft you have not applied is kept if you close Livo.
+- **On one photo**: open it full screen and tap the tag icon for the Details strip (People · Places · Tags · Story), or tap **Edit** beside the big photo in Tag the Moment. A photo in an Event that has no story yet is offered the Event's name as a start.
+- **On several photos**: select them and tap **Tag** in the bottom bar. A story you type is added only to photos that have none; if some already have one, Livo asks whether to **Keep Theirs**, **Add Where Empty** or **Replace Theirs**. Nothing is written until you tap **Apply**.
+- **On a Memory**: the canvas has its own story, read aloud if you record it; see [Making a Memory](/guide/making-a-memory.html).
+
+**Show Names Instead of "I"** in Settings changes how a story reads on screen only; what you wrote is never rewritten.
+
+## Tags
+
+A tag is one word or two ("cabin", "first day of school") for things that are not a person, place or event. Add them on one photo's Details strip, or on a selection with **Tag**, where the tags the photos already have are listed, each with a minus that takes it off every selected photo. Livo never adds a tag on its own. The list of all your tags, with rename and merge, is a [Curator](/guide/curator.html) tool under Organize.
+
+## Undo
+
+Every save from these screens has an **Undo** that takes the last one back exactly, and in Tag the Moment you can undo as many steps as you like.

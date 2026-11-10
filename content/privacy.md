@@ -1,8 +1,8 @@
 ---
 title: Privacy Policy
 description: Privacy policy for Livo (LivoCapsule on the App Store) and other Livo Enterprises apps.
-version: 3
-updated: 2026-10-14
+version: 5
+updated: 2026-11-10
 web: privacy.html
 nav: Support
 style: policy
@@ -67,7 +67,7 @@ In Settings, the Send Feedback button at the bottom (in the About section) opens
 
 ## Purchases
 
-Livo is sold through the App Store. Apple processes the payment and tells the app only that a purchase was made. We do not receive your name, payment details or Apple ID. Livo Full is a one-time purchase and there is no subscription.
+Livo is free. Livo Plus, its one purchase, is sold through the App Store. Apple processes the payment and tells the app only that a purchase was made. We do not receive your name, payment details or Apple ID. Livo Plus is a one-time purchase and there is no subscription.
 
 ## Children
 

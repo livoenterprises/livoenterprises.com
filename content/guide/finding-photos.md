@@ -1,9 +1,9 @@
 ---
 title: Finding photos
 description: The Filter and Livo Search — the two ways to find photos by who, where, when and what.
-version: 2
-updated: 2026-10-14
-order: 5
+version: 3
+updated: 2026-11-09
+order: 8
 app: guide
 screen: search
 lede: Filter narrows the Gallery by what you pick. Livo Search finds photos from a few words, and shows what it understood.
@@ -11,7 +11,7 @@ lede: Filter narrows the Gallery by what you pick. Livo Search finds photos from
 
 ## Filter
 
-[Open the Filter](livo://gallery/filter) from the funnel at the top left of the Gallery. Pick people (any of them, or all of them together), places, tags, a year, month or day, and switches such as Favorites Only, Hide Thumbs Down (which stays on until you turn it off once), Faces Not All Named, No Faces, No Place, From Family Only, Scanned Prints Only, Photos or Videos. The filter keeps the Moment you are in and skips Moments with nothing in them; a banner at the top says what is on, and its ✕ clears it. The same filter also narrows Memory Lane.
+[Open the Filter](livo://gallery/filter) from the funnel at the top left of the Gallery. Pick people (any of them, or all of them together), places, events, tags, a year, month or day, and switches such as Marked Only, Faces Not All Named, No Faces, No Place, Photos or Videos, and Hide Selfies or Hide Screenshots. [Curator](/guide/curator.html) adds more: Hide Thumbs Down, From Family Only, Scanned Prints Only and the other Kinds. The filter keeps the Moment you are in and skips Moments with nothing in them; a banner at the top says what is on, and its ✕ clears it. The same filter also narrows Memory Lane.
 
 ## Livo Search
 
@@ -24,7 +24,8 @@ Livo understands ordinary phrasing:
 - **Dates and ages:** "last summer", "Christmas 2019", "since 2020", "Elise at 16", "when Tom was born".
 - **Family words:** "my daughters", "my son-in-law", "my daughter's birthday", from the relationships you set on People.
 - **Only:** "only Jack", "just the cousins", "Jane and Jack alone". Only named people count.
-- **Kinds:** videos, favorites, only photos, thumbs up, thumbs down, edited photos, edited segments, stitched videos, video frames, from family.
+- **Events:** the name of any event you made ("zoo trip", "Thanksgiving 2019") finds its photos; when an event has none yet, the card says so.
+- **Kinds:** videos, only photos, marked, edited photos, edited segments, stitched videos, video frames.
 
 If nothing is found, Livo suggests the nearest spelling or widens one piece and says which; it does not leave you at an empty screen.
 

@@ -1,9 +1,9 @@
 ---
 title: When something looks wrong
 description: What the captions mean, finding a photo that is not on this phone, Activity, and how to reach us.
-version: 2
-updated: 2026-10-14
-order: 20
+version: 3
+updated: 2026-11-09
+order: 26
 app: guide
 screen: support
 lede: Livo says why, rather than failing quietly. Here is what the messages mean and what to do.
@@ -23,7 +23,7 @@ A tile with a dashed question mark is a photo Livo has no picture for at all. It
 
 ## Activity
 
-[Organize › Activity](livo://organize/activity) shows everything Livo is doing in the background — an import, a backup, a share to the family, the Vault's copies — with progress, failures and Pause or Stop. The line under the Gallery header opens it. Pausing always says what happens next.
+The line under the Gallery header shows what Livo is doing in the background (an import, a backup, the copies of your capsules) with its progress; tap it for the detail, with Pause or Stop. [Organize › Curator tools › Activity](livo://organize/activity) lists every job Livo has run. Pausing always says what happens next.
 
 ## "Data files could not be read"
 

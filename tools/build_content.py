@@ -77,13 +77,12 @@ CONTENT = ROOT / "content"
 # Sections of the guide index, in reading order. Keys are file names without .md.
 GUIDE_GROUPS = [
     ("Start here", ["getting-started", "where-things-are"]),
-    ("Your photos", ["bringing-in-your-photos", "scan-prints", "moments-and-the-gallery", "finding-photos",
-                     "naming-the-faces", "describing-a-moment", "editing-photos-and-videos",
-                     "people-places-and-more"]),
-    ("Memories and capsules", ["making-a-memory", "memory-lane", "time-capsules-and-the-vault",
-                               "sending-to-someone"]),
-    ("Family, cloud and safekeeping", ["family-share", "onedrive-and-your-accounts", "keeping-capsules-safe",
-                                       "backup-and-restore", "trash"]),
+    ("Your photos", ["bringing-in-your-photos", "moments-and-the-gallery", "tag-the-moment", "naming-the-faces",
+                     "describing-a-moment", "finding-photos", "editing-photos-and-videos"]),
+    ("Memories, capsules and gifts", ["making-a-memory", "memory-lane", "time-capsules-and-the-vault",
+                                      "sending-to-someone", "making-a-gift", "order-prints"]),
+    ("Safekeeping", ["keeping-capsules-safe", "backup-and-restore", "trash"]),
+    ("Free, and Livo Plus", ["livo-and-livo-plus", "curator", "scan-prints", "onedrive-and-your-accounts", "family-share", "people-places-and-more"]),
     ("Settings and help", ["settings-and-your-look", "when-something-looks-wrong"]),
 ]
 TEMPLATE = ROOT / "tools" / "page_template.html"

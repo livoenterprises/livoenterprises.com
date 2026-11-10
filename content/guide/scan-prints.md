@@ -1,13 +1,15 @@
 ---
 title: Scan Prints
 description: Bringing printed photos into Livo with the camera, a box at a time, with the words on them read for search.
-version: 1
-updated: 2026-10-07
-order: 15
+version: 3
+updated: 2026-11-10
+order: 21
 app: guide
 screen: scan
 lede: Hold the phone over a print. Livo finds its edges, straightens it, and keeps going to the next one.
 ---
+
+Part of [Curator](/guide/curator.html), in Livo Plus. With Curator on, **Scan Prints** is in the Gallery's **+** menu.
 
 ## Scanning
 
