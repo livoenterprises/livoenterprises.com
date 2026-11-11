@@ -1,8 +1,8 @@
 ---
 title: Backup & Restore
 description: What a backup holds, where it goes, and how to restore onto this phone or a new one.
-version: 3
-updated: 2026-11-09
+version: 4
+updated: 2026-11-11
 order: 17
 app: guide
 screen: backup
@@ -26,3 +26,7 @@ Tap a backup in the list (on the phone, or from Files, or with Curator under **B
 ## A new phone
 
 Install Livo, allow access to Photos, and restore the backup. Livo finds each photo in the new phone's library by its iCloud identity, then by its content, and re-links it; a photo it cannot find keeps its record and small copy, and is counted ("N photos not found on this phone"). Copy your Time Capsules from the folder where you keep a copy (iCloud Drive, or the old phone's TimeCapsules folder). With Curator, sign in to OneDrive again for OneDrive photos and the Livo Vault folder.
+
+## Check a backup drive (Curator)
+
+A copy of your photos on an external drive is only a backup if it is complete. Under **Check a backup drive**, **Write the check kit** makes two plain files from what Livo knows about every photo (name, size, a fingerprint of its first 64 KB, date): a manifest and a page called **CHECK MY BACKUP - open with Chrome or Edge**. **Write it to OneDrive** puts them in a folder called Livo Archive Check at the top of each signed-in OneDrive, so the next mirror carries them to the drive; **Share the kit…** hands them to AirDrop or Files instead. On the Mac or PC, open the page *from the drive*, tap **Choose the folder**, pick the mirrored folder, and it reports expected, found, match, missing and changed, with the names; **Check fingerprints too** reads the start of each file to confirm it is the same file, and finds photos saved under another name. Nothing is sent anywhere. Before you mirror, mark the OneDrive photo folders **Always keep on this device**, or the mirror copies placeholders. A copy in a cloud account lasts only as long as the account; keep one on a drive you own.

@@ -27,6 +27,6 @@ The **+** carries a number when there is something new to bring in: photos added
 
 A Time Capsule or a gift someone sent you puts its photos in your Camera Roll and in Livo in one step; see [Sending to someone](/guide/sending-to-someone.html). With [Curator](/guide/curator.html), photos can also come from OneDrive and from printed photos you scan with the camera.
 
-## Tidying up
+## Cleaning up
 
-At the end of every import Livo looks for the same photo brought in twice and keeps one record of it, with everything you had written on either copy. Two records are treated as the same photo only when the whole files match. Your photos are not touched; only Livo's own duplicate record goes. The message says "Livo also tidied up its library" when that happened.
+At the end of every import Livo looks for the same photo brought in twice and keeps one record of it, with everything you had written on either copy. Two records are treated as the same photo only when the whole files match. Your photos are not touched; only Livo's own duplicate record goes. The message says "Livo also cleaned up its library" when that happened.

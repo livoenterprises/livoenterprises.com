@@ -17,11 +17,11 @@ lede: Filter narrows the Gallery by what you pick. Livo Search finds photos from
 
 Tap **Search** in the bottom bar ([open Livo Search](livo://search)), or tap the search field at the top of the Gallery, and type or dictate a few words: a name, a place, a tag, a word from a story, a word from a scanned print, or a date. As you type, Livo suggests names, places, tags and words from your stories, and shows your recent searches. The results appear in the Gallery.
 
-Under the field, Livo shows what it understood as **chips**, one for each piece: a person, a place, a tag, a story word, a date, or a kind such as videos or favorites. Tap a chip to see what else that word could mean, with the number of photos for each, and pick one. A grey chip is a word Livo could not place; a dotted chip is a spelling guess ("Elise?") you can confirm. Tap a chip's ✕ to drop it.
+Under the field, Livo shows what it understood as **chips**, one for each piece: a person, a place, a tag, a story word, a date, or a kind such as videos or favorites. Tap a chip to see what else that word could mean, with the number of photos for each, and pick one. A gray chip is a word Livo could not place; a dotted chip is a spelling guess ("Anna?") you can confirm. Tap a chip's ✕ to drop it.
 
 Livo understands ordinary phrasing:
 
-- **Dates and ages:** "last summer", "Christmas 2019", "since 2020", "Elise at 16", "when Tom was born".
+- **Dates and ages:** "last summer", "Christmas 2019", "since 2020", "Anna at 16", "when Tom was born".
 - **Family words:** "my daughters", "my son-in-law", "my daughter's birthday", from the relationships you set on People.
 - **Only:** "only Jack", "just the cousins", "Jane and Jack alone". Only named people count.
 - **Events:** the name of any event you made ("zoo trip", "Thanksgiving 2019") finds its photos; when an event has none yet, the card says so.

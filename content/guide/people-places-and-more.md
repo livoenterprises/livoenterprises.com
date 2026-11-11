@@ -1,8 +1,8 @@
 ---
 title: People, Places, Life Events, Tags and Buckets
-description: The lists behind your photos - People, Places and Events in Livo; Life Events, Tags and Buckets with Curator.
-version: 3
-updated: 2026-11-09
+description: The lists behind your photos - People, Places, Events, Life Events and Tags in Livo; Buckets with Curator.
+version: 4
+updated: 2026-11-11
 order: 24
 app: guide
 screen: organize
@@ -21,15 +21,15 @@ lede: Everything you name lives in Organize, the book icon, and nothing is named
 
 [Open Organize › Events](livo://organize/events). Every event you have made, by year, each with its name, dates, people, places and other names; tap one to edit it. See [Events and the story](/guide/describing-a-moment.html).
 
-## Life Events (Curator)
+## Life Events
 
-[Open Organize › Curator tools › Life Events](livo://organize/life-events). A dated fact about a person — a birth, a wedding. Livo Search uses them: "when Elise was born", "our anniversary".
+[Open Organize › Life Events](livo://organize/life-events). A dated fact about a person — a birth, a wedding. Livo Search uses them: "when Anna was born", "our anniversary".
 
 Two entries for one event? Swipe an event and tap **Merge into…**, then pick the one to keep. Photos and people move over, and the merged event goes to the Trash, where restoring it undoes the merge.
 
-## Tags (Curator)
+## Tags
 
-[Open Organize › Curator tools › Tags](livo://organize/tags). Every tag with its photo count, by name or by count. Swipe a tag, or tap it, for **Rename**, **Merge into…** or **Delete**. Renaming a tag to a name another tag already has merges them, and asks first. Delete asks too, and removes the tag from your photos without touching the photos or their stories. What Livo Search has learned about a renamed or merged tag follows it.
+[Open Organize › Tags](livo://organize/tags). Every tag with its photo count, by name or by count. Swipe a tag, or tap it, for **Rename**, **Merge into…** or **Delete**. Renaming a tag to a name another tag already has merges them, and asks first. Delete asks too, and removes the tag from your photos without touching the photos or their stories. What Livo Search has learned about a renamed or merged tag follows it.
 
 ## Buckets (Curator)
 

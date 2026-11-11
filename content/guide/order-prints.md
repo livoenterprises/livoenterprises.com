@@ -15,7 +15,7 @@ Photo kiosks, drugstore photo counters and the online print services all take or
 
 ## Print-size photos
 
-From a gift's **Your gift is ready** screen, under **Order prints**: **Print-size photos** gives the Memory's photos as full-size JPEGs, numbered in order and named for who is in them, in a folder called "For … - prints". **Print-size photos with the names** (Livo Plus) adds a white strip under each photo that reads, for example, "Tori and Laurie · November 2019", so the print says who it is without writing on the back. Both are what a kiosk wants for 4 × 6 and 5 × 7 prints. The names, story and place are written into each file as well, as in every Livo export.
+From a gift's **Your gift is ready** screen, under **Order prints**: **Print-size photos** gives the Memory's photos as full-size JPEGs, numbered in order and named for who is in them, in a folder called "For … - prints". **Print-size photos with the names** (Livo Plus) adds a white strip under each photo that reads, for example, "Anna and Laurie · November 2019", so the print says who it is without writing on the back. Both are what a kiosk wants for 4 × 6 and 5 × 7 prints. The names, story and place are written into each file as well, as in every Livo export.
 
 ## The gift book
 

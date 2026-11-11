@@ -1,8 +1,8 @@
 ---
 title: Trash, and what Livo never deletes
 description: The two steps of deleting, what Empty Trash really removes, and the things Livo will never touch.
-version: 3
-updated: 2026-11-09
+version: 4
+updated: 2026-11-11
 order: 18
 app: guide
 screen: trash
@@ -11,7 +11,7 @@ lede: Deleting in Livo is two steps, and the second always says exactly what it 
 
 ## Two steps
 
-Deleting a photo, Memory, capsule, person or place moves it to the Trash ([Organize › Curator tools › Trash](livo://organize/trash)), where it waits until you **Restore** it or **Empty Trash** (or **Delete Forever** on one item). The Trash never empties itself.
+Deleting a photo, Memory, capsule, person or place moves it to the Trash ([Organize › Trash](livo://organize/trash)), where it waits until you **Restore** it or **Empty Trash** (or **Delete Forever** on one item). The Trash never empties itself.
 
 ## What Empty Trash removes
 

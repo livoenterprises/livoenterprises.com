@@ -19,7 +19,7 @@ For a gift, with a dedication and a video that plays with one tap, see [Making a
 
 Tap a capsule file in Messages, Mail, AirDrop or Files and Livo opens it: "You received a Memory" from the sender, with its name, what is in it and when it was sealed. Tap **Add to My Livo**. The capsule goes into your Capsules; its photos go into your Camera Roll and your Gallery, in the Moment of the day they were taken; the people and places it names are matched to yours or created; and the Memory appears in Memory Lane with "From Anna". **Not Now** changes nothing.
 
-A photo you already have is recognised and never added twice, even if it arrives again in another capsule. **Stop** while adding keeps the photos already added and makes no Memory; the capsule's own screen carries on where it stopped.
+A photo you already have is recognized and never added twice, even if it arrives again in another capsule. **Stop** while adding keeps the photos already added and makes no Memory; the capsule's own screen carries on where it stopped.
 
 ## Receiving a gift
 

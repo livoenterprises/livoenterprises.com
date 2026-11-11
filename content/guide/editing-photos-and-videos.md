@@ -1,8 +1,8 @@
 ---
 title: Editing photos and videos
 description: Rotate, crop and adjust a photo, cut a long video into dated segments, save one frame of a video as a photo, and join clips into one video. Livo never changes the original.
-version: 4
-updated: 2026-11-09
+version: 5
+updated: 2026-11-11
 order: 9
 app: guide
 screen: edit
@@ -32,11 +32,11 @@ For a long recording — a transferred videotape, an hour of a party — open th
 
 Livo saves that stretch as a new video named with the date you typed, so it lands in the Moment of that date, not the day the tape was transferred. The next segment starts where this one ended, so you work along the tape in order. Each segment carries the segment badge; the Filter has **Edited Segments Only**. The long original is untouched.
 
-## Save a frame as a photo
+## Save a frame as a photo (Livo Plus)
 
 On the same Edit Segments screen, stop on the picture you want — the face, the cake, the moment — and tap **Save Frame as Photo**. Livo takes that one frame at the video's full size and saves it as a new photo in your Camera Roll, dated the video's date plus the time into the video, so it sits right after the video in the same Moment. Nothing is copied from the video: the frame starts with no story or tags, and you add what it needs. The tile carries the frame badge; Info says which video it came from and where; the Filter has **Video Frames Only**. A frame is never sharper than the video it came from.
 
-## Stitch
+## Stitch (Livo Plus)
 
 Select two or more videos in the Gallery and tap **Stitch** in the bottom bar. Livo lists the clips in the order they were taken, the total running time, and where the result will go (where the first clip lives). **Stitch** makes one new video of all of them, end to end. When the clips are all the same way up it is joined without re-encoding, so nothing is lost; otherwise it is re-encoded. **Stop** works at any time before saving starts: it cancels the join, removes any partial file and says "Stopped; nothing was saved." Clips with no date go last, and the result is dated by the earliest dated clip. The result has the stitched badge; the Filter has **Stitched Videos Only**. Edit Segments works on a stitched video like any other.
 

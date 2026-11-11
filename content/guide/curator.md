@@ -1,8 +1,8 @@
 ---
 title: Curator
 description: What Curator is, who it is for, the tools it adds, and how it fits in Livo Plus.
-version: 2
-updated: 2026-11-10
+version: 3
+updated: 2026-11-11
 order: 20
 app: guide
 screen: curator
@@ -21,16 +21,16 @@ lede: Livo is for everyone with photos on an iPhone. Curator, part of Livo Plus,
 - **OneDrive**: photos from OneDrive folders, backups copied off the phone, a second copy of every capsule in your own OneDrive, and capsules sent as links. See [OneDrive and your accounts](/guide/onedrive-and-your-accounts.html).
 - **Family Share** and the Family Library: what each person in the family shares from their own OneDrive, and what they share back. See [Family Share](/guide/family-share.html).
 - **Collections**: a fourth surface with rails for People, Places, Events, Life Events, Memories, Pinned, Saved searches, Buckets and Family.
-- **Buckets, Life Events and Tags** under Organize: a hidden shelf for photos you want out of the way, dated facts about a person that search can use ("when Emma was born"), and the list of every tag with rename and merge. See [People, Places, Life Events, Tags and Buckets](/guide/people-places-and-more.html).
+- **Buckets** under Organize: a shelf for photos you want out of sight but not gone (a burst's thirty near-identical shots, the photos from a past relationship you are not ready to see every day). See [People, Places, Life Events, Tags and Buckets](/guide/people-places-and-more.html).
 - **More Kinds**: Reference and Saved images beside Selfie, Screenshot and Scan, with text recognition on them and **Read text again** in a photo's Info.
 - **More marks**: thumbs-down and Hide Thumbs Down, Picks, To Review.
 - **Deeper search**: saved searches, pinned searches, and the longer grammar (commas, "and", the Story pill).
-- **Housekeeping**: Media Sources, Activity in full, Where my photos are, Send to Photos.
+- **Housekeeping**: Media Sources, Where my photos are, Send to Photos, Check a backup drive.
 - The **full selection bar** in the Gallery, with every action a tap away.
 
 ## Nothing is hidden either way
 
-Curator never hides data. Everything a Curator tool made stays readable when Curator is off: Buckets as read-only lists, Life Events still answering searches, OneDrive photos already brought in still in the Gallery, capsules already copied to OneDrive still copied. Turning Curator off changes what is shown, never what is kept. A link in this guide to a Curator tool shows what the tool is and a one-line note that it is part of Curator, never an error.
+Curator never hides data. Everything a Curator tool made stays readable when Curator is off: Buckets as read-only lists, OneDrive photos already brought in still in the Gallery, capsules already copied to OneDrive still copied. Turning Curator off changes what is shown, never what is kept. A link in this guide to a Curator tool shows what the tool is and a one-line note that it is part of Curator, never an error.
 
 ## Turning it on
 

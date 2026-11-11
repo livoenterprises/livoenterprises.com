@@ -1,8 +1,8 @@
 ---
 title: Support
 description: Help with Livo (LivoCapsule) - how to reach us, and answers to common questions.
-version: 5
-updated: 2026-11-10
+version: 6
+updated: 2026-11-11
 web: support.html
 nav: Support
 app: support
@@ -25,13 +25,17 @@ In Capsules (the shield on the bottom bar), and in the Files app under On My iPh
 
 Yes. Unzip it and open the file named "START HERE - open with any web browser.html". Windows, Mac, Linux or a phone: anything with a browser will do.
 
+### What happens to my photos in OneDrive if the Microsoft subscription lapses?
+
+Microsoft's rules, not Livo's: the account drops to the free 5 GB, an over-limit OneDrive goes read-only at once, is frozen after three months over the limit, and may be deleted after six. Renewing stops the clock. Keep one copy on a drive you own: mirror the OneDrive folder on a computer to an external drive (mark the photo folders "Always keep on this device" first), and use Livo's **Check a backup drive** kit (Organize › Backup & Restore, with Curator) to prove the mirror is complete.
+
 ### Does Livo upload my photos anywhere?
 
 No. Livo Enterprises has no servers. Livo reads your Camera Roll and iCloud Photos through Apple's own Photos library, and writes capsules and backups only where you choose in Files. The only other network use is optional and part of Curator (Livo Plus): if you sign in to a Microsoft OneDrive account, Livo reads photos from it, keeps copies of your backups and capsules in your own OneDrive, and shares with your family through a folder there. Everything goes from your phone to Apple or Microsoft and nowhere else.
 
 ### Is Livo free?
 
-Yes. Livo is free, with no limit on photos, Memories, capsules or gifts: bring in photos, name people, events and places, write stories, search, make Memories and their videos, make gifts, seal capsules, keep copies in iCloud Drive, open anything anyone sends you, and back up. **Livo Plus** is the one purchase. It adds, for giving: the gift book, the collage poster, print-size photos with the names, Order prints, Give it again, and gift videos without the "with Livo" line; and for the family's archive, **Curator**: Scan Prints, OneDrive, Family Share, Collections, Buckets, Life Events and the deeper tools. It never takes anything away, and nothing you have made is ever locked. The whole list is in the guide: [Free, and Livo Plus](/guide/livo-and-livo-plus.html).
+Yes. Livo is free, with no limit on photos, Memories, capsules or gifts: bring in photos, name people, events and places, write stories, search, make Memories and their videos, make gifts, seal capsules, keep copies in iCloud Drive, open anything anyone sends you, and back up. **Livo Plus** is the one purchase. It adds, for giving: the gift book, the collage poster, print-size photos with the names, Order prints, Give it again, and gift videos without the "with Livo" line; for creating: Stitch videos and Save Frame as Photo; and for the family's archive, **Curator**: Scan Prints, OneDrive, Family Share, Collections, Buckets and the deeper tools. It never takes anything away, and nothing you have made is ever locked. The whole list is in the guide: [Free, and Livo Plus](/guide/livo-and-livo-plus.html).
 
 ### What is a gift?
 

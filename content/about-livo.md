@@ -19,7 +19,7 @@ Livo Enterprises believes technology should serve life, not crowd it. So we hold
 
 A **LivoCapsule** is how a life is handed on. It gathers your photos, videos, names and stories and seals them into one gift: a video that plays with one tap, a page that opens in any web browser, and the files themselves with the names and stories written inside them. Years from now, a grandchild you may never meet can open it and hear the laughter, see the faces and learn the stories. A moment that is stored is only kept. A moment that is shared keeps living.
 
-Livo is free, with no limits, and everything in that loop is in it: bring in your photos, say who is in them and what happened, make a Memory, seal a capsule, make a gift, open anything anyone sends you. **Livo Plus**, the one purchase, adds the printed forms of a gift (the book, the poster, prints with names) and **Curator**, for the person who keeps the family's archive: scanning prints, bringing photos in from OneDrive and many years of devices, sharing with the family through their own storage, and the deeper organising tools. See [Free, and Livo Plus](/guide/livo-and-livo-plus.html).
+Livo is free, with no limits, and everything in that loop is in it: bring in your photos, say who is in them and what happened, make a Memory, seal a capsule, make a gift, open anything anyone sends you. **Livo Plus**, the one purchase, adds the printed forms of a gift (the book, the poster, prints with names) and **Curator**, for the person who keeps the family's archive: scanning prints, bringing photos in from OneDrive and many years of devices, sharing with the family through their own storage, and the deeper organizing tools. See [Free, and Livo Plus](/guide/livo-and-livo-plus.html).
 
 ## Two promises
 
