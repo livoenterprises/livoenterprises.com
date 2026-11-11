@@ -1,7 +1,7 @@
 ---
 title: Support
 description: Help with Livo (LivoCapsule) - how to reach us, and answers to common questions.
-version: 6
+version: 7
 updated: 2026-11-11
 web: support.html
 nav: Support
@@ -35,7 +35,7 @@ No. Livo Enterprises has no servers. Livo reads your Camera Roll and iCloud Phot
 
 ### Is Livo free?
 
-Yes. Livo is free, with no limit on photos, Memories, capsules or gifts: bring in photos, name people, events and places, write stories, search, make Memories and their videos, make gifts, seal capsules, keep copies in iCloud Drive, open anything anyone sends you, and back up. **Livo Plus** is the one purchase. It adds, for giving: the gift book, the collage poster, print-size photos with the names, Order prints, Give it again, and gift videos without the "with Livo" line; for creating: Stitch videos and Save Frame as Photo; and for the family's archive, **Curator**: Scan Prints, OneDrive, Family Share, Collections, Buckets and the deeper tools. It never takes anything away, and nothing you have made is ever locked. The whole list is in the guide: [Free, and Livo Plus](/guide/livo-and-livo-plus.html).
+Yes. Livo is free, with no limit on photos, Memories, capsules or gifts: bring in photos, name people, events and places, write stories, search, make Memories and their videos, make gifts, seal capsules, keep copies in iCloud Drive, open anything anyone sends you, and back up. **Livo Plus** is the one purchase. It adds, for giving: the gift book, the collage poster, print-size photos with the names, Order prints, Give it again, and gift videos without the "with Livo" line; for creating: Edit Segments, Stitch videos and Save Frame as Photo; and for the family's archive, **Curator**: Scan Prints, OneDrive, Family Share, Collections, Buckets and the deeper tools. It never takes anything away, and nothing you have made is ever locked. The whole list is in the guide: [Free, and Livo Plus](/guide/livo-and-livo-plus.html).
 
 ### What is a gift?
 

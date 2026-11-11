@@ -1,7 +1,7 @@
 ---
 title: Free, and Livo Plus
 description: Exactly what is free forever in Livo, what the one purchase (Livo Plus) adds and why each piece is useful, and the rules that hold either way.
-version: 2
+version: 3
 updated: 2026-11-11
 order: 19
 app: guide
@@ -18,7 +18,7 @@ Everything you need to name your photos, make something from them, keep it safe 
 - **Tag the Moment, Name the Faces, Edit Tags.** Who is in a day's photos, what the event was, where it happened; the faces one by one with the photo peek, the clean-up of tags, the recent names, Always offer.
 - **People, Places, Events, Life Events and Tags**, with their lists under Organize. A birthday or a wedding date on a person is what makes "Emma's 5th birthday" and "when Dad was my age" searchable. The Tags list renames, merges and deletes a tag across every photo, so a typo on forty photos is one fix.
 - **Stories and tags on photos**, written into the files themselves.
-- **Edit Photo and Edit Segments.** Crop, rotate and straighten a photo; trim or split a video. Always as a copy; the original is never touched.
+- **Edit Photo and Rotate.** Crop and adjust a photo, and turn it a quarter at a time. Edit Photo always saves a copy; the original is never touched.
 - **Memories**, as many as you like: make, edit, narrate in your own voice, reorder, combine. **Scrapbook pages and Collage pages**, Save page to Photos, and **Share as Video** for anyone, anywhere.
 - **Time Capsules**: seal, look inside, Keep a copy in iCloud Drive or any folder in Files, the weekly checks and repairs, Keepsakes, Bring in, Export, Share with Livo. The page inside opens in any browser.
 - **Make a Gift**: the dedication, the video Livo makes for you (with a small "with Livo" line at the end), the whole sealed gift, the folder of photos for a frame or a TV, plain print-size photos, and sending by AirDrop, Messages, Mail or Files.
@@ -38,8 +38,9 @@ Made once, shared with your Apple family, never a subscription. It adds three ki
 - **Give it again**: the whole "Your gift is ready" screen for a gift you already made (the free rows in it work for everyone).
 - **Gift videos without the "with Livo" line.**
 
-**For creating** — two things Photos cannot do, nice when making and not needed to name, seal or give:
+**For creating** — three things Photos cannot do, nice when making and not needed to name, seal or give:
 
+- **Edit Segments**: cut a long recording, a transferred videotape or an hour of a party, into pieces, each dated so it lands in the Moment of its own day.
 - **Stitch videos**: several clips joined into one video, in your order, for a Memory or a gift.
 - **Save Frame as Photo**: a still from any moment of a video, saved as a photo of its own.
 

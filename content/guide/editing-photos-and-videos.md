@@ -1,7 +1,7 @@
 ---
 title: Editing photos and videos
 description: Rotate, crop and adjust a photo, cut a long video into dated segments, save one frame of a video as a photo, and join clips into one video. Livo never changes the original.
-version: 5
+version: 6
 updated: 2026-11-11
 order: 9
 app: guide
@@ -21,7 +21,9 @@ Select a photo and tap **Rotate** in the bottom bar, or use the Rotate button in
 
 Open a photo full screen and tap **Edit Photo**. Two tools: **Crop** (drag the corners or the box) and **Adjust** (Brightness and Contrast). **Save** writes a new photo, `Edited_` and the time, to the Camera Roll or the OneDrive folder; it shows in the Moment of the original's date with the edited badge. The Filter has **Edited Photos Only**.
 
-## Edit Segments
+## Edit Segments (Livo Plus)
+
+Edit Segments is part of Livo Plus; without it the film button opens the Livo Plus screen, and segments you already cut stay in Livo. Edit Photo and Rotate are free.
 
 For a long recording — a transferred videotape, an hour of a party — open the video full screen and tap the film button, **Edit Segments**. It is a mark-in, mark-out editor:
 

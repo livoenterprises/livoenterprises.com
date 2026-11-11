@@ -1,7 +1,7 @@
 ---
 title: Settings, Curator and Livo Plus
 description: Your name, the five palettes, how stories are shown, the Curator switch, Livo Plus, what Livo Search has learned, and About.
-version: 6
+version: 7
 updated: 2026-11-11
 order: 25
 app: guide
@@ -35,4 +35,4 @@ The **Curator** switch, part of Livo Plus (without Plus, a tap on it shows what 
 
 ## What is free
 
-Livo is free, with no count of photos, Memories, capsules or gifts. **Livo Plus** is the one purchase: it adds the gift book, poster and print-size photos with names, Order prints, Give it again, gift videos without the "with Livo" line, Stitch videos, Save Frame as Photo, and Curator. It never takes anything away, and nothing you have made is ever locked. The whole list: [Free, and Livo Plus](/guide/livo-and-livo-plus.html).
+Livo is free, with no count of photos, Memories, capsules or gifts. **Livo Plus** is the one purchase: it adds the gift book, poster and print-size photos with names, Order prints, Give it again, gift videos without the "with Livo" line, Stitch videos, Edit Segments, Save Frame as Photo, and Curator. It never takes anything away, and nothing you have made is ever locked. The whole list: [Free, and Livo Plus](/guide/livo-and-livo-plus.html).
