@@ -18,7 +18,7 @@
   <link rel="icon" href="/assets/favicon-32.png" sizes="32x32" type="image/png">
   <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
   <link rel="preload" href="/assets/fonts/newsreader-latin-opsz-normal.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="/assets/style.css?v=7">
+  <link rel="stylesheet" href="/assets/style.css?v=8">
 </head>
 <body>
 <header class="site">
@@ -31,9 +31,10 @@
 </header>
 
 <main>
-  <div class="{{wrap_class}}">
+  <section class="page-hero"><div class="inner">
 {{extra_top}}    <h1>{{h1}}</h1>
-{{updated}}{{lede}}
+{{updated}}{{lede}}  </div></section>
+  <div class="{{wrap_class}}">
 {{body}}
   </div>
 </main>

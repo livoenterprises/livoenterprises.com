@@ -318,3 +318,26 @@ ul.posts .sum { display: block; color: var(--muted); font-size: .97rem; margin-t
   header.site, footer.site, .cta, .pager { display: none; }
   body { background: #fff; color: #000; }
 }
+
+/* ---------- page heroes: the colored band at the top of every inner page ---------- */
+.page-hero {
+  position: relative; overflow: hidden; isolation: isolate; border-bottom: 1px solid var(--line);
+  background:
+    radial-gradient(44rem 22rem at 92% -30%, rgba(255, 178, 63, .30), transparent 62%),
+    radial-gradient(40rem 22rem at -8% 0%, rgba(124, 92, 255, .18), transparent 62%),
+    radial-gradient(36rem 20rem at 55% 130%, rgba(15, 181, 164, .16), transparent 62%),
+    var(--bg);
+}
+.page-hero .inner { max-width: 45rem; margin: 0 auto; padding: 3.2rem 1.25rem 2.4rem; }
+.page-hero h1 { margin: .1em 0 .3em; }
+.page-hero .lede { margin-bottom: 0; }
+.page-hero .updated { margin: .1rem 0 .9rem; }
+.page-hero .small { margin: 0 0 .6rem; }
+.page-hero .post-meta { margin: 0 0 .5rem; }
+.page-hero .cta { margin: 1.4rem 0 0; }
+.page-hero.split .inner { max-width: 70rem; display: grid; grid-template-columns: 1.1fr .9fr; gap: 3rem; align-items: center; padding: 3.4rem 1.25rem 3.6rem; }
+.page-hero.split .stage { min-height: 22rem; }
+.page-hero.split h1 { font-size: clamp(2.4rem, 6vw, 4rem); font-weight: 850; letter-spacing: -.035em; }
+@media (max-width: 52rem) { .page-hero.split .inner { grid-template-columns: 1fr; gap: 1.6rem; } .page-hero.split .stage { max-width: 26rem; min-height: 19rem; } }
+main > .wrap.after-hero, main > .page-hero + .wrap { padding-top: 1.2rem; }
+main > .page-hero + .wrap > h2:first-child { margin-top: 1.4em; }

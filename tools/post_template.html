@@ -19,7 +19,7 @@
   <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
   <link rel="alternate" type="application/rss+xml" title="Livo Enterprises — Notes" href="/feed.xml">
   <link rel="preload" href="/assets/fonts/newsreader-latin-opsz-normal.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="/assets/style.css?v=7">
+  <link rel="stylesheet" href="/assets/style.css?v=8">
   <script type="application/ld+json">
   {"@context":"https://schema.org","@type":"BlogPosting","headline":"{{title_json}}","datePublished":"{{date_iso}}","author":{"@type":"Person","name":"{{author_json}}"},"publisher":{"@type":"Organization","name":"Livo Enterprises"},"mainEntityOfPage":"{{canonical}}"}
   </script>
@@ -35,10 +35,12 @@
 </header>
 
 <main>
-  <div class="wrap">
-    <article class="post">
+  <section class="page-hero"><div class="inner">
     <p class="post-meta"><a href="/blog/">Notes</a> &middot; <time datetime="{{date_iso}}">{{date_pretty}}</time> &middot; {{author}}</p>
     <h1>{{title}}</h1>
+  </div></section>
+  <div class="wrap">
+    <article class="post">
 {{body}}
 {{topics}}    </article>
 
