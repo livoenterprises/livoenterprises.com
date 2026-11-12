@@ -1,7 +1,7 @@
 ---
 title: Free, and Livo Plus
 description: Exactly what is free forever in Livo, what the one purchase (Livo Plus) adds and why each piece is useful, and the rules that hold either way.
-version: 3
+version: 5
 updated: 2026-11-11
 order: 19
 app: guide
@@ -14,7 +14,7 @@ lede: Livo is free, with no limits. Livo Plus is one purchase, made once, that a
 Everything you need to name your photos, make something from them, keep it safe and pass it on. No account, no sign-in, no counts.
 
 - **Bring in your photos and videos** from the Camera Roll and iCloud Photos, with the duplicate clean-up. Your photos stay where they are.
-- **Moments, the Gallery, Filter and Livo Search.** Search by a name, a place, an event, a date, or words Livo has read on screenshots and saved pictures.
+- **Moments, the Gallery, Filter and Livo Search.** Search by a name, a place, an event, a date, or words Livo has read on screenshots and saved pictures; tap the field to pick a person, place or event, and keep your favourite searches under the star (saved and pinned searches are free).
 - **Tag the Moment, Name the Faces, Edit Tags.** Who is in a day's photos, what the event was, where it happened; the faces one by one with the photo peek, the clean-up of tags, the recent names, Always offer.
 - **People, Places, Events, Life Events and Tags**, with their lists under Organize. A birthday or a wedding date on a person is what makes "Emma's 5th birthday" and "when Dad was my age" searchable. The Tags list renames, merges and deletes a tag across every photo, so a typo on forty photos is one fix.
 - **Stories and tags on photos**, written into the files themselves.
@@ -50,7 +50,7 @@ Made once, shared with your Apple family, never a subscription. It adds three ki
 - **OneDrive**: photos from OneDrive folders brought in; backups and a copy of every capsule kept in your own OneDrive; capsules sent as links.
 - **Family Share and the Family Library**: what each person shares from their own OneDrive, read-only to the others, with a catalog so the family's phones find photos by name.
 - **Buckets**: a shelf for photos you want out of sight but not gone. The thirty near-identical shots of a burst, the photos from a past relationship you are not ready to see every day but would not delete forever, the paperwork photographed for a form. They leave the Gallery and search, and come back with a tap.
-- **Collections**: a fourth surface with rails for People, Places, Events, Life Events, Memories, Pinned, Saved searches, Buckets and Family; **saved and pinned searches**; the **full selection bar**, with every action one tap away.
+- The **full selection bar**, with every action one tap away.
 - **Reference and Saved-image Kinds**, thumbs-down and Hide Thumbs Down, Picks and To Review: the triage tools for a very large library.
 - **Media Sources, Where my photos are, Send to Photos**, and **Check a backup drive**, which proves a mirror of your photos on an external drive is complete.
 

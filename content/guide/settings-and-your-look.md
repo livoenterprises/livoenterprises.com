@@ -1,7 +1,7 @@
 ---
 title: Settings, Curator and Livo Plus
 description: Your name, the five palettes, how stories are shown, the Curator switch, Livo Plus, what Livo Search has learned, and About.
-version: 7
+version: 8
 updated: 2026-11-11
 order: 25
 app: guide
@@ -23,7 +23,7 @@ lede: Settings is short on purpose. Most of what you need day to day is under Or
 
 ## How much to show: Curator
 
-The **Curator** switch, part of Livo Plus (without Plus, a tap on it shows what Plus is). Off, Livo is the essentials: Gallery, Memories, Capsules, People, Places and Events, with the other tools behind **Curator tools** in Organize. On, everything, everywhere: Scan Prints, OneDrive, the Family Library, Collections, Buckets, Kinds and more. Nothing you made is hidden or changed either way. See [Curator](/guide/curator.html). The Microsoft account rows (**OneDrive Accounts**, Family Share) appear here only with Curator on.
+The **Curator** switch, part of Livo Plus (without Plus, a tap on it shows what Plus is). Off, Livo is the essentials: Gallery, Memories, Capsules, People, Places and Events, with the other tools behind **Curator tools** in Organize. On, everything, everywhere: Scan Prints, OneDrive, the Family Library, Buckets, Kinds and more. Nothing you made is hidden or changed either way. See [Curator](/guide/curator.html). The Microsoft account rows (**OneDrive Accounts**, Family Share) appear here only with Curator on.
 
 ## Livo Search
 
