@@ -789,7 +789,7 @@ Livo is for everyone with photos on an iPhone. Curator, part of Livo Plus, is fo
 - **More Kinds**: Reference and Saved images beside Selfie, Screenshot and Scan, with text recognition on them and **Read text again** in a photo's Info.
 - **More marks**: thumbs-down and Hide Thumbs Down, Picks, To Review.
 - **Deeper search**: the longer grammar (commas, "and", the Story pill).
-- **Clean up and review**: Duplicate Check, Fix Dates from File Names, Earliest Dates, the Life Events clean-up, Fix Live Photo Links and Read Apple’s Keywords and Ratings.
+- **Clean up and review**: Duplicate Check, Fix Dates from File Names, Earliest Dates, the Life Events clean-up, Find Missing Photos, Fix Live Photo Links and Read Apple’s Keywords and Ratings.
 - **Housekeeping**: Media Sources, Where my photos are, Send to Photos, Check a backup drive.
 - The **full selection bar** in the Gallery, with every action a tap away.
 
@@ -825,6 +825,7 @@ Each one looks first and asks before it changes anything.
 - [Fix Dates from File Names](https://livoenterprises.com/go/organize/curator/cleanup/fix-dates) re-reads file names to correct dates already in Livo.
 - [Earliest Dates](https://livoenterprises.com/go/organize/curator/cleanup/earliest-dates) asks OneDrive again and uses the earliest date of each item.
 - [Life Events clean-up](https://livoenterprises.com/go/organize/curator/cleanup/life-events) finds an anniversary recorded once for each person and offers to merge them, and finds Life Events that are missing their person.
+- [Find Missing Photos](https://livoenterprises.com/go/organize/curator/cleanup/find-missing) scans for photos whose original is in neither Photos nor OneDrive, then looks for them. **Automatic** links only the exact same file (same size and the same first 64 KB) and shows what it found before it changes anything; **Manual** goes through the photos one at a time, Livo’s copy beside each candidate. Story, tags and people always stay. Livo looks in Photos and in every signed-in OneDrive account. A photo found only in the other place is switched to it, and the old link is kept as a spare. Manual is for Camera Roll photos; OneDrive photos are matched automatically.
 - [Fix Live Photo Links](https://livoenterprises.com/go/organize/curator/cleanup/live-links) clears a Live Photo link from a OneDrive photo that should never have had one (a LIVE badge playing the wrong clip).
 - [Read Apple’s Keywords and Ratings](https://livoenterprises.com/go/organize/curator/cleanup/apple-keywords) adds what you set in Photos to the Camera Roll photos already in Livo: keywords become tags, a caption becomes the story where Livo has none, and four or five stars become a thumbs-up. Nothing in Photos is changed.
 

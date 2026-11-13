@@ -376,5 +376,12 @@
   "where": "Organize, then Backup, then Restore from a Different Location.",
   "guide": "backup-and-restore",
   "build": "20261113_0621_FocusLinks"
+ },
+ {
+  "key": "organize/curator/cleanup/find-missing",
+  "title": "Curator: Find Missing Photos",
+  "where": "Organize, then Curator, then Clean up and review, then Find Missing Photos.",
+  "guide": "curator",
+  "build": "20261113_1142_FindMissingPhotos"
  }
 ]
