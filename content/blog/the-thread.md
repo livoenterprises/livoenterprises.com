@@ -18,7 +18,7 @@ I recently built an app and sat down to write about it, and realized these were 
 
 The app is called LivoCapsule. It seals family memories --- photos, video, your own voice telling the story --- into plain files that open anywhere, forever, with no account and no server. That's the first belief, made into a thing you can hold.
 
-But the part I didn't expect is that I built it without learning the programming language. I described what I wanted to an AI, in English, and held it to the same engineering discipline I'd used for years --- requirements, design, verification, change control. That's the second belief, applied to the building rather than the using. For the first time the tool met me in my own language, on my own process.
+But the part I didn't expect is that I built it without learning the programming language. I described what I wanted, in English, to generative artificial intelligence (GenAI) tools, and held them to the same engineering discipline I've been using for years --- requirements, design, verification, change control. That's the second belief, applied to the building rather than the using. For the first time the tools met me in my own language, on my own process.
 
 And then a third instance of the thread, which I only noticed writing this: the project itself. Every decision, every requirement, every session's state lives in plain-text documents on my own disk --- not in any AI's memory. I can switch models tomorrow and lose nothing. The project is mine the same way the capsules are mine.
 
