@@ -173,7 +173,7 @@ Livo reads your Camera Roll and keeps a small copy of each photo. Your photos st
 
 ### Add from Camera Roll
 
-[Open the Gallery](https://livoenterprises.com/go/gallery), tap the **≡** menu at the top right, then **Add Photos**, then **Add from Camera Roll**. Livo asks for permission to your Photos the first time, then brings in every photo and video, newest first, including photos that live only in iCloud. A big library takes a while; you can keep using Livo, and the progress shows under the Gallery header.
+[Open the Gallery](https://livoenterprises.com/go/gallery), tap the **≡** menu at the top right, then **Add Photos**, then **Add from Camera Roll**. Livo asks for permission to your Photos the first time, then brings in every photo and video, newest first, including photos that live only in iCloud. A big library takes a while; you can keep using Livo, and the progress shows under the Gallery header. [Show me the menu](https://livoenterprises.com/go/how/add-photos).
 
 If you allowed Livo only some of your photos, it works with those and says so. Before it starts, Livo checks your free space ("Importing about 140 items needs about 2.3 GB"): it warns if the import would leave under 2 GB, and will not start below 1 GB. If space runs out part way, the import pauses and keeps everything it has brought in; start another import to carry on.
 
@@ -660,7 +660,7 @@ A backup holds everything Livo knows about your photos. Your photos themselves s
 
 ### Making one
 
-**Create Backup Now** runs in the background; the card and Activity show the steps. Livo keeps the screen on while it works. Backups are named Livo_Backup_ with the date and time, and nothing already there is ever overwritten. The backup is saved on this phone (On My iPhone › Livo › Livo Backup); **Share** on a backup puts it in iCloud Drive or any folder in Files. With [Curator](https://livoenterprises.com/guide/curator.html), **Copy new backups to OneDrive** copies each one to the private **Livo Backup** folder in your OneDrive as well. "Last backup: …" under the row tells you how long ago. Livo never backs up on its own and never reminds you with a pop-up.
+**Create Backup Now** runs in the background; the card and Activity show the steps. Livo keeps the screen on while it works. Backups are named Livo_Backup_ with the date and time, and nothing already there is ever overwritten. The backup is saved on this phone (On My iPhone › Livo › Livo Backup); **Share** on a backup puts it in iCloud Drive or any folder in Files. With [Curator](https://livoenterprises.com/guide/curator.html), **Copy new backups to OneDrive** copies each one to the private **Livo Backup** folder in your OneDrive as well. "Last backup: …" under the row tells you how long ago. Livo never backs up on its own and never reminds you with a pop-up. [Show me Create Backup Now](https://livoenterprises.com/go/how/backup-now) or [Restore from a Different Location](https://livoenterprises.com/go/how/restore-backup).
 
 A backup on the phone is deleted with the app, so keep one off the phone: share it to iCloud Drive, or, with Curator, let Livo copy it to OneDrive.
 
@@ -840,7 +840,7 @@ Part of [Curator](https://livoenterprises.com/guide/curator.html), in Livo Plus.
 
 ### Scanning
 
-[Open the Gallery](https://livoenterprises.com/go/gallery), tap the **≡** menu at the top right, then **Add Photos**, then **Scan Prints**. The camera is Apple's own document scanner: it finds the print's edges, shows the box, and captures when the print is lined up (or on your tap). Lay down the next print and it captures again. Tap **Save** when the batch is done — about twenty prints at a time is comfortable.
+[Open the Gallery](https://livoenterprises.com/go/gallery), tap the **≡** menu at the top right, then **Add Photos**, then **Scan Prints**. The camera is Apple's own document scanner: it finds the print's edges, shows the box, and captures when the print is lined up (or on your tap). Lay down the next print and it captures again. Tap **Save** when the batch is done — about twenty prints at a time is comfortable. [Show me where](https://livoenterprises.com/go/how/scan-prints).
 
 The first time, iOS asks for permission to use the camera.
 
@@ -910,7 +910,7 @@ A Memory video shared this way is a plain video the family can play in the OneDr
 
 [Open Organize › Curator › Family](https://livoenterprises.com/go/organize/family). One section per family member, newest first, with **NEW** on what arrived since you last looked, and "In your Livo" on what you already have. **Add to Livo** on a photo or video puts it in your Camera Roll and your Gallery with the sender's date, story, people and place. **Add to My Livo** on a capsule brings it in as described in [Sending to someone](https://livoenterprises.com/guide/sending-to-someone.html). **Play** and **View** just look.
 
-The Organize book and the Gallery's **≡** menu carry a badge when the family has shared something new; **Receive from Family** (under **≡**, then **Add Photos**) brings in everything new at once. While Livo is closed, a quiet notification may tell you the family shared something.
+The Organize book and the Gallery's **≡** menu carry a badge when the family has shared something new; **Receive from Family** (under **≡**, then **Add Photos**) brings in everything new at once. While Livo is closed, a quiet notification may tell you the family shared something. [Show me where](https://livoenterprises.com/go/how/receive-family).
 
 If more than one of your Microsoft accounts is signed in, Livo reads every one: each section header says which account it came through, an entry reachable through two accounts is listed once, and an account that needs a new sign-in is named and skipped.
 

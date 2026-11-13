@@ -20,7 +20,7 @@ A Memory video shared this way is a plain video the family can play in the OneDr
 
 [Open Organize › Curator › Family](https://livoenterprises.com/go/organize/family). One section per family member, newest first, with **NEW** on what arrived since you last looked, and "In your Livo" on what you already have. **Add to Livo** on a photo or video puts it in your Camera Roll and your Gallery with the sender's date, story, people and place. **Add to My Livo** on a capsule brings it in as described in [Sending to someone](https://livoenterprises.com/guide/sending-to-someone.html). **Play** and **View** just look.
 
-The Organize book and the Gallery's **≡** menu carry a badge when the family has shared something new; **Receive from Family** (under **≡**, then **Add Photos**) brings in everything new at once. While Livo is closed, a quiet notification may tell you the family shared something.
+The Organize book and the Gallery's **≡** menu carry a badge when the family has shared something new; **Receive from Family** (under **≡**, then **Add Photos**) brings in everything new at once. While Livo is closed, a quiet notification may tell you the family shared something. [Show me where](https://livoenterprises.com/go/how/receive-family).
 
 If more than one of your Microsoft accounts is signed in, Livo reads every one: each section header says which account it came through, an entry reachable through two accounts is listed once, and an account that needs a new sign-in is named and skipped.
 

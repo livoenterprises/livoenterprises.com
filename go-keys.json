@@ -320,5 +320,61 @@
   "where": "Organize, then Settings, then About.",
   "guide": "settings-and-your-look",
   "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "how/add-photos",
+  "title": "Show me: Add photos",
+  "where": "Open the Gallery, tap the ≡ menu at the top right, then Add Photos.",
+  "guide": "bringing-in-your-photos",
+  "build": "20261113_0621_FocusLinks"
+ },
+ {
+  "key": "how/add-from-onedrive",
+  "title": "Show me: Add from OneDrive",
+  "where": "Open the Gallery, tap the ≡ menu, then Add Photos, then Add from OneDrive (Curator).",
+  "guide": "onedrive-and-your-accounts",
+  "build": "20261113_0621_FocusLinks"
+ },
+ {
+  "key": "how/receive-family",
+  "title": "Show me: Receive from Family",
+  "where": "Open the Gallery, tap the ≡ menu, then Add Photos, then Receive from Family (Curator).",
+  "guide": "family-share",
+  "build": "20261113_0621_FocusLinks"
+ },
+ {
+  "key": "how/scan-prints",
+  "title": "Show me: Scan Prints",
+  "where": "Open the Gallery, tap the ≡ menu, then Add Photos, then Scan Prints (Curator).",
+  "guide": "scan-prints",
+  "build": "20261113_0621_FocusLinks"
+ },
+ {
+  "key": "how/select-photos",
+  "title": "Show me: Select photos",
+  "where": "Open the Gallery and tap Select at the top right.",
+  "guide": "finding-photos",
+  "build": "20261113_0621_FocusLinks"
+ },
+ {
+  "key": "how/add-person",
+  "title": "Show me: Add a person",
+  "where": "Organize, then People, then Add a person.",
+  "guide": "people-places-and-more",
+  "build": "20261113_0621_FocusLinks"
+ },
+ {
+  "key": "how/backup-now",
+  "title": "Show me: Create Backup Now",
+  "where": "Organize, then Backup, then Create Backup Now.",
+  "guide": "backup-and-restore",
+  "build": "20261113_0621_FocusLinks"
+ },
+ {
+  "key": "how/restore-backup",
+  "title": "Show me: Restore a backup",
+  "where": "Organize, then Backup, then Restore from a Different Location.",
+  "guide": "backup-and-restore",
+  "build": "20261113_0621_FocusLinks"
  }
 ]

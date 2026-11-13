@@ -10,7 +10,7 @@ A backup holds everything Livo knows about your photos. Your photos themselves s
 
 ## Making one
 
-**Create Backup Now** runs in the background; the card and Activity show the steps. Livo keeps the screen on while it works. Backups are named Livo_Backup_ with the date and time, and nothing already there is ever overwritten. The backup is saved on this phone (On My iPhone › Livo › Livo Backup); **Share** on a backup puts it in iCloud Drive or any folder in Files. With [Curator](https://livoenterprises.com/guide/curator.html), **Copy new backups to OneDrive** copies each one to the private **Livo Backup** folder in your OneDrive as well. "Last backup: …" under the row tells you how long ago. Livo never backs up on its own and never reminds you with a pop-up.
+**Create Backup Now** runs in the background; the card and Activity show the steps. Livo keeps the screen on while it works. Backups are named Livo_Backup_ with the date and time, and nothing already there is ever overwritten. The backup is saved on this phone (On My iPhone › Livo › Livo Backup); **Share** on a backup puts it in iCloud Drive or any folder in Files. With [Curator](https://livoenterprises.com/guide/curator.html), **Copy new backups to OneDrive** copies each one to the private **Livo Backup** folder in your OneDrive as well. "Last backup: …" under the row tells you how long ago. Livo never backs up on its own and never reminds you with a pop-up. [Show me Create Backup Now](https://livoenterprises.com/go/how/backup-now) or [Restore from a Different Location](https://livoenterprises.com/go/how/restore-backup).
 
 A backup on the phone is deleted with the app, so keep one off the phone: share it to iCloud Drive, or, with Curator, let Livo copy it to OneDrive.
 
