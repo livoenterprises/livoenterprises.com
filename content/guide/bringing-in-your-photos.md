@@ -1,7 +1,7 @@
 ---
 title: Bringing in your photos
-description: Importing from the Camera Roll and iCloud Photos, what Livo keeps, the + badge, and the other ways photos arrive.
-version: 6
+description: Importing from the Camera Roll and iCloud Photos, what Livo keeps, the badge on the ≡ menu, and the other ways photos arrive.
+version: 7
 updated: 2026-11-13
 order: 3
 app: guide
@@ -11,7 +11,7 @@ lede: Livo reads your Camera Roll and keeps a small copy of each photo. Your pho
 
 ## Add from Camera Roll
 
-[Open the Gallery](livo://gallery), tap **+** at the top right, then **Add from Camera Roll**. Livo asks for permission to your Photos the first time, then brings in every photo and video, newest first, including photos that live only in iCloud. A big library takes a while; you can keep using Livo, and the progress shows under the Gallery header.
+[Open the Gallery](livo://gallery), tap the **≡** menu at the top right, then **Add Photos**, then **Add from Camera Roll**. Livo asks for permission to your Photos the first time, then brings in every photo and video, newest first, including photos that live only in iCloud. A big library takes a while; you can keep using Livo, and the progress shows under the Gallery header.
 
 If you allowed Livo only some of your photos, it works with those and says so. Before it starts, Livo checks your free space ("Importing about 140 items needs about 2.3 GB"): it warns if the import would leave under 2 GB, and will not start below 1 GB. If space runs out part way, the import pauses and keeps everything it has brought in; start another import to carry on.
 
@@ -19,9 +19,9 @@ If you allowed Livo only some of your photos, it works with those and says so. B
 
 For every photo: its date, place, size and a small copy (800 × 800) that Livo uses when Photos is slow, when a photo is only in iCloud, or when it is gone from this phone. Your photos themselves stay in your Camera Roll. Deleting a photo in Livo never deletes it in Photos.
 
-## The + badge
+## The badge on the ≡ menu
 
-The **+** carries a number when there is something new to bring in: photos added to your Camera Roll since the last import. A photo Livo itself put in your Camera Roll (a photo from a capsule you received, say) is not counted as new.
+The **≡** menu carries a small red number when there is something new to bring in: photos added to your Camera Roll since the last import. A photo Livo itself put in your Camera Roll (a photo from a capsule you received, say) is not counted as new.
 
 ## Other ways photos arrive
 

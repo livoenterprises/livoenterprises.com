@@ -1,8 +1,8 @@
 ---
 title: Curator
 description: What Curator is, who it is for, the tools it adds, and how it fits in Livo Plus.
-version: 6
-updated: 2026-11-12
+version: 7
+updated: 2026-11-13
 order: 20
 app: guide
 screen: curator
@@ -42,7 +42,7 @@ Curator never hides data. Everything a Curator tool made stays readable when Cur
 
 ### Sources
 
-Where photos come from and where they live: [Scan Prints](livo://organize/curator/sources/scan-prints), [Media Sources](livo://organize/curator/sources/media-sources) and [OneDrive Accounts](livo://organize/curator/sources/accounts). Add from Camera Roll and Add from OneDrive stay in the Gallery’s **+** menu.
+Where photos come from and where they live: [Scan Prints](livo://organize/curator/sources/scan-prints), [Media Sources](livo://organize/curator/sources/media-sources) and [OneDrive Accounts](livo://organize/curator/sources/accounts). Add from Camera Roll and Add from OneDrive stay in the Gallery’s **≡** menu, under **Add Photos**.
 
 ### Safekeeping
 

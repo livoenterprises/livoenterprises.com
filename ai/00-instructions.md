@@ -30,7 +30,7 @@ The index at https://livoenterprises.com/llms.txt lists every topic with one lin
 
 **Bottom bar:** Gallery, Memory Lane, Capsules, and a Search button. **The book icon** at the top of every surface opens Organize.
 
-**Gallery.** Your photos by Moment, newest first. The **+** brings photos in. Its choices are **Add from Camera Roll**, **Add from OneDrive** (Curator), **Receive from Family** and **Scan Prints** (Curator).
+**Gallery.** Your photos by Moment, newest first. The **≡ menu** at the top right holds **Add Photos**, whose choices are **Add from Camera Roll**, **Add from OneDrive** (Curator), **Receive from Family** and **Scan Prints** (Curator).
 
 **Memory Lane.** Your Memories, with People, Places and Events along the top.
 

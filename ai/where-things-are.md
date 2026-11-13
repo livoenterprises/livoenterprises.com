@@ -1,6 +1,6 @@
 # Where things are
 
-*Guide topic 2 · version 6 · updated 2026-11-12 · https://livoenterprises.com/guide/where-things-are.html*
+*Guide topic 2 · version 7 · updated 2026-11-13 · https://livoenterprises.com/guide/where-things-are.html*
 
 Livo has three surfaces along the bottom, a Search button, and a book of everything else.
 
@@ -8,7 +8,7 @@ Livo has three surfaces along the bottom, a Search button, and a book of everyth
 
 [Open the Gallery](https://livoenterprises.com/go/gallery)
 
-Your photos by Moment, newest first. Tap **+** to bring more in from your Camera Roll, or to open a capsule someone sent. Swipe a tile up to mark it. Tap the tag icon on a Moment to say who is in it and what happened; tap the face icon to name the faces Livo found. Select photos to tag, share, make a Memory of them, or add them to an Event. The search field at the top finds photos from a few words, and Filter narrows the Gallery by people, places, events, dates and more. The Gallery keeps its place when you go to another surface and come back.
+Your photos by Moment, newest first. Tap the **≡** menu at the top right, then **Add Photos**, to bring more in from your Camera Roll. Swipe a tile up to mark it. Tap the tag icon on a Moment to say who is in it and what happened; tap the face icon to name the faces Livo found. Select photos to tag, share, make a Memory of them, or add them to an Event. The search field at the top finds photos from a few words, and Filter narrows the Gallery by people, places, events, dates and more. The Gallery keeps its place when you go to another surface and come back.
 
 ## Memory Lane
 

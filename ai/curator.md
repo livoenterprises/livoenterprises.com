@@ -1,6 +1,6 @@
 # Curator
 
-*Guide topic 20 · version 6 · updated 2026-11-12 · https://livoenterprises.com/guide/curator.html*
+*Guide topic 20 · version 7 · updated 2026-11-13 · https://livoenterprises.com/guide/curator.html*
 
 Livo is for everyone with photos on an iPhone. Curator, part of Livo Plus, is for the one person in the family who keeps the archive.
 
@@ -37,7 +37,7 @@ Curator never hides data. Everything a Curator tool made stays readable when Cur
 
 ### Sources
 
-Where photos come from and where they live: [Scan Prints](https://livoenterprises.com/go/organize/curator/sources/scan-prints), [Media Sources](https://livoenterprises.com/go/organize/curator/sources/media-sources) and [OneDrive Accounts](https://livoenterprises.com/go/organize/curator/sources/accounts). Add from Camera Roll and Add from OneDrive stay in the Gallery’s **+** menu.
+Where photos come from and where they live: [Scan Prints](https://livoenterprises.com/go/organize/curator/sources/scan-prints), [Media Sources](https://livoenterprises.com/go/organize/curator/sources/media-sources) and [OneDrive Accounts](https://livoenterprises.com/go/organize/curator/sources/accounts). Add from Camera Roll and Add from OneDrive stay in the Gallery’s **≡** menu, under **Add Photos**.
 
 ### Safekeeping
 

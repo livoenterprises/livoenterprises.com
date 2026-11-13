@@ -7,7 +7,7 @@ Read https://livoenterprises.com/ai/00-instructions.md first (the rules and a ma
 
 - [Getting started](https://livoenterprises.com/ai/getting-started.md): The six steps on Livo's Getting Started list, in the order a first capsule gets made.
 - [Where things are](https://livoenterprises.com/ai/where-things-are.md): The Gallery, Memory Lane, Capsules, the book (Organize) and Search, in one page.
-- [Bringing in your photos](https://livoenterprises.com/ai/bringing-in-your-photos.md): Importing from the Camera Roll and iCloud Photos, what Livo keeps, the + badge, and the other ways photos arrive.
+- [Bringing in your photos](https://livoenterprises.com/ai/bringing-in-your-photos.md): Importing from the Camera Roll and iCloud Photos, what Livo keeps, the badge on the ≡ menu, and the other ways photos arrive.
 - [Moments and the Gallery](https://livoenterprises.com/ai/moments-and-the-gallery.md): Choosing a Moment, marking photos, selecting them, and what the bar at the bottom does.
 - [Tag the Moment](https://livoenterprises.com/ai/tag-the-moment.md): Saying who is in a day's photos, what the event was and where it happened, one thing at a time, with the shortcuts that make it fast.
 - [Naming the faces](https://livoenterprises.com/ai/naming-the-faces.md): How Livo helps you name everyone in a Moment, quickly and by hand.

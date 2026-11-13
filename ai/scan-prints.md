@@ -1,14 +1,14 @@
 # Scan Prints
 
-*Guide topic 21 · version 3 · updated 2026-11-10 · https://livoenterprises.com/guide/scan-prints.html*
+*Guide topic 21 · version 4 · updated 2026-11-13 · https://livoenterprises.com/guide/scan-prints.html*
 
 Hold the phone over a print. Livo finds its edges, straightens it, and keeps going to the next one.
 
-Part of [Curator](https://livoenterprises.com/guide/curator.html), in Livo Plus. With Curator on, **Scan Prints** is in the Gallery's **+** menu.
+Part of [Curator](https://livoenterprises.com/guide/curator.html), in Livo Plus. With Curator on, **Scan Prints** is in the Gallery's **≡** menu, under **Add Photos**.
 
 ## Scanning
 
-[Open the Gallery](https://livoenterprises.com/go/gallery), tap **+**, then **Scan Prints**. The camera is Apple's own document scanner: it finds the print's edges, shows the box, and captures when the print is lined up (or on your tap). Lay down the next print and it captures again. Tap **Save** when the batch is done — about twenty prints at a time is comfortable.
+[Open the Gallery](https://livoenterprises.com/go/gallery), tap the **≡** menu at the top right, then **Add Photos**, then **Scan Prints**. The camera is Apple's own document scanner: it finds the print's edges, shows the box, and captures when the print is lined up (or on your tap). Lay down the next print and it captures again. Tap **Save** when the batch is done — about twenty prints at a time is comfortable.
 
 The first time, iOS asks for permission to use the camera.
 

@@ -32,7 +32,7 @@ Each topic below is also a page at https://livoenterprises.com/guide/ and in the
 
 **Bottom bar:** Gallery, Memory Lane, Capsules, and a Search button. **The book icon** at the top of every surface opens Organize.
 
-**Gallery.** Your photos by Moment, newest first. The **+** brings photos in. Its choices are **Add from Camera Roll**, **Add from OneDrive** (Curator), **Receive from Family** and **Scan Prints** (Curator).
+**Gallery.** Your photos by Moment, newest first. The **≡ menu** at the top right holds **Add Photos**, whose choices are **Add from Camera Roll**, **Add from OneDrive** (Curator), **Receive from Family** and **Scan Prints** (Curator).
 
 **Memory Lane.** Your Memories, with People, Places and Events along the top.
 
@@ -59,7 +59,7 @@ The topics, in order. Each is also at https://livoenterprises.com/guide/<name>.h
 
 1. **Getting started** — The six steps on Livo's Getting Started list, in the order a first capsule gets made.
 2. **Where things are** — The Gallery, Memory Lane, Capsules, the book (Organize) and Search, in one page.
-3. **Bringing in your photos** — Importing from the Camera Roll and iCloud Photos, what Livo keeps, the + badge, and the other ways photos arrive.
+3. **Bringing in your photos** — Importing from the Camera Roll and iCloud Photos, what Livo keeps, the badge on the ≡ menu, and the other ways photos arrive.
 4. **Moments and the Gallery** — Choosing a Moment, marking photos, selecting them, and what the bar at the bottom does.
 5. **Tag the Moment** — Saying who is in a day's photos, what the event was and where it happened, one thing at a time, with the shortcuts that make it fast.
 6. **Naming the faces** — How Livo helps you name everyone in a Moment, quickly and by hand.
@@ -129,7 +129,7 @@ Two more things worth a minute, both in Settings: [your name](https://livoenterp
 
 # Topic: Where things are
 
-*Guide topic 2 · version 6 · updated 2026-11-12 · https://livoenterprises.com/guide/where-things-are.html*
+*Guide topic 2 · version 7 · updated 2026-11-13 · https://livoenterprises.com/guide/where-things-are.html*
 
 Livo has three surfaces along the bottom, a Search button, and a book of everything else.
 
@@ -137,7 +137,7 @@ Livo has three surfaces along the bottom, a Search button, and a book of everyth
 
 [Open the Gallery](https://livoenterprises.com/go/gallery)
 
-Your photos by Moment, newest first. Tap **+** to bring more in from your Camera Roll, or to open a capsule someone sent. Swipe a tile up to mark it. Tap the tag icon on a Moment to say who is in it and what happened; tap the face icon to name the faces Livo found. Select photos to tag, share, make a Memory of them, or add them to an Event. The search field at the top finds photos from a few words, and Filter narrows the Gallery by people, places, events, dates and more. The Gallery keeps its place when you go to another surface and come back.
+Your photos by Moment, newest first. Tap the **≡** menu at the top right, then **Add Photos**, to bring more in from your Camera Roll. Swipe a tile up to mark it. Tap the tag icon on a Moment to say who is in it and what happened; tap the face icon to name the faces Livo found. Select photos to tag, share, make a Memory of them, or add them to an Event. The search field at the top finds photos from a few words, and Filter narrows the Gallery by people, places, events, dates and more. The Gallery keeps its place when you go to another surface and come back.
 
 ### Memory Lane
 
@@ -167,13 +167,13 @@ Tap **Search** in the bottom bar and the cursor goes to the search field at the 
 
 # Topic: Bringing in your photos
 
-*Guide topic 3 · version 6 · updated 2026-11-13 · https://livoenterprises.com/guide/bringing-in-your-photos.html*
+*Guide topic 3 · version 7 · updated 2026-11-13 · https://livoenterprises.com/guide/bringing-in-your-photos.html*
 
 Livo reads your Camera Roll and keeps a small copy of each photo. Your photos stay where they are, and Livo never deletes or changes them.
 
 ### Add from Camera Roll
 
-[Open the Gallery](https://livoenterprises.com/go/gallery), tap **+** at the top right, then **Add from Camera Roll**. Livo asks for permission to your Photos the first time, then brings in every photo and video, newest first, including photos that live only in iCloud. A big library takes a while; you can keep using Livo, and the progress shows under the Gallery header.
+[Open the Gallery](https://livoenterprises.com/go/gallery), tap the **≡** menu at the top right, then **Add Photos**, then **Add from Camera Roll**. Livo asks for permission to your Photos the first time, then brings in every photo and video, newest first, including photos that live only in iCloud. A big library takes a while; you can keep using Livo, and the progress shows under the Gallery header.
 
 If you allowed Livo only some of your photos, it works with those and says so. Before it starts, Livo checks your free space ("Importing about 140 items needs about 2.3 GB"): it warns if the import would leave under 2 GB, and will not start below 1 GB. If space runs out part way, the import pauses and keeps everything it has brought in; start another import to carry on.
 
@@ -181,9 +181,9 @@ If you allowed Livo only some of your photos, it works with those and says so. B
 
 For every photo: its date, place, size and a small copy (800 × 800) that Livo uses when Photos is slow, when a photo is only in iCloud, or when it is gone from this phone. Your photos themselves stay in your Camera Roll. Deleting a photo in Livo never deletes it in Photos.
 
-### The + badge
+### The badge on the ≡ menu
 
-The **+** carries a number when there is something new to bring in: photos added to your Camera Roll since the last import. A photo Livo itself put in your Camera Roll (a photo from a capsule you received, say) is not counted as new.
+The **≡** menu carries a small red number when there is something new to bring in: photos added to your Camera Roll since the last import. A photo Livo itself put in your Camera Roll (a photo from a capsule you received, say) is not counted as new.
 
 ### Other ways photos arrive
 
@@ -770,7 +770,7 @@ Everything that makes a gift worth sending, and everything needed to open one, i
 
 # Topic: Curator
 
-*Guide topic 20 · version 6 · updated 2026-11-12 · https://livoenterprises.com/guide/curator.html*
+*Guide topic 20 · version 7 · updated 2026-11-13 · https://livoenterprises.com/guide/curator.html*
 
 Livo is for everyone with photos on an iPhone. Curator, part of Livo Plus, is for the one person in the family who keeps the archive.
 
@@ -807,7 +807,7 @@ Curator never hides data. Everything a Curator tool made stays readable when Cur
 
 #### Sources
 
-Where photos come from and where they live: [Scan Prints](https://livoenterprises.com/go/organize/curator/sources/scan-prints), [Media Sources](https://livoenterprises.com/go/organize/curator/sources/media-sources) and [OneDrive Accounts](https://livoenterprises.com/go/organize/curator/sources/accounts). Add from Camera Roll and Add from OneDrive stay in the Gallery’s **+** menu.
+Where photos come from and where they live: [Scan Prints](https://livoenterprises.com/go/organize/curator/sources/scan-prints), [Media Sources](https://livoenterprises.com/go/organize/curator/sources/media-sources) and [OneDrive Accounts](https://livoenterprises.com/go/organize/curator/sources/accounts). Add from Camera Roll and Add from OneDrive stay in the Gallery’s **≡** menu, under **Add Photos**.
 
 #### Safekeeping
 
@@ -832,15 +832,15 @@ Each one looks first and asks before it changes anything.
 
 # Topic: Scan Prints
 
-*Guide topic 21 · version 3 · updated 2026-11-10 · https://livoenterprises.com/guide/scan-prints.html*
+*Guide topic 21 · version 4 · updated 2026-11-13 · https://livoenterprises.com/guide/scan-prints.html*
 
 Hold the phone over a print. Livo finds its edges, straightens it, and keeps going to the next one.
 
-Part of [Curator](https://livoenterprises.com/guide/curator.html), in Livo Plus. With Curator on, **Scan Prints** is in the Gallery's **+** menu.
+Part of [Curator](https://livoenterprises.com/guide/curator.html), in Livo Plus. With Curator on, **Scan Prints** is in the Gallery's **≡** menu, under **Add Photos**.
 
 ### Scanning
 
-[Open the Gallery](https://livoenterprises.com/go/gallery), tap **+**, then **Scan Prints**. The camera is Apple's own document scanner: it finds the print's edges, shows the box, and captures when the print is lined up (or on your tap). Lay down the next print and it captures again. Tap **Save** when the batch is done — about twenty prints at a time is comfortable.
+[Open the Gallery](https://livoenterprises.com/go/gallery), tap the **≡** menu at the top right, then **Add Photos**, then **Scan Prints**. The camera is Apple's own document scanner: it finds the print's edges, shows the box, and captures when the print is lined up (or on your tap). Lay down the next print and it captures again. Tap **Save** when the batch is done — about twenty prints at a time is comfortable.
 
 The first time, iOS asks for permission to use the camera.
 
@@ -890,7 +890,7 @@ None of them is ever imported as photos. Livo deletes inside them only what you 
 
 # Topic: Family Share
 
-*Guide topic 23 · version 5 · updated 2026-11-12 · https://livoenterprises.com/guide/family-share.html*
+*Guide topic 23 · version 6 · updated 2026-11-13 · https://livoenterprises.com/guide/family-share.html*
 
 Each family member has a Livo Family Share folder in their own OneDrive. You write in yours; the family reads it. Nothing goes through a server.
 
@@ -910,7 +910,7 @@ A Memory video shared this way is a plain video the family can play in the OneDr
 
 [Open Organize › Curator › Family](https://livoenterprises.com/go/organize/family). One section per family member, newest first, with **NEW** on what arrived since you last looked, and "In your Livo" on what you already have. **Add to Livo** on a photo or video puts it in your Camera Roll and your Gallery with the sender's date, story, people and place. **Add to My Livo** on a capsule brings it in as described in [Sending to someone](https://livoenterprises.com/guide/sending-to-someone.html). **Play** and **View** just look.
 
-The Organize book and the Gallery's **+** carry a badge when the family has shared something new; **Receive from Family** under **+** brings in everything new at once. While Livo is closed, a quiet notification may tell you the family shared something.
+The Organize book and the Gallery's **≡** menu carry a badge when the family has shared something new; **Receive from Family** (under **≡**, then **Add Photos**) brings in everything new at once. While Livo is closed, a quiet notification may tell you the family shared something.
 
 If more than one of your Microsoft accounts is signed in, Livo reads every one: each section header says which account it came through, an entry reachable through two accounts is listed once, and an account that needs a new sign-in is named and skipped.
 
