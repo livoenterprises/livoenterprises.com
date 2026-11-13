@@ -1,0 +1,324 @@
+[
+ {
+  "key": "gallery",
+  "title": "The Gallery",
+  "where": "Tap Gallery at the bottom of Livo.",
+  "guide": "finding-photos",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "memory-lane",
+  "title": "Memory Lane",
+  "where": "Tap Memory Lane at the bottom of Livo.",
+  "guide": "memory-lane",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "vault",
+  "title": "The Vault",
+  "where": "Tap Vault at the bottom of Livo.",
+  "guide": "time-capsules-and-the-vault",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "vault/places",
+  "title": "Vault: Places",
+  "where": "Vault, then Places.",
+  "guide": "time-capsules-and-the-vault",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "search",
+  "title": "Search",
+  "where": "Tap the search field at the top of the Gallery.",
+  "guide": "finding-photos",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "gallery/filter",
+  "title": "Gallery: Filter",
+  "where": "Gallery, then Filter at the top.",
+  "guide": "finding-photos",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "gallery/moments",
+  "title": "Gallery: Moments",
+  "where": "Gallery, then Moments at the top.",
+  "guide": "moments-and-the-gallery",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "getting-started",
+  "title": "Getting Started",
+  "where": "Organize (the book icon), then Getting Started.",
+  "guide": "getting-started",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize",
+  "title": "Organize",
+  "where": "Tap the book icon at the top of any screen.",
+  "guide": "where-things-are",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/getting-started",
+  "title": "Organize: Getting Started",
+  "where": "Organize, then Getting Started.",
+  "guide": "getting-started",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/guide",
+  "title": "Organize: Guide",
+  "where": "Organize, then Guide.",
+  "guide": "where-things-are",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/people",
+  "title": "Organize: People",
+  "where": "Organize, then People.",
+  "guide": "people-places-and-more",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/places",
+  "title": "Organize: Places",
+  "where": "Organize, then Places.",
+  "guide": "people-places-and-more",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/events",
+  "title": "Organize: Events",
+  "where": "Organize, then Events.",
+  "guide": "people-places-and-more",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/life-events",
+  "title": "Organize: Life Events",
+  "where": "Organize, then Life Events.",
+  "guide": "people-places-and-more",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/tags",
+  "title": "Organize: Tags",
+  "where": "Organize, then Tags.",
+  "guide": "people-places-and-more",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/buckets",
+  "title": "Organize: Buckets",
+  "where": "Organize, then Buckets.",
+  "guide": "people-places-and-more",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/activity",
+  "title": "Organize: Activity",
+  "where": "Organize, then Activity.",
+  "guide": "where-things-are",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/trash",
+  "title": "Organize: Trash",
+  "where": "Organize, then Trash.",
+  "guide": "trash",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/settings",
+  "title": "Organize: Settings",
+  "where": "Organize, then Settings.",
+  "guide": "settings-and-your-look",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/family",
+  "title": "Organize: Family",
+  "where": "Organize, then Curator, then Family.",
+  "guide": "family-share",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/backup",
+  "title": "Organize: Backup and Restore",
+  "where": "Organize, then Curator, then Safekeeping.",
+  "guide": "backup-and-restore",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/curator",
+  "title": "Curator",
+  "where": "Organize, then Curator.",
+  "guide": "curator",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/curator/sources",
+  "title": "Curator: Sources",
+  "where": "Organize, then Curator, then Sources.",
+  "guide": "curator",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/curator/safekeeping",
+  "title": "Curator: Safekeeping",
+  "where": "Organize, then Curator, then Safekeeping.",
+  "guide": "curator",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/curator/family",
+  "title": "Curator: Family",
+  "where": "Organize, then Curator, then Family.",
+  "guide": "family-share",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/curator/cleanup",
+  "title": "Curator: Clean up and review",
+  "where": "Organize, then Curator, then Clean up and review.",
+  "guide": "curator",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/curator/sources/scan-prints",
+  "title": "Curator: Scan Prints",
+  "where": "Organize, then Curator, then Sources, then Scan Prints.",
+  "guide": "scan-prints",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/curator/sources/media-sources",
+  "title": "Curator: Where My Photos Are",
+  "where": "Organize, then Curator, then Sources, then Where My Photos Are.",
+  "guide": "bringing-in-your-photos",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/curator/sources/accounts",
+  "title": "Curator: OneDrive Accounts",
+  "where": "Organize, then Curator, then Sources, then OneDrive Accounts.",
+  "guide": "onedrive-and-your-accounts",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/curator/safekeeping/backup",
+  "title": "Curator: Backup and Restore",
+  "where": "Organize, then Curator, then Safekeeping, then Backup and Restore.",
+  "guide": "backup-and-restore",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/curator/family/inbox",
+  "title": "Curator: Family Inbox",
+  "where": "Organize, then Curator, then Family, then Family Inbox.",
+  "guide": "family-share",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/curator/family/receive",
+  "title": "Curator: Receive from Family",
+  "where": "Organize, then Curator, then Family, then Receive from Family.",
+  "guide": "family-share",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/curator/family/setup",
+  "title": "Curator: Family Setup",
+  "where": "Organize, then Curator, then Family, then Family Setup.",
+  "guide": "family-share",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/curator/cleanup/duplicates",
+  "title": "Curator: Duplicate Check",
+  "where": "Organize, then Curator, then Clean up and review, then Duplicate Check.",
+  "guide": "curator",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/curator/cleanup/fix-dates",
+  "title": "Curator: Fix Dates from File Names",
+  "where": "Organize, then Curator, then Clean up and review, then Fix Dates from File Names.",
+  "guide": "curator",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/curator/cleanup/earliest-dates",
+  "title": "Curator: Earliest Dates",
+  "where": "Organize, then Curator, then Clean up and review, then Earliest Dates.",
+  "guide": "curator",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/curator/cleanup/life-events",
+  "title": "Curator: Life Events clean-up",
+  "where": "Organize, then Curator, then Clean up and review, then Life Events clean-up.",
+  "guide": "curator",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/curator/cleanup/live-links",
+  "title": "Curator: Fix Live Photo Links",
+  "where": "Organize, then Curator, then Clean up and review, then Fix Live Photo Links.",
+  "guide": "curator",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "organize/curator/cleanup/apple-keywords",
+  "title": "Curator: Read Apple's Keywords and Ratings",
+  "where": "Organize, then Curator, then Clean up and review, then Read Apple's Keywords and Ratings.",
+  "guide": "curator",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "settings",
+  "title": "Settings",
+  "where": "Organize, then Settings.",
+  "guide": "settings-and-your-look",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "settings/your-name",
+  "title": "Settings: Your Name",
+  "where": "Organize, then Settings, then Your Name.",
+  "guide": "settings-and-your-look",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "settings/appearance",
+  "title": "Settings: Appearance",
+  "where": "Organize, then Settings, then Appearance.",
+  "guide": "settings-and-your-look",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "settings/onedrive",
+  "title": "Settings: OneDrive",
+  "where": "Organize, then Settings, then OneDrive.",
+  "guide": "onedrive-and-your-accounts",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "settings/family-share",
+  "title": "Settings: Family Share",
+  "where": "Organize, then Settings, then OneDrive, then Family Share.",
+  "guide": "family-share",
+  "build": "20261112_1935_UniversalLinks"
+ },
+ {
+  "key": "settings/about",
+  "title": "Settings: About",
+  "where": "Organize, then Settings, then About.",
+  "guide": "settings-and-your-look",
+  "build": "20261112_1935_UniversalLinks"
+ }
+]

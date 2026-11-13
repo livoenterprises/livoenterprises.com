@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["C4Z3S67P82.com.livoenterprises.livo"],
+        "components": [
+          { "/": "/go/*", "comment": "Livo links: livoenterprises.com/go/<key> open a screen in the app." }
+        ]
+      }
+    ]
+  }
+}
