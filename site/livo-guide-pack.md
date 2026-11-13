@@ -1,6 +1,6 @@
 # The Livo Guide pack
 
-Pack version 1 · built 2026-11-12 · describes the Livo app build 20261112_1901_CuratorCleanUpTools
+Pack version 1 · built 2026-11-12 · describes the Livo app build 20261112_1935_UniversalLinks
 
 ## Read this first: your role
 
