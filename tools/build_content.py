@@ -162,15 +162,29 @@ def check_subset(body, path, rules=FORBIDDEN):
             sys.exit(f"{path}: uses {what}, which is outside the Livo Markdown subset")
 
 
-APP_LINK = re.compile(r'<a href="livo://[^"]*">(.*?)</a>')
+def _load_go_keys():
+    import json
+    p = ROOT / "go-keys.json"
+    return {r["key"] for r in json.load(open(p))} if p.is_file() else None
+
+
+GO_KEYS = _load_go_keys()
+APP_LINK = re.compile(r'<a href="livo://([^"]*)">(.*?)</a>')
 IMG = re.compile(r'<p>\s*<img alt="([^"]*)" src="([^"]+)"\s*/?>\s*</p>')
 
 
 def render_body(body):
     html_out = markdown.markdown(body, output_format="html5", extensions=["smarty"])
-    # A livo:// link opens a screen inside the app. On the web it is the
-    # path in words, marked "in Livo"; it never leaves the page.
-    return APP_LINK.sub(r'<span class="app-link" title="Opens this screen in Livo">\1</span>', html_out)
+    # A livo:// link opens a screen inside the app. On the web it becomes
+    # https://livoenterprises.com/go/<key>: on an iPhone with Livo it opens
+    # the screen, anywhere else it shows that screen's page. The key must be in go-keys.json.
+    def to_go(m):
+        key = m.group(1).strip("/")
+        if GO_KEYS is not None and key not in GO_KEYS:
+            sys.exit(f"A livo:// link names a screen with no /go/ key: {key} (add it to go-keys.json and LivoGoLinks.swift)")
+        return (f'<a class="app-link" href="https://livoenterprises.com/go/{key}" '
+                f'title="Opens this screen in Livo on your iPhone">{m.group(2)}</a>')
+    return APP_LINK.sub(to_go, html_out)
 
 
 def render_note_body(body, path):
