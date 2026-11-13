@@ -11,7 +11,7 @@ PART 1 - the app (script 20261112_1935_UniversalLinks.sh)
 
 PART 2 - the website (zip contents are in the "site" folder)
 1. Find your Apple Team ID: developer.apple.com > Account > Membership details > Team ID (10 letters/numbers).
-2. Edit site/apple-app-site-association.json: replace TEAMID_HERE with it (keep ".com.livoenterprises.livo").
+2. DONE: Team ID C4Z3S67P82 is already in site/apple-app-site-association.json (nothing to edit).
 3. Copy the site folder's contents into  Livo Content Edits/site/ . It adds: go/ (47 pages), go-keys.json, tools/build_go.py,
    apple-app-site-association.json, and updated _headers and _redirects (they replace the old ones; the old lines are kept).
 4. LivoContent.sh publish "Universal links: /go/ pages and association file"
