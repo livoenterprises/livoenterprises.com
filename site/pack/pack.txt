@@ -1,0 +1,5 @@
+version: 1
+built: 2026-11-12
+livo_build: 20261112_1901_CuratorCleanUpTools
+guide_url: https://livoenterprises.com/guide/
+pack_url: https://livoenterprises.com/livo-guide-pack.md

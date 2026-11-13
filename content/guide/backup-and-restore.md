@@ -1,8 +1,8 @@
 ---
 title: Backup & Restore
 description: What a backup holds, where it goes, and how to restore onto this phone or a new one.
-version: 4
-updated: 2026-11-11
+version: 5
+updated: 2026-11-12
 order: 17
 app: guide
 screen: backup
@@ -11,7 +11,7 @@ lede: A backup holds everything Livo knows about your photos. Your photos themse
 
 ## What is in a backup
 
-[Open Organize › Backup & Restore](livo://organize/backup). A backup holds every name, place, story, tag and face you have added, your Memories and narrations, Livo's small copies of your photos, what Livo Search has learned, your family folders list, and your settings. It does not hold the photos themselves (they stay in Photos, or in OneDrive with Curator) or your Time Capsules (they are files; see [Keeping capsules safe](/guide/keeping-capsules-safe.html)).
+[Open Organize › Curator › Backup & Restore](livo://organize/backup). A backup holds every name, place, story, tag and face you have added, your Memories and narrations, Livo's small copies of your photos, what Livo Search has learned, your family folders list, and your settings. It does not hold the photos themselves (they stay in Photos, or in OneDrive with Curator) or your Time Capsules (they are files; see [Keeping capsules safe](/guide/keeping-capsules-safe.html)).
 
 ## Making one
 

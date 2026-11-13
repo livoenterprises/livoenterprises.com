@@ -1,8 +1,8 @@
 ---
 title: People, Places, Life Events, Tags and Buckets
 description: The lists behind your photos - People, Places, Events, Life Events and Tags in Livo; Buckets with Curator.
-version: 4
-updated: 2026-11-11
+version: 5
+updated: 2026-11-12
 order: 24
 app: guide
 screen: organize
@@ -33,8 +33,8 @@ Two entries for one event? Swipe an event and tap **Merge into…**, then pick t
 
 ## Buckets (Curator)
 
-[Open Organize › Curator tools › Buckets](livo://organize/buckets). A Bucket is a hidden shelf: photos moved there leave the Gallery, Moments, Memories, search and every export until you move them back. Not the Trash — nothing is deleted. Swipe a Bucket to **Rename** or **Delete** it. Deleting a Bucket asks first, and every photo still in it goes back to the Gallery. To move photos from one Bucket to another, open the Bucket, select them, and tap the lock button, as in the Gallery.
+[Open Organize › Buckets](livo://organize/buckets). A Bucket is a hidden shelf: photos moved there leave the Gallery, Moments, Memories, search and every export until you move them back. Not the Trash — nothing is deleted. Swipe a Bucket to **Rename** or **Delete** it. Deleting a Bucket asks first, and every photo still in it goes back to the Gallery. To move photos from one Bucket to another, open the Bucket, select them, and tap the lock button, as in the Gallery.
 
 ## Trash
 
-Deleted photos, Memories, capsules, people and places wait in the Trash ([Organize › Curator tools › Trash](livo://organize/trash)) until you restore them or empty it. See [Trash, and what Livo never deletes](/guide/trash.html).
+Deleted photos, Memories, capsules, people and places wait in the Trash ([Organize › Trash](livo://organize/trash)) until you restore them or empty it. See [Trash, and what Livo never deletes](/guide/trash.html).

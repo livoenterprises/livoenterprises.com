@@ -1,0 +1,32 @@
+Livo guide and Guide pack update, 2026-11-12. This zip REPLACES Livo_Guide_Curator_Update_2026-11-12.zip: use this one and not that one.
+
+A. Nine guide topics (content/guide/):
+   curator.md                    new section "The Curator screen" with a linked step per group and row (needs app build 20261112_1820 or later)
+   backup-and-restore.md         path now Organize > Curator > Backup & Restore
+   family-share.md               path now Organize > Curator > Family; "Import from Family Share" is now "Receive from Family"
+   people-places-and-more.md     Buckets and Trash are in Organize itself
+   where-things-are.md           the Organize list as it is now
+   settings-and-your-look.md     "together under Curator in Organize"
+   bringing-in-your-photos.md    "Import from Camera Roll" is now "Add from Camera Roll" (the app's own words)
+   onedrive-and-your-accounts.md "Choose Folders" is "Choose Folders to Add..." and "Reset import progress" is "Start the Scan Over..."
+   livo-and-livo-plus.md         "favourite" is now "favorite" (American English)
+B. The Livo Guide pack (new):
+   site/livo-guide-pack.md       the built pack: one Markdown file, 26 topics + privacy, support, about, a map and a glossary (about 18,000 words)
+   site/pack/                    the pack-only chapters (instructions, map, glossary) and pack.txt (version, date, the Livo build it describes)
+   site/tools/build_pack.py      rebuilds the pack from the guide pages. Python 3 only, nothing to install.
+
+Steps (on the Mac; none of this is a code script, and the guide edits need no Xcode step):
+  1. cd ~/Developer/Projects && ./LivoContent.sh fetch
+  2. ./LivoContent.sh status    - none of the nine guide files should read EDITED-not-published. If one does, tell Claude before step 3.
+  3. ./LivoContent.sh apply ~/Downloads/Livo_Guide_Update_2026-11-12.zip     (expect: about 15 files applied.)
+  4. ./LivoContent.sh publish "Guide: the Curator screen and linked steps, label fixes; the Livo Guide pack"
+     (if it says it skipped or could not copy site/pack or site/tools/build_pack.py, tell Claude; the guide pages are fine either way)
+  5. ./LivoContent.sh sync
+  6. Press Run in Xcode.
+  7. About a minute after publish, open https://livoenterprises.com/livo-guide-pack.md in a browser: the pack should show (or download).
+
+To try the pack now, before any of that: upload Livo_Guide_Pack_2026-11-12.md to an assistant (Claude, ChatGPT, Copilot, Gemini) and say:
+  "This file is the Livo Guide pack. Follow its instructions and be my Livo guide. My question: ..."
+Try three: a how-to ("How do I back up?"), a Plus question ("Is Scan Prints free?"), and something it cannot know ("Find my photos of Emma"). The last should send you to Search.
+
+To rebuild the pack after any guide change: in the Livo Content Edits folder, run  python3 site/tools/build_pack.py  then publish. Change pack.txt first (version, built, livo_build).

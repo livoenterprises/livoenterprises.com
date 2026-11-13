@@ -1,17 +1,17 @@
 ---
 title: Bringing in your photos
 description: Importing from the Camera Roll and iCloud Photos, what Livo keeps, the + badge, and the other ways photos arrive.
-version: 4
-updated: 2026-11-09
+version: 5
+updated: 2026-11-12
 order: 3
 app: guide
 screen: import
 lede: Livo reads your Camera Roll and keeps a small copy of each photo. Your photos stay where they are, and Livo never deletes or changes them.
 ---
 
-## Import from Camera Roll
+## Add from Camera Roll
 
-[Open the Gallery](livo://gallery), tap **+** at the top right, then **Import from Camera Roll**. Livo asks for permission to your Photos the first time, then brings in every photo and video, newest first, including photos that live only in iCloud. A big library takes a while; you can keep using Livo, and the progress shows under the Gallery header.
+[Open the Gallery](livo://gallery), tap **+** at the top right, then **Add from Camera Roll**. Livo asks for permission to your Photos the first time, then brings in every photo and video, newest first, including photos that live only in iCloud. A big library takes a while; you can keep using Livo, and the progress shows under the Gallery header.
 
 If you allowed Livo only some of your photos, it works with those and says so. Before it starts, Livo checks your free space ("Importing about 140 items needs about 2.3 GB"): it warns if the import would leave under 2 GB, and will not start below 1 GB. If space runs out part way, the import pauses and keeps everything it has brought in; start another import to carry on.
 
