@@ -1,0 +1,25 @@
+LIVO UNIVERSAL LINKS - steps (2026-11-12)
+Links look like https://livoenterprises.com/go/organize/curator/cleanup/live-links
+Installed Livo opens on that screen (a row is marked, nothing is pressed). Without Livo, the web page shows.
+
+PART 1 - the app (script 20261112_1935_UniversalLinks.sh)
+1. Paste over ~/Developer/Projects/XcodeUpdate.sh, run: cd ~/Developer/Projects && ./XcodeUpdate.sh
+2. Xcode: File > Add Files to "Livo"... > Livo/App/LivoGoLinks.swift (target Livo, Copy items off).
+3. Xcode, ONE-TIME: target Livo > Signing & Capabilities > + Capability > Associated Domains > + > applinks:livoenterprises.com
+   (Xcode registers it on the App ID; automatic signing handles the profile.)
+4. Press Run. Settings > Build reads 20261112_1935_UniversalLinks.
+
+PART 2 - the website (zip contents are in the "site" folder)
+1. Find your Apple Team ID: developer.apple.com > Account > Membership details > Team ID (10 letters/numbers).
+2. Edit site/apple-app-site-association.json: replace TEAMID_HERE with it (keep ".com.livoenterprises.livo").
+3. Copy the site folder's contents into  Livo Content Edits/site/ . It adds: go/ (47 pages), go-keys.json, tools/build_go.py,
+   apple-app-site-association.json, and updated _headers and _redirects (they replace the old ones; the old lines are kept).
+4. LivoContent.sh publish "Universal links: /go/ pages and association file"
+5. Check in Terminal:
+   curl -s https://livoenterprises.com/.well-known/apple-app-site-association      (shows the JSON, your Team ID in it)
+   curl -sI https://livoenterprises.com/.well-known/apple-app-site-association | grep -i content-type    (application/json)
+   If the first shows the 404 page instead, tell me what it printed.
+
+PART 3 - test (UL-2..UL-7 are in the script header). Apple caches the association file; after the first publish allow up to
+a day on a phone that has not seen it, though a fresh install of the Debug build usually picks it up at once.
+Tip: Links typed in Notes then tapped work; links pasted into Safari's address bar always open the web page (Apple's rule).
