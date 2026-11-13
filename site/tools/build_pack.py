@@ -5,13 +5,15 @@ Run from the root of the Livo Content Edits folder (the one that holds content/ 
     python3 site/tools/build_pack.py
 It reads content/guide/*.md, content/privacy.md, content/support.md, content/about-livo.md and
 site/pack/*.md (+ pack.txt), and writes site/livo-guide-pack.md. Python 3 only, nothing to install.
-Rules: livo:// links keep their words and lose the link (they only work inside the app);
+Rules: livo:// links become https://livoenterprises.com/go/<key> links (they open the screen in Livo on an iPhone);
 /guide/<topic>.html links become https://livoenterprises.com/guide/<topic>.html; front matter is
 turned into a heading and a version line.
 """
 import glob, os, re, sys
 
 ROOT = os.getcwd()
+import json
+GO_KEYS = {r["key"] for r in json.load(open(os.path.join(ROOT, "go-keys.json")))} if os.path.exists(os.path.join(ROOT, "go-keys.json")) else None
 def p(*a): return os.path.join(ROOT, *a)
 
 def read(path):
@@ -30,7 +32,12 @@ def split(text):
     return head, m.group(2).strip("\n")
 
 def links(body):
-    body = re.sub(r"\[([^\]]+)\]\(livo://[^)]*\)", r"\1", body)
+    def go(m):
+        key = m.group(2).strip("/")
+        if GO_KEYS and key not in GO_KEYS:
+            sys.exit("A livo:// link names a screen with no /go/ key: " + key)
+        return "[" + m.group(1) + "](https://livoenterprises.com/go/" + key + ")"
+    body = re.sub(r"\[([^\]]+)\]\(livo://([^)]*)\)", go, body)
     body = re.sub(r"\]\(/guide/([^)]*)\)", r"](https://livoenterprises.com/guide/\1)", body)
     body = re.sub(r"\]\(/([a-z0-9-]+\.html)\)", r"](https://livoenterprises.com/\1)", body)
     return body

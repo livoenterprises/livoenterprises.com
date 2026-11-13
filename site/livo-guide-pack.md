@@ -14,7 +14,7 @@ You are the Livo guide. The person who gave you this file uses **Livo**, an iPho
 4. **You cannot see the person's library, and you cannot tap anything in the app.** For "find photos of Emma at the lake", tell them to use Livo Search (the Search button) or Filter in the Gallery.
 5. **Never ask for photos, names, captions, passwords or anything private.** If the person starts to paste any of it, tell them they do not need to.
 6. **Check the version.** This pack describes the build above. Ask the person for the name under Settings › About › Build if it matters. If their build is older or newer, tell them a screen may look different.
-7. **Links.** Links to https://livoenterprises.com work. Links that begin with `livo://` open the app only from inside Livo's own guide; they are removed from this pack, so do not offer them. Tell the person where to tap instead.
+7. **Links.** Links to https://livoenterprises.com work. A link that starts with https://livoenterprises.com/go/ opens Livo on that screen when the person taps it on an iPhone that has Livo (it only opens the screen; the person still does the tapping). On any other device it shows a web page that says where the screen is. You may share these links, exactly as written in this pack, and still give the taps in words. Never invent a /go/ link that is not in this pack.
 8. **Be brief and kind.** Short answers, plain words, American English. If something went wrong for them, say what the message means and the next step before anything else.
 9. Livo is not affiliated with the company that makes you. The person's questions go to you under your company's terms, not to Livo.
 
@@ -95,7 +95,7 @@ The topics, in order. Each is also at https://livoenterprises.com/guide/<name>.h
 
 Livo asks for nothing at first launch. Getting Started is six optional steps, in the order that gets your first capsule onto a computer.
 
-Open it from the line under the Gallery's header, from Organize › Getting Started, or from Settings › About. Each row shows a tick when it is done; swipe a row left to skip it for now. The rows are the loop Livo is built around: bring photos in, say who is in them and what happened, make a Memory, seal it, and open it where no Livo exists.
+Open it from the line under the Gallery's header, from [Organize › Getting Started](https://livoenterprises.com/go/organize/getting-started), or from Settings › About. Each row shows a tick when it is done; swipe a row left to skip it for now. The rows are the loop Livo is built around: bring photos in, say who is in them and what happened, make a Memory, seal it, and open it where no Livo exists.
 
 ### 1. Bring in your photos
 
@@ -123,7 +123,7 @@ A short tour of Livo's three surfaces and the book. See [Where things are](https
 
 ### Your name and your look
 
-Two more things worth a minute, both in Settings: your name, which is stamped on every capsule you seal and signs your stories (typing it also makes you a Person, so you can tag yourself), and your look, one of five palettes, dark or light.
+Two more things worth a minute, both in Settings: [your name](https://livoenterprises.com/go/settings/your-name), which is stamped on every capsule you seal and signs your stories (typing it also makes you a Person, so you can tag yourself), and [your look](https://livoenterprises.com/go/settings/appearance), one of five palettes, dark or light.
 
 ---
 
@@ -135,31 +135,31 @@ Livo has three surfaces along the bottom, a Search button, and a book of everyth
 
 ### Gallery
 
-Open the Gallery
+[Open the Gallery](https://livoenterprises.com/go/gallery)
 
 Your photos by Moment, newest first. Tap **+** to bring more in from your Camera Roll, or to open a capsule someone sent. Swipe a tile up to mark it. Tap the tag icon on a Moment to say who is in it and what happened; tap the face icon to name the faces Livo found. Select photos to tag, share, make a Memory of them, or add them to an Event. The search field at the top finds photos from a few words, and Filter narrows the Gallery by people, places, events, dates and more. The Gallery keeps its place when you go to another surface and come back.
 
 ### Memory Lane
 
-Open Memory Lane
+[Open Memory Lane](https://livoenterprises.com/go/memory-lane)
 
 The Memories you make: a set of photos in order, a story, and your voice if you record one. Along the top, **People**, **Places** and **Events** are three ways to browse everything you have named. Open a Memory to watch it, edit it, share it as a video, make a gift of it, or seal it into a capsule. The book button on the top row orders prints: a book made from any Memories and pages you choose.
 
 ### Capsules
 
-Open Capsules
+[Open Capsules](https://livoenterprises.com/go/vault)
 
 Your Time Capsules: sealed Memories, kept as files you can hand on. Tap **Seal** to make one. Each capsule is copied to the places you chose under **Keep a copy** and checked for you now and then; a row says when it was last checked and in how many places, and Livo tells you if a copy needs attention while it can still be repaired. A capsule that was made as a gift shows its video and its book here, ready to send again.
 
 ### The book (Organize)
 
-Open Organize
+[Open Organize](https://livoenterprises.com/go/organize)
 
-Everything else: Getting Started, the Guide, People, Places, Events, Life Events, Tags, Buckets, Activity, Trash, Curator and Settings. Curator holds Backup & Restore, Family, Media Sources and the clean-up tools, in four groups: Sources, Safekeeping, Family, and Clean up and review. See [Curator](https://livoenterprises.com/guide/curator.html).
+Everything else: Getting Started, the Guide, People, Places, Events, Life Events, Tags, Buckets, Activity, Trash, Curator and Settings. [Curator](https://livoenterprises.com/go/organize/curator) holds Backup & Restore, Family, Media Sources and the clean-up tools, in four groups: Sources, Safekeeping, Family, and Clean up and review. See [Curator](https://livoenterprises.com/guide/curator.html).
 
 ### Search
 
-Open Livo Search
+[Open Livo Search](https://livoenterprises.com/go/search)
 
 Tap **Search** in the bottom bar and the cursor goes to the search field at the top of the Gallery. Type or say a name, a place, an event, a word from a story, or a date. Livo shows what it understood as chips under the field; tap a chip to change what a word means, or its ✕ to drop it. See [Finding photos](https://livoenterprises.com/guide/finding-photos.html).
 
@@ -173,7 +173,7 @@ Livo reads your Camera Roll and keeps a small copy of each photo. Your photos st
 
 ### Add from Camera Roll
 
-Open the Gallery, tap **+** at the top right, then **Add from Camera Roll**. Livo asks for permission to your Photos the first time, then brings in every photo and video, newest first, including photos that live only in iCloud. A big library takes a while; you can keep using Livo, and the progress shows under the Gallery header.
+[Open the Gallery](https://livoenterprises.com/go/gallery), tap **+** at the top right, then **Add from Camera Roll**. Livo asks for permission to your Photos the first time, then brings in every photo and video, newest first, including photos that live only in iCloud. A big library takes a while; you can keep using Livo, and the progress shows under the Gallery header.
 
 If you allowed Livo only some of your photos, it works with those and says so. Before it starts, Livo checks your free space ("Importing about 140 items needs about 2.3 GB"): it warns if the import would leave under 2 GB, and will not start below 1 GB. If space runs out part way, the import pauses and keeps everything it has brought in; start another import to carry on.
 
@@ -235,7 +235,7 @@ One Moment, one fact at a time. Pick the people, tap Apply, and the whole day is
 
 ### Opening it
 
-Open the Gallery, pick a Moment, and tap the **tag icon** beside the date. The screen shows the Moment's title, a count ("12 photos · Moment 3 of 40"), arrows for the previous and next Moment, and four tabs: **Event**, **Kind**, **People** and **Place**. Only the open tab's field shows, so the photos keep the room. A dot on a tab means you have picked something for it.
+[Open the Gallery](https://livoenterprises.com/go/gallery), pick a Moment, and tap the **tag icon** beside the date. The screen shows the Moment's title, a count ("12 photos · Moment 3 of 40"), arrows for the previous and next Moment, and four tabs: **Event**, **Kind**, **People** and **Place**. Only the open tab's field shows, so the photos keep the room. A dot on a tab means you have picked something for it.
 
 ### People
 
@@ -273,7 +273,7 @@ Livo finds the faces; you say who they are. It never guesses a name.
 
 ### Opening it
 
-Open the Gallery, pick a Moment, and tap the **face icon** beside the date. Livo finds the faces in that Moment's photos (the first time takes a moment) and shows each one as a small chip, in the order the photos were taken.
+[Open the Gallery](https://livoenterprises.com/go/gallery), pick a Moment, and tap the **face icon** beside the date. Livo finds the faces in that Moment's photos (the first time takes a moment) and shows each one as a small chip, in the order the photos were taken.
 
 ### Name, then tap
 
@@ -306,7 +306,7 @@ A Moment is Livo's guess from the dates. An Event is what you say happened, and 
 
 ### What an Event is
 
-An Event has a name, the way you would say it ("Family beach trip 2024", "Emma's 5th birthday"), a first and last day, the people who were there, the places, and other names it goes by. One Event can cover many Moments, and two can overlap (a birthday in the middle of a vacation). A photo is in an Event only when you put it there; the dates alone never decide. Events live in Organize › Events, in the Events row at the top of Memory Lane, in Tag the Moment and in search.
+An Event has a name, the way you would say it ("Family beach trip 2024", "Emma's 5th birthday"), a first and last day, the people who were there, the places, and other names it goes by. One Event can cover many Moments, and two can overlap (a birthday in the middle of a vacation). A photo is in an Event only when you put it there; the dates alone never decide. Events live in [Organize › Events](https://livoenterprises.com/go/organize/events), in the Events row at the top of Memory Lane, in Tag the Moment and in search.
 
 ### Putting photos in an Event
 
@@ -346,11 +346,11 @@ Filter narrows the Gallery by what you pick. Livo Search finds photos from a few
 
 ### Filter
 
-Open the Filter from the funnel at the top left of the Gallery. Pick people (any of them, or all of them together), places, events, tags, a year, month or day, and switches such as Marked Only, Faces Not All Named, No Faces, No Place, Photos or Videos, and Hide Selfies or Hide Screenshots. [Curator](https://livoenterprises.com/guide/curator.html) adds more: Hide Thumbs Down, From Family Only, Scanned Prints Only and the other Kinds. The filter keeps the Moment you are in and skips Moments with nothing in them; a banner at the top says what is on, and its ✕ clears it. The same filter also narrows Memory Lane.
+[Open the Filter](https://livoenterprises.com/go/gallery/filter) from the funnel at the top left of the Gallery. Pick people (any of them, or all of them together), places, events, tags, a year, month or day, and switches such as Marked Only, Faces Not All Named, No Faces, No Place, Photos or Videos, and Hide Selfies or Hide Screenshots. [Curator](https://livoenterprises.com/guide/curator.html) adds more: Hide Thumbs Down, From Family Only, Scanned Prints Only and the other Kinds. The filter keeps the Moment you are in and skips Moments with nothing in them; a banner at the top says what is on, and its ✕ clears it. The same filter also narrows Memory Lane.
 
 ### Livo Search
 
-Tap **Search** in the bottom bar (open Livo Search), or tap the search field at the top of the Gallery, and type or dictate a few words: a name, a place, a tag, a word from a story, a word from a scanned print, or a date. As you type, Livo suggests names, places, tags and words from your stories, and shows your recent searches. The results appear in the Gallery.
+Tap **Search** in the bottom bar ([open Livo Search](https://livoenterprises.com/go/search)), or tap the search field at the top of the Gallery, and type or dictate a few words: a name, a place, a tag, a word from a story, a word from a scanned print, or a date. As you type, Livo suggests names, places, tags and words from your stories, and shows your recent searches. The results appear in the Gallery.
 
 Under the field, Livo shows what it understood as **chips**, one for each piece: a person, a place, a tag, a story word, a date, or a kind such as videos or favorites. Tap a chip to see what else that word could mean, with the number of photos for each, and pick one. A gray chip is a word Livo could not place; a dotted chip is a spelling guess ("Anna?") you can confirm. Tap a chip's ✕ to drop it.
 
@@ -461,7 +461,7 @@ Memory Lane is where what you have made lives, and the quickest way to browse ev
 
 ### People, Places and Events
 
-Along the top of Memory Lane are three rows: **People**, **Places** and **Events**, everything you have named, with a photo count on each. Tap one to see its photos in the Gallery. **See all** opens the full list.
+Along the top of [Memory Lane](https://livoenterprises.com/go/memory-lane) are three rows: **People**, **Places** and **Events**, everything you have named, with a photo count on each. Tap one to see its photos in the Gallery. **See all** opens the full list.
 
 ### Live and Sealed
 
@@ -495,7 +495,7 @@ A Time Capsule is a folder of your photos with their names and stories written i
 
 ### Sealing
 
-Open Capsules, the shield on the bottom bar, and tap **Seal**. Pick the Memories to put in, give the capsule a name, and seal it; it appears in the list at once. The first time, Livo asks for your name, which is stamped on every capsule you seal. **Stop** keeps what is already finished. If a photo or video cannot be fetched (it is gone from the Camera Roll, or it is only in iCloud and there is no connection), the capsule still seals: Livo says "Sealed with 11 of 12 items", names what was left out and why, and lets you **Keep It** or **Discard and Try Again**. The capsule's README lists anything not included.
+[Open Capsules](https://livoenterprises.com/go/vault), the shield on the bottom bar, and tap **Seal**. Pick the Memories to put in, give the capsule a name, and seal it; it appears in the list at once. The first time, Livo asks for your name, which is stamped on every capsule you seal. **Stop** keeps what is already finished. If a photo or video cannot be fetched (it is gone from the Camera Roll, or it is only in iCloud and there is no connection), the capsule still seals: Livo says "Sealed with 11 of 12 items", names what was left out and why, and lets you **Keep It** or **Discard and Try Again**. The capsule's README lists anything not included.
 
 ### What is inside
 
@@ -531,7 +531,7 @@ A capsule you send is a file. The person opens it in Livo with one tap, or in an
 
 ### Share with Livo
 
-Open Capsules, tap a capsule, then **Share with Livo**. The capsule goes into the share sheet: AirDrop when you are in the room, Messages or Mail when it is small enough, or Files for an iCloud Drive link to something bigger. From a Memory, **Share › Share with Livo** seals it first if it is not sealed yet. The file is named so that anyone can tell what to do with it: "Livo Capsule - Anna Lee - Friday Night - 2026-10-03 - UNZIP, then open START HERE.zip".
+[Open Capsules](https://livoenterprises.com/go/vault), tap a capsule, then **Share with Livo**. The capsule goes into the share sheet: AirDrop when you are in the room, Messages or Mail when it is small enough, or Files for an iCloud Drive link to something bigger. From a Memory, **Share › Share with Livo** seals it first if it is not sealed yet. The file is named so that anyone can tell what to do with it: "Livo Capsule - Anna Lee - Friday Night - 2026-10-03 - UNZIP, then open START HERE.zip".
 
 For a gift, with a dedication and a video that plays with one tap, see [Making a gift](https://livoenterprises.com/guide/making-a-gift.html). With [Curator](https://livoenterprises.com/guide/curator.html), a capsule can also go as a OneDrive link, or to the whole family at once through Family Share.
 
@@ -563,7 +563,7 @@ A gift is made for the person receiving it, who may be older, may be on an iPad 
 
 ### Making one
 
-Open a Memory and tap **Share › Make a Gift…**, press and hold a Memory's card in Memory Lane and tap **Make a Gift…**, or in Capsules tap **+ › Make a Gift…** and choose the Memory.
+Open a Memory and tap **Share › Make a Gift…**, press and hold a Memory's card in [Memory Lane](https://livoenterprises.com/go/memory-lane) and tap **Make a Gift…**, or in [Capsules](https://livoenterprises.com/go/vault) tap **+ › Make a Gift…** and choose the Memory.
 
 1. **The dedication.** Who it is for, from (your name, already filled in), the occasion (Birthday, Anniversary, Holiday, Just because, In memory of) and a few words in your own. They become the first screen of the video, the top of the page inside the gift, and the first lines of its README, and the gift is named for them ("For Grandma - Birthday", or "In memory of Dad", which gets the quieter wording throughout). The sheet also says how much room the phone needs while the gift is made, and how much it has.
 2. **Make the gift.** Livo fetches the photos at full size, makes the video (the dedication, then each photo with the names of the people in it and the story, your narration over it, and "Made by …" at the end, with a small "with Livo" line unless you have Livo Plus), and seals everything as a Time Capsule with the video first in the folder. A progress card shows each step, with **Stop**. Stopping keeps nothing, and the dedication stays on the Memory for next time. If the video could not be made, the gift is still complete without it, and Capsules can make the video later.
@@ -612,7 +612,7 @@ Also on Your gift is ready, with Livo Plus: **The gift book**, an 8 × 8 inch sq
 
 ### A book from any Memories and pages
 
-In Memory Lane, tap the **book button** on the top row to open **Order prints** (Livo Plus). Give the book a title and a few words for the cover; then **Add** the Memories, Scrapbook pages and Collage pages you want, and put them in order with **Edit** (drag to reorder, minus to take one out). A Memory contributes a page per photo with the names and month under each; a Scrapbook page or a Collage page contributes itself, drawn at print size exactly as you laid it out. A scrapbook of many pages is simply several Scrapbook pages, in the order you choose. **Make the book** shows a progress bar and **Stop**; then the share sheet opens with the PDF ("<title> - the book.pdf") and the folder of page pictures. After the share sheet, **Save the pages to Photos** puts the page pictures in an album named for the book, if you want them there. The book is not stored in Livo; your Memories and pages are the source, and it is made again whenever you ask.
+In [Memory Lane](https://livoenterprises.com/go/memory-lane), tap the **book button** on the top row to open **Order prints** (Livo Plus). Give the book a title and a few words for the cover; then **Add** the Memories, Scrapbook pages and Collage pages you want, and put them in order with **Edit** (drag to reorder, minus to take one out). A Memory contributes a page per photo with the names and month under each; a Scrapbook page or a Collage page contributes itself, drawn at print size exactly as you laid it out. A scrapbook of many pages is simply several Scrapbook pages, in the order you choose. **Make the book** shows a progress bar and **Stop**; then the share sheet opens with the PDF ("<title> - the book.pdf") and the folder of page pictures. After the share sheet, **Save the pages to Photos** puts the page pictures in an album named for the book, if you want them there. The book is not stored in Livo; your Memories and pages are the source, and it is made again whenever you ask.
 
 ### Room and time
 
@@ -628,7 +628,7 @@ Two places at least, checked on a schedule, and you are told while it can still 
 
 ### Keep a copy
 
-Open Capsules › Keep a copy. **This phone** is always one place. Add up to five **folders of your own** from the Files app: iCloud Drive, Dropbox, Google Drive, a drive plugged into the phone. Every capsule you seal is copied to each of them. A place that is not reachable right now (a drive unplugged, no network) is simply "pending"; the copy is written the next time Livo sees it. Removing a place deletes nothing. With [Curator](https://livoenterprises.com/guide/curator.html), your OneDrive's **Livo Vault** folder is a place as well, on by default when you are signed in.
+[Open Capsules › Keep a copy](https://livoenterprises.com/go/vault/places). **This phone** is always one place. Add up to five **folders of your own** from the Files app: iCloud Drive, Dropbox, Google Drive, a drive plugged into the phone. Every capsule you seal is copied to each of them. A place that is not reachable right now (a drive unplugged, no network) is simply "pending"; the copy is written the next time Livo sees it. Removing a place deletes nothing. With [Curator](https://livoenterprises.com/guide/curator.html), your OneDrive's **Livo Vault** folder is a place as well, on by default when you are signed in.
 
 Livo writes only its own capsule files into a place and never deletes anything there.
 
@@ -656,7 +656,7 @@ A backup holds everything Livo knows about your photos. Your photos themselves s
 
 ### What is in a backup
 
-Open Organize › Curator › Backup & Restore. A backup holds every name, place, story, tag and face you have added, your Memories and narrations, Livo's small copies of your photos, what Livo Search has learned, your family folders list, and your settings. It does not hold the photos themselves (they stay in Photos, or in OneDrive with Curator) or your Time Capsules (they are files; see [Keeping capsules safe](https://livoenterprises.com/guide/keeping-capsules-safe.html)).
+[Open Organize › Curator › Backup & Restore](https://livoenterprises.com/go/organize/backup). A backup holds every name, place, story, tag and face you have added, your Memories and narrations, Livo's small copies of your photos, what Livo Search has learned, your family folders list, and your settings. It does not hold the photos themselves (they stay in Photos, or in OneDrive with Curator) or your Time Capsules (they are files; see [Keeping capsules safe](https://livoenterprises.com/guide/keeping-capsules-safe.html)).
 
 ### Making one
 
@@ -686,7 +686,7 @@ Deleting in Livo is two steps, and the second always says exactly what it does.
 
 ### Two steps
 
-Deleting a photo, Memory, capsule, person or place moves it to the Trash (Organize › Trash), where it waits until you **Restore** it or **Empty Trash** (or **Delete Forever** on one item). The Trash never empties itself.
+Deleting a photo, Memory, capsule, person or place moves it to the Trash ([Organize › Trash](https://livoenterprises.com/go/organize/trash)), where it waits until you **Restore** it or **Empty Trash** (or **Delete Forever** on one item). The Trash never empties itself.
 
 ### What Empty Trash removes
 
@@ -799,34 +799,34 @@ Curator never hides data. Everything a Curator tool made stays readable when Cur
 
 ### Turning it on
 
-Settings › Curator is the switch, and it works with Livo Plus; without Plus, a tap on it shows what Plus is. On, Livo shows the Curator tools everywhere. Off, Livo is the essentials, and the Curator tools are together on one screen, Organize › Curator, where what they made stays readable.
+[Settings › Curator](https://livoenterprises.com/go/settings) is the switch, and it works with Livo Plus; without Plus, a tap on it shows what Plus is. On, Livo shows the Curator tools everywhere. Off, Livo is the essentials, and the Curator tools are together on one screen, [Organize › Curator](https://livoenterprises.com/go/organize/curator), where what they made stays readable.
 
 ### The Curator screen
 
-Open Organize › Curator. The Curator tools are on one screen, in four groups. Each link below opens that screen and marks the row for a moment; it never taps the row for you. These linked steps need a Livo build from 12 November 2026 or later (Settings › About › Build).
+[Open Organize › Curator](https://livoenterprises.com/go/organize/curator). The Curator tools are on one screen, in four groups. Each link below opens that screen and marks the row for a moment; it never taps the row for you. These linked steps need a Livo build from 12 November 2026 or later (Settings › About › Build).
 
 #### Sources
 
-Where photos come from and where they live: Scan Prints, Media Sources and OneDrive Accounts. Add from Camera Roll and Add from OneDrive stay in the Gallery’s **+** menu.
+Where photos come from and where they live: [Scan Prints](https://livoenterprises.com/go/organize/curator/sources/scan-prints), [Media Sources](https://livoenterprises.com/go/organize/curator/sources/media-sources) and [OneDrive Accounts](https://livoenterprises.com/go/organize/curator/sources/accounts). Add from Camera Roll and Add from OneDrive stay in the Gallery’s **+** menu.
 
 #### Safekeeping
 
-Backup & Restore, with the date of your last backup under its name. Check a backup drive is inside it. See [Backing up and restoring](https://livoenterprises.com/guide/backup-and-restore.html).
+[Backup & Restore](https://livoenterprises.com/go/organize/curator/safekeeping/backup), with the date of your last backup under its name. Check a backup drive is inside it. See [Backing up and restoring](https://livoenterprises.com/guide/backup-and-restore.html).
 
 #### Family
 
-Family shows what the family shared, with a count of what is new. Receive from Family adds it to your Gallery. Family Share sets up your own sharing. Share to Family itself is in every share sheet, for the photos you have selected. See [Family Share](https://livoenterprises.com/guide/family-share.html).
+[Family](https://livoenterprises.com/go/organize/curator/family/inbox) shows what the family shared, with a count of what is new. [Receive from Family](https://livoenterprises.com/go/organize/curator/family/receive) adds it to your Gallery. [Family Share](https://livoenterprises.com/go/organize/curator/family/setup) sets up your own sharing. Share to Family itself is in every share sheet, for the photos you have selected. See [Family Share](https://livoenterprises.com/guide/family-share.html).
 
 #### Clean up and review
 
 Each one looks first and asks before it changes anything.
 
-- Duplicate Check reports the photos Livo has more than once, with a button to clean them up.
-- Fix Dates from File Names re-reads file names to correct dates already in Livo.
-- Earliest Dates asks OneDrive again and uses the earliest date of each item.
-- Life Events clean-up finds an anniversary recorded once for each person and offers to merge them, and finds Life Events that are missing their person.
-- Fix Live Photo Links clears a Live Photo link from a OneDrive photo that should never have had one (a LIVE badge playing the wrong clip).
-- Read Apple’s Keywords and Ratings adds what you set in Photos to the Camera Roll photos already in Livo: keywords become tags, a caption becomes the story where Livo has none, and four or five stars become a thumbs-up. Nothing in Photos is changed.
+- [Duplicate Check](https://livoenterprises.com/go/organize/curator/cleanup/duplicates) reports the photos Livo has more than once, with a button to clean them up.
+- [Fix Dates from File Names](https://livoenterprises.com/go/organize/curator/cleanup/fix-dates) re-reads file names to correct dates already in Livo.
+- [Earliest Dates](https://livoenterprises.com/go/organize/curator/cleanup/earliest-dates) asks OneDrive again and uses the earliest date of each item.
+- [Life Events clean-up](https://livoenterprises.com/go/organize/curator/cleanup/life-events) finds an anniversary recorded once for each person and offers to merge them, and finds Life Events that are missing their person.
+- [Fix Live Photo Links](https://livoenterprises.com/go/organize/curator/cleanup/live-links) clears a Live Photo link from a OneDrive photo that should never have had one (a LIVE badge playing the wrong clip).
+- [Read Apple’s Keywords and Ratings](https://livoenterprises.com/go/organize/curator/cleanup/apple-keywords) adds what you set in Photos to the Camera Roll photos already in Livo: keywords become tags, a caption becomes the story where Livo has none, and four or five stars become a thumbs-up. Nothing in Photos is changed.
 
 ---
 
@@ -840,7 +840,7 @@ Part of [Curator](https://livoenterprises.com/guide/curator.html), in Livo Plus.
 
 ### Scanning
 
-Open the Gallery, tap **+**, then **Scan Prints**. The camera is Apple's own document scanner: it finds the print's edges, shows the box, and captures when the print is lined up (or on your tap). Lay down the next print and it captures again. Tap **Save** when the batch is done — about twenty prints at a time is comfortable.
+[Open the Gallery](https://livoenterprises.com/go/gallery), tap **+**, then **Scan Prints**. The camera is Apple's own document scanner: it finds the print's edges, shows the box, and captures when the print is lined up (or on your tap). Lay down the next print and it captures again. Tap **Save** when the batch is done — about twenty prints at a time is comfortable.
 
 The first time, iOS asks for permission to use the camera.
 
@@ -868,7 +868,7 @@ Part of [Curator](https://livoenterprises.com/guide/curator.html), in Livo Plus.
 
 ### Signing in
 
-Open Settings › Data › OneDrive Accounts and tap **Add Account**. (If you have never signed in, Settings first shows **Use OneDrive and Microsoft family sharing**; tap it and the Data section appears.) Microsoft's own sign-in runs inside Livo; Livo never sees your password. You can add more than one account; one is **active for import**, and photos remember which account they came from. **Choose Folders to Add…** picks what to import; **Start the Scan Over…** starts the active account's import over; each account keeps its own place.
+[Open Settings › Data › OneDrive Accounts](https://livoenterprises.com/go/settings/onedrive) and tap **Add Account**. (If you have never signed in, Settings first shows **Use OneDrive and Microsoft family sharing**; tap it and the Data section appears.) Microsoft's own sign-in runs inside Livo; Livo never sees your password. You can add more than one account; one is **active for import**, and photos remember which account they came from. **Choose Folders to Add…** picks what to import; **Start the Scan Over…** starts the active account's import over; each account keeps its own place.
 
 ### Needs sign-in
 
@@ -898,17 +898,17 @@ Part of [Curator](https://livoenterprises.com/guide/curator.html), in Livo Plus.
 
 ### Setting up
 
-Open Settings › OneDrive Accounts › Family Share. It is also on the Curator screen. The screen looks at your OneDrive and tells you, in three parts, what is **already in place**, what **Livo will do** when you tap Set Up (make your Livo Family Share folder, share it with the family as view-only, write the family list into it), and **what you do** next. One person — the organizer — can sign in every family account on one phone and set them all up at once, then sign the others out; or each person does their own. Livo never removes anyone from a folder's sharing.
+[Open Settings › OneDrive Accounts › Family Share](https://livoenterprises.com/go/settings/family-share). It is also on the [Curator screen](https://livoenterprises.com/go/organize/curator/family/setup). The screen looks at your OneDrive and tells you, in three parts, what is **already in place**, what **Livo will do** when you tap Set Up (make your Livo Family Share folder, share it with the family as view-only, write the family list into it), and **what you do** next. One person — the organizer — can sign in every family account on one phone and set them all up at once, then sign the others out; or each person does their own. Livo never removes anyone from a folder's sharing.
 
 ### Sharing
 
-**Share to Family** is in every Livo share sheet — a Memory video, a capsule, a photo or video from the viewer, a Gallery selection. Tap it and the upload runs in the background (Organize › Activity shows it; the Gallery line shows the progress); if the phone sleeps or the network drops, it carries on where it left off. When it is done, **Tell the Family** opens Messages or Mail with a ready note and a link.
+**Share to Family** is in every Livo share sheet — a Memory video, a capsule, a photo or video from the viewer, a Gallery selection. Tap it and the upload runs in the background ([Organize › Activity](https://livoenterprises.com/go/organize/activity) shows it; the Gallery line shows the progress); if the phone sleeps or the network drops, it carries on where it left off. When it is done, **Tell the Family** opens Messages or Mail with a ready note and a link.
 
 A Memory video shared this way is a plain video the family can play in the OneDrive app, Livo or not. A capsule is what they import into their own Livo.
 
 ### What the family shared
 
-Open Organize › Curator › Family. One section per family member, newest first, with **NEW** on what arrived since you last looked, and "In your Livo" on what you already have. **Add to Livo** on a photo or video puts it in your Camera Roll and your Gallery with the sender's date, story, people and place. **Add to My Livo** on a capsule brings it in as described in [Sending to someone](https://livoenterprises.com/guide/sending-to-someone.html). **Play** and **View** just look.
+[Open Organize › Curator › Family](https://livoenterprises.com/go/organize/family). One section per family member, newest first, with **NEW** on what arrived since you last looked, and "In your Livo" on what you already have. **Add to Livo** on a photo or video puts it in your Camera Roll and your Gallery with the sender's date, story, people and place. **Add to My Livo** on a capsule brings it in as described in [Sending to someone](https://livoenterprises.com/guide/sending-to-someone.html). **Play** and **View** just look.
 
 The Organize book and the Gallery's **+** carry a badge when the family has shared something new; **Receive from Family** under **+** brings in everything new at once. While Livo is closed, a quiet notification may tell you the family shared something.
 
@@ -928,33 +928,33 @@ Everything you name lives in Organize, the book icon, and nothing is named witho
 
 ### People
 
-Open Organize › People. Each person has a name, nicknames (so "Nana" and "Margaret" find the same person), a relationship to you, and their life events. Set yourself with **Set as "This is Me"** so Livo Search understands "me" and "I". **Name more faces** opens the next Moment where that person still has faces to name. Two entries for one person? Select both and **Merge**: the photos move one at a time, and Undo puts everything back.
+[Open Organize › People](https://livoenterprises.com/go/organize/people). Each person has a name, nicknames (so "Nana" and "Margaret" find the same person), a relationship to you, and their life events. Set yourself with **Set as "This is Me"** so Livo Search understands "me" and "I". **Name more faces** opens the next Moment where that person still has faces to name. Two entries for one person? Select both and **Merge**: the photos move one at a time, and Undo puts everything back.
 
 ### Places
 
-Open Organize › Places. A place has a name, nicknames, and a city, state and country. **Look Up Place** fills the address from the map. Livo can suggest places from the photos' own GPS (**Places to Review**); nothing is applied until you confirm. Merging places works like merging people. **Places to Review** runs by itself after an import finishes, and nothing is tagged until you confirm. Places are listed A to Z.
+[Open Organize › Places](https://livoenterprises.com/go/organize/places). A place has a name, nicknames, and a city, state and country. **Look Up Place** fills the address from the map. Livo can suggest places from the photos' own GPS (**Places to Review**); nothing is applied until you confirm. Merging places works like merging people. **Places to Review** runs by itself after an import finishes, and nothing is tagged until you confirm. Places are listed A to Z.
 
 ### Events
 
-Open Organize › Events. Every event you have made, by year, each with its name, dates, people, places and other names; tap one to edit it. See [Events and the story](https://livoenterprises.com/guide/describing-a-moment.html).
+[Open Organize › Events](https://livoenterprises.com/go/organize/events). Every event you have made, by year, each with its name, dates, people, places and other names; tap one to edit it. See [Events and the story](https://livoenterprises.com/guide/describing-a-moment.html).
 
 ### Life Events
 
-Open Organize › Life Events. A dated fact about a person — a birth, a wedding. Livo Search uses them: "when Anna was born", "our anniversary".
+[Open Organize › Life Events](https://livoenterprises.com/go/organize/life-events). A dated fact about a person — a birth, a wedding. Livo Search uses them: "when Anna was born", "our anniversary".
 
 Two entries for one event? Swipe an event and tap **Merge into…**, then pick the one to keep. Photos and people move over, and the merged event goes to the Trash, where restoring it undoes the merge.
 
 ### Tags
 
-Open Organize › Tags. Every tag with its photo count, by name or by count. Swipe a tag, or tap it, for **Rename**, **Merge into…** or **Delete**. Renaming a tag to a name another tag already has merges them, and asks first. Delete asks too, and removes the tag from your photos without touching the photos or their stories. What Livo Search has learned about a renamed or merged tag follows it.
+[Open Organize › Tags](https://livoenterprises.com/go/organize/tags). Every tag with its photo count, by name or by count. Swipe a tag, or tap it, for **Rename**, **Merge into…** or **Delete**. Renaming a tag to a name another tag already has merges them, and asks first. Delete asks too, and removes the tag from your photos without touching the photos or their stories. What Livo Search has learned about a renamed or merged tag follows it.
 
 ### Buckets (Curator)
 
-Open Organize › Buckets. A Bucket is a hidden shelf: photos moved there leave the Gallery, Moments, Memories, search and every export until you move them back. Not the Trash — nothing is deleted. Swipe a Bucket to **Rename** or **Delete** it. Deleting a Bucket asks first, and every photo still in it goes back to the Gallery. To move photos from one Bucket to another, open the Bucket, select them, and tap the lock button, as in the Gallery.
+[Open Organize › Buckets](https://livoenterprises.com/go/organize/buckets). A Bucket is a hidden shelf: photos moved there leave the Gallery, Moments, Memories, search and every export until you move them back. Not the Trash — nothing is deleted. Swipe a Bucket to **Rename** or **Delete** it. Deleting a Bucket asks first, and every photo still in it goes back to the Gallery. To move photos from one Bucket to another, open the Bucket, select them, and tap the lock button, as in the Gallery.
 
 ### Trash
 
-Deleted photos, Memories, capsules, people and places wait in the Trash (Organize › Trash) until you restore them or empty it. See [Trash, and what Livo never deletes](https://livoenterprises.com/guide/trash.html).
+Deleted photos, Memories, capsules, people and places wait in the Trash ([Organize › Trash](https://livoenterprises.com/go/organize/trash)) until you restore them or empty it. See [Trash, and what Livo never deletes](https://livoenterprises.com/guide/trash.html).
 
 ---
 
@@ -966,11 +966,11 @@ Settings is short on purpose. Most of what you need day to day is under Organize
 
 ### Your name
 
-Settings › Your Name is the name stamped on the Time Capsules you seal, signed on the stories you write, and filled in as "From" when you make a gift. It also makes you a Person in your People list, marked "This is Me".
+[Settings › Your Name](https://livoenterprises.com/go/settings/your-name) is the name stamped on the Time Capsules you seal, signed on the stories you write, and filled in as "From" when you make a gift. It also makes you a Person in your People list, marked "This is Me".
 
 ### Your look
 
-Settings › Appearance offers five palettes: **Charcoal** (the darkest, the default), **Slate** and **Spring** (dark, with white lettering), **Daylight** (a warm off-white page with dark lettering and a teal accent, for daytime and for anyone who finds dark screens hard to read) and **Evening** (deep teal with cream). Photos are always shown on black whichever you choose.
+[Settings › Appearance](https://livoenterprises.com/go/settings/appearance) offers five palettes: **Charcoal** (the darkest, the default), **Slate** and **Spring** (dark, with white lettering), **Daylight** (a warm off-white page with dark lettering and a teal accent, for daytime and for anyone who finds dark screens hard to read) and **Evening** (deep teal with cream). Photos are always shown on black whichever you choose.
 
 ### Story Display
 
@@ -986,7 +986,7 @@ The **Curator** switch, part of Livo Plus (without Plus, a tap on it shows what 
 
 ### About
 
-Settings › About is the last section of Settings: scroll to the bottom. It holds **About Livo** (what Livo is and the two promises), **Getting Started**, the Privacy Policy and Support, **Livo Plus** (whether it is on, **What's free, and what Plus adds**, and **Restore Purchases**), the version, the build and a Content line that names the version of each guide page on your phone, and **Send Feedback**, which opens a mail to feedback@livoenterprises.com with the build and your phone's details filled in.
+[Settings › About](https://livoenterprises.com/go/settings/about) is the last section of Settings: scroll to the bottom. It holds **About Livo** (what Livo is and the two promises), **Getting Started**, the Privacy Policy and Support, **Livo Plus** (whether it is on, **What's free, and what Plus adds**, and **Restore Purchases**), the version, the build and a Content line that names the version of each guide page on your phone, and **Send Feedback**, which opens a mail to feedback@livoenterprises.com with the build and your phone's details filled in.
 
 ### What is free
 
@@ -1014,11 +1014,11 @@ A tile with a dashed question mark is a photo Livo has no picture for at all. It
 
 ### Activity
 
-The line under the Gallery header shows what Livo is doing in the background (an import, a backup, the copies of your capsules) with its progress; tap it for the detail, with Pause or Stop. Organize › Activity lists every job Livo has run, with Pause and Stop. Pausing always says what happens next.
+The line under the Gallery header shows what Livo is doing in the background (an import, a backup, the copies of your capsules) with its progress; tap it for the detail, with Pause or Stop. [Organize › Activity](https://livoenterprises.com/go/organize/activity) lists every job Livo has run, with Pause and Stop. Pausing always says what happens next.
 
 ### "Data files could not be read"
 
-If Livo cannot read one of its own data files, Organize › Activity shows a card at the top naming them. Nothing was deleted. Restore a backup, or send the names with Send Feedback.
+If Livo cannot read one of its own data files, [Organize › Activity](https://livoenterprises.com/go/organize/activity) shows a card at the top naming them. Nothing was deleted. Restore a backup, or send the names with Send Feedback.
 
 ### Stop means stop
 
