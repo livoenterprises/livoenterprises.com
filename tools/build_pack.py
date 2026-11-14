@@ -74,6 +74,9 @@ for order, title, head, body, stem in topics:
 toc.append("%d. **Privacy Policy** — what Livo keeps and where." % (len(topics) + 1))
 toc.append("%d. **Support** — questions and how to reach us." % (len(topics) + 2))
 toc.append("%d. **About Livo** — what Livo is and what it promises." % (len(topics) + 3))
+toc.append("%d. **Glossary** — Livo's own words." % (len(topics) + 4))
+if os.path.exists(p("site", "pack", "20-site.md")):
+    toc.append("%d. **The Livo Enterprises website** — contact links, the company, the products, LivoCapsule's page and our Notes." % (len(topics) + 5))
 out.append("\n".join(toc))
 for order, title, head, body, stem in topics:
     out.append("# Topic: %s\n\n*Guide topic %d · version %s · updated %s · %s%s.html*\n\n%s\n\n%s" % (
@@ -84,6 +87,12 @@ for fn, label in (("privacy.md", "Privacy Policy"), ("support.md", "Support"), (
     out.append("# %s\n\n*Version %s · updated %s*\n\n%s\n\n%s" % (
         label, head.get("version", "?"), head.get("updated", "?"), head.get("lede", ""), demote(links(body))))
 out.append(fill(read(p("site", "pack", "90-glossary.md")).strip()))
+SITE_CH = p("site", "pack", "20-site.md")   # made by build_site_chapter.py; the website beyond the guide
+if os.path.exists(SITE_CH):
+    out.append(read(SITE_CH).strip())
+END = p("site", "pack", "95-end.md")
+if os.path.exists(END):
+    out.append(fill(read(END).strip()))
 text = "\n\n---\n\n".join(out) + "\n"
 if "](livo://" in text:
     sys.exit("A livo:// link was left in the pack.")
@@ -101,6 +110,7 @@ def ai_write(name, body):
         f.write(body.rstrip() + "\n")
 instr = fill(read(p("site", "pack", "00-instructions.md")).strip())
 instr = instr.replace("Everything you know about Livo is in this file.", "Everything you know about Livo is in these files (this one and the topic files listed in the index).")
+instr = instr.replace("Everything about Livo is in this message:", "Everything about Livo is in the pages the index lists:")
 instr = re.sub(r"### Where the topics are.*$", "### Where the topics are\n\nThe index at " + base + "/llms.txt lists every topic with one line each. Open the one or two topics a question needs, not all of them.", instr, flags=re.S)
 ai_write("00-instructions.md", instr + "\n\n" + fill(read(p("site", "pack", "10-map.md")).strip()))
 index = ["# Livo guide: index for assistants", "",
@@ -118,7 +128,11 @@ for fn, label, stem, desc in (("privacy.md", "Privacy Policy", "privacy", "What 
     index.append("- [%s](%s/ai/%s.md): %s" % (label, base, stem, desc))
     ai_write(stem + ".md", "# %s\n\n*Version %s · updated %s*\n\n%s\n\n%s" % (label, head.get("version", "?"), head.get("updated", "?"), head.get("lede", ""), links(body)))
 ai_write("glossary.md", fill(read(p("site", "pack", "90-glossary.md")).strip()))
+if os.path.exists(SITE_CH):
+    ai_write("website.md", read(SITE_CH).strip())
 index.append("- [Glossary](%s/ai/glossary.md): Livo's own words and what they mean." % base)
+if os.path.exists(SITE_CH):
+    index.append("- [The Livo Enterprises website](%s/ai/website.md): Contact links, the company, the products, LivoCapsule's own page and our Notes." % base)
 index += ["", "The whole guide as one file (large): " + base + "/livo-guide-pack.md"]
 idx = "\n".join(index)
 ai_write("index.md", idx)

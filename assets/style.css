@@ -341,3 +341,8 @@ ul.posts .sum { display: block; color: var(--muted); font-size: .97rem; margin-t
 @media (max-width: 52rem) { .page-hero.split .inner { grid-template-columns: 1fr; gap: 1.6rem; } .page-hero.split .stage { max-width: 26rem; min-height: 19rem; } }
 main > .wrap.after-hero, main > .page-hero + .wrap { padding-top: 1.2rem; }
 main > .page-hero + .wrap > h2:first-child { margin-top: 1.4em; }
+
+/* ---------- brand marks (2026-11-14): LivoCapsule mark beside the product name ---------- */
+.brand-mark { flex: none; display: block; border-radius: 22%; }
+.with-mark { display: flex; align-items: center; gap: .6rem; }
+.product-head h3 a.with-mark { display: inline-flex; align-items: center; gap: .6rem; }

@@ -35,5 +35,6 @@ Read https://livoenterprises.com/ai/00-instructions.md first (the rules and a ma
 - [Support](https://livoenterprises.com/ai/support.md): Questions and how to reach us.
 - [About Livo](https://livoenterprises.com/ai/about-livo.md): What Livo is and what it promises.
 - [Glossary](https://livoenterprises.com/ai/glossary.md): Livo's own words and what they mean.
+- [The Livo Enterprises website](https://livoenterprises.com/ai/website.md): Contact links, the company, the products, LivoCapsule's own page and our Notes.
 
 The whole guide as one file (large): https://livoenterprises.com/livo-guide-pack.md
