@@ -1,4 +1,4 @@
-version: 5
+version: 7
 built: 2026-11-15
 livo_build: 20261115_1830_SearchWithoutAndLink
 guide_url: https://livoenterprises.com/guide/

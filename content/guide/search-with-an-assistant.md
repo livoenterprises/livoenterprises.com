@@ -1,7 +1,7 @@
 ---
 title: Let an AI assistant write your search
 description: Describe the photos you want to an AI assistant in your own words; it asks what it needs, writes the search the way Livo reads it, and gives you a link that puts it in Livo's search box.
-version: 1
+version: 4
 updated: 2026-11-15
 order: 28
 app: guide
@@ -24,7 +24,7 @@ It works with any assistant you have given Livo's prompt to. Open [Getting Start
 
 ## What you see in Livo
 
-Under the search box Livo shows how it read each part, as chips: a person, a place, a date, **Without Mom + Dad**. If a chip is wrong, tap it to change what it means, or tap its × to drop it. The chips are always the last word on what Livo searched for.
+Under the search box Livo shows how it read each part, as chips: a person, a place, a date, **Without Mom + Dad**. A chip with a line across it (**Without Noah**, **Not Lake House**) is something Livo is leaving out. If a chip is wrong, tap it to change what it means, or tap its × to drop it. The chips are always the last word on what Livo searched for.
 
 ## What the assistant knows, and does not
 
@@ -37,9 +37,9 @@ Under the search box Livo shows how it read each part, as chips: a person, a pla
 
 - **People:** a name or another name you gave them. *Emma and Noah*, *Emma or Noah*.
 - **Relationships:** *my mom*, *my daughters*, *my son-in-law*, when the Relationship is set on the person.
-- **Groups:** *the cousins*, *the kids*, and *the cousins together*.
+- **Groups:** *the cousins*, *the kids*, *the grandkids*, *my parents*, and *the cousins together*. You do not make groups: Livo builds them from Relationships (see below).
 - **Only:** *only Emma*, *just Emma and Noah*: nobody else named in the photo.
-- **Without:** *Emma and Noah without Mom and Dad*: none of those people named in the photo.
+- **Not:** *Emma not Noah*, *Emma and Noah without Mom and Dad*, *Emma not at the lake*, *Emma not beach*, *no videos*, *Emma not in 2014*. Say what you want first, then what you do not want. *Not*, *no*, *without*, *but not* and *except* all work, for people, places, tags and dates.
 - **Places:** a place name, a city, a state or a country.
 - **Tags, Events and story words:** *beach*, *lake trip*, a word from a story you wrote.
 - **Dates:** *2019*, *June 2019*, *summer 2019*, *last summer*, *Christmas 2019*, *Halloween*.
@@ -49,5 +49,15 @@ Under the search box Livo shows how it read each part, as chips: a person, a pla
 - **Life Events:** *when Dad retired*, *before Grandpa died*, *after Mom and Dad got married*.
 - **Kinds:** *videos*, *favorites*, *screenshots*, *scans*.
 - **Order:** *newest*, *oldest*, *the last time we were at the lake*.
+
+## Where "my mom" and "the cousins" come from
+
+Each person in Livo can have one Relationship, which says who they are to you. Set it under [People](livo://organize/people): open the person and choose Relationship.
+
+- *my mom*, *my brother*, *my son-in-law* find the person with that Relationship.
+- *the kids* is everyone set as Son or Daughter; *the cousins* is everyone set as Cousin; *the grandkids*, *the siblings*, *my parents*, *the grandparents*, *the aunts*, *the uncles*, *the nieces*, *the nephews* and *the in-laws* work the same way.
+- If *the cousins* finds nobody, no one has Cousin set yet.
+- For any other set of people (a team, the neighbors), put a tag on those photos and search for the tag, or name the people.
+- A Relationship is always to you. Livo does not know how two other people are related, so search *Emma's cousins* by their names.
 
 Birthdays, ages, school years and Life Events need the dates entered under [People](livo://organize/people). *My* and *our* need your own name set in [Getting Started](livo://getting-started).
