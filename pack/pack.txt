@@ -1,6 +1,6 @@
-version: 3
-built: 2026-11-14
-livo_build: 20261112_1935_UniversalLinks
+version: 4
+built: 2026-11-15
+livo_build: 20261115_0915_EmbedKitPrompt
 guide_url: https://livoenterprises.com/guide/
 pack_url: https://livoenterprises.com/livo-guide-pack.md
 site_url: https://livoenterprises.com

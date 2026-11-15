@@ -31,6 +31,7 @@ Read https://livoenterprises.com/ai/00-instructions.md first (the rules and a ma
 - [People, Places, Life Events, Tags and Buckets](https://livoenterprises.com/ai/people-places-and-more.md): The lists behind your photos - People, Places, Events, Life Events and Tags in Livo; Buckets with Curator.
 - [Settings, Curator and Livo Plus](https://livoenterprises.com/ai/settings-and-your-look.md): Your name, the five palettes, how stories are shown, the Curator switch, Livo Plus, what Livo Search has learned, and About.
 - [When something looks wrong](https://livoenterprises.com/ai/when-something-looks-wrong.md): What the captions mean, finding a photo that is not on this phone, Activity, and how to reach us.
+- [Ask an AI, try the demo, find missing photos, keep a second backup](https://livoenterprises.com/ai/help-demo-and-keeping-safe.md): Four things that are easy to miss: asking an AI assistant about Livo, trying Livo with demo photos, finding photos Livo lost track of, and keeping a copy of your backups outside the app.
 - [Privacy Policy](https://livoenterprises.com/ai/privacy.md): What Livo keeps and where.
 - [Support](https://livoenterprises.com/ai/support.md): Questions and how to reach us.
 - [About Livo](https://livoenterprises.com/ai/about-livo.md): What Livo is and what it promises.
