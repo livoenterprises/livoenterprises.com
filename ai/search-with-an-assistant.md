@@ -1,6 +1,6 @@
 # Let an AI assistant write your search
 
-*Guide topic 28 · version 4 · updated 2026-11-15 · https://livoenterprises.com/guide/search-with-an-assistant.html*
+*Guide topic 28 · version 5 · updated 2026-11-16 · https://livoenterprises.com/guide/search-with-an-assistant.html*
 
 Say what you are after; the assistant shapes it into a search, and one tap puts it in Livo.
 
@@ -44,7 +44,17 @@ Under the search box Livo shows how it read each part, as chips: a person, a pla
 - **School years:** *when Emma was in first grade*, *Noah in college*, *Noah's junior year of college*.
 - **Life Events:** *when Dad retired*, *before Grandpa died*, *after Mom and Dad got married*.
 - **Kinds:** *videos*, *favorites*, *screenshots*, *scans*.
+- **Tagging status:** *untagged*, *no people*, *no place*, *has a story*, *faces not named*, *no faces*. These are the same switches as the Filter's Tagging section.
+- **More kinds:** *duplicates*, *saved copy* (the original is not found), *in my family library*, *not in my family library*.
+- **Family:** *from family*, *new from family* (what has arrived since you last opened Family), *from Tori*, *sent by Tori Jones*, *new from Tori*. A first name works when only one person has shared with you under it.
+- **File name:** *file name IMG_20*, *file called vacation*.
+- **When it was added to Livo:** *added last week*, *arrived today*, *added this month*, *added in the last 10 days*. This is the day it came into Livo, not the day it was taken. A date you also type (*added last week 2019*) is still the day taken.
+- **Day of the week:** *on Saturdays*, *every Sunday*.
 - **Order:** *newest*, *oldest*, *the last time we were at the lake*.
+
+## The Filter and Search say the same things
+
+Everything you can set on the Filter in the Gallery can be typed in Search, and the other way round: each typed phrase above shows as a chip with the Filter's own name (**Untagged**, **No People**, **From Tori Jones**). That means an assistant can write any Filter for you too.
 
 ## Where "my mom" and "the cousins" come from
 

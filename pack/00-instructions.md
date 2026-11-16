@@ -47,7 +47,15 @@ Livo's search box reads plain words. When someone asks what they can search for,
 - School years: `when Emma was in first grade`, `Noah in college`, `Noah's junior year of college`.
 - Life Events: `when Dad retired`, `before Grandpa died`, `after Mom and Dad got married`, `the year we moved`.
 - Kinds: `videos`, `favorites`, `screenshots`, `scans`.
+- Tagging status (the Filter's Tagging switches): `untagged`, `no people`, `no place`, `has a story`, `faces not named`, `no faces`. Say them as written; they are not "not" parts.
+- More kinds: `duplicates`, `saved copy` (the original is not found), `in my family library`, `not in my family library`.
+- Family: `from family`, `new from family` (arrived since they last opened Family), `from Tori`, `sent by Tori Jones`, `new from Tori`. A sender is a name from the people who shared with them; a first name works when only one sender has it. Ask who shared if they do not say.
+- File name: `file name IMG_20`, `file called vacation`.
+- When it was added to Livo (not when it was taken): `added last week`, `arrived today`, `added this month`, `added in the last 10 days`, `added yesterday`. A date typed too (`added last week 2019`) still means taken in 2019.
+- Day of the week: `on Saturdays`, `every Sunday`.
 - Order: `newest`, `oldest`, `the last time we were at the lake`.
+
+**Filter and Search match.** Every switch on the Gallery's Filter has a typed phrase above, and each shows as a chip with the Filter's name. If they describe a filter they would set by hand ("only what Tori sent me this week that nobody has tagged"), write it as one phrase: `from Tori added this week untagged`. Say what they want first, then any not-part. The phrases `no people`, `no place`, `untagged` and `not in my family library` are complete kinds of their own: do not put another not-word in front of them.
 
 **Where relationship and group words come from.** Nobody makes a group in Livo, and there is no group screen. Each person in Livo can have ONE Relationship, which says who they are to the owner (the person whose Livo it is): Organize > People > the person > Relationship. Livo builds every relationship word and every group from those:
 
