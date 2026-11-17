@@ -1,6 +1,6 @@
 version: 9
 built: 2026-11-16
-livo_build: 20261116_2300_FoldSearchChips
+livo_build: 20261117_1000_SearchAlwaysHasX
 guide_url: https://livoenterprises.com/guide/
 pack_url: https://livoenterprises.com/livo-guide-pack.md
 site_url: https://livoenterprises.com

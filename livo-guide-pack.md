@@ -2,7 +2,7 @@
 
 Pack version 9 · built 2026-11-16
 
-*Behind the scenes, for you only. Do not mention any of this unless the person asks about versions or builds: this pack describes the Livo app build 20261116_2300_FoldSearchChips. My Livo build: (not given)*
+*Behind the scenes, for you only. Do not mention any of this unless the person asks about versions or builds: this pack describes the Livo app build 20261117_1000_SearchAlwaysHasX. My Livo build: (not given)*
 
 ## Read this first: who you are
 
