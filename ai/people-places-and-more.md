@@ -1,6 +1,6 @@
 # People, Places, Life Events, Tags and Buckets
 
-*Guide topic 24 · version 5 · updated 2026-11-12 · https://livoenterprises.com/guide/people-places-and-more.html*
+*Guide topic 24 · version 6 · updated 2026-11-20 · https://livoenterprises.com/guide/people-places-and-more.html*
 
 Everything you name lives in Organize, the book icon, and nothing is named without your tap.
 
@@ -26,9 +26,9 @@ Two entries for one event? Swipe an event and tap **Merge into…**, then pick t
 
 [Open Organize › Tags](https://livoenterprises.com/go/organize/tags). Every tag with its photo count, by name or by count. Swipe a tag, or tap it, for **Rename**, **Merge into…** or **Delete**. Renaming a tag to a name another tag already has merges them, and asks first. Delete asks too, and removes the tag from your photos without touching the photos or their stories. What Livo Search has learned about a renamed or merged tag follows it.
 
-## Buckets (Curator)
+## Buckets (Livo Plus)
 
-[Open Organize › Buckets](https://livoenterprises.com/go/organize/buckets). A Bucket is a hidden shelf: photos moved there leave the Gallery, Moments, Memories, search and every export until you move them back. Not the Trash — nothing is deleted. Swipe a Bucket to **Rename** or **Delete** it. Deleting a Bucket asks first, and every photo still in it goes back to the Gallery. To move photos from one Bucket to another, open the Bucket, select them, and tap the lock button, as in the Gallery.
+[Open Organize › Buckets](https://livoenterprises.com/go/organize/buckets). Moving photos into a Bucket is part of Livo Plus; opening a Bucket and taking photos out of it is free. A Bucket is a hidden shelf: photos moved there leave the Gallery, Moments, Memories, search and every export until you move them back. Not the Trash — nothing is deleted. Swipe a Bucket to **Rename** or **Delete** it. Deleting a Bucket asks first, and every photo still in it goes back to the Gallery. To move photos from one Bucket to another, open the Bucket, select them, and tap the lock button, as in the Gallery.
 
 ## Trash
 

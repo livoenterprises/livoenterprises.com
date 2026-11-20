@@ -1,21 +1,21 @@
-# Curator
+# Curator Tools
 
-*Guide topic 20 · version 7 · updated 2026-11-13 · https://livoenterprises.com/guide/curator.html*
+*Guide topic 20 · version 8 · updated 2026-11-20 · https://livoenterprises.com/guide/curator.html*
 
-Livo is for everyone with photos on an iPhone. Curator, part of Livo Plus, is for the one person in the family who keeps the archive.
+Livo is for everyone with photos on an iPhone. Curator Tools, part of Livo Plus, is for the one person in the family who keeps the archive.
 
 ## Two versions, one app
 
-**Livo** is free, with no limits, and it is the whole loop: bring in your Camera Roll, name the people, name the event and add a line of story, make a Memory, seal a capsule, pass it on, make a gift. It works with your Camera Roll and iCloud, keeps copies in iCloud Drive and Files, and sends by AirDrop, Messages and Mail. Nothing to sign up for, and no limit on how much you make.
+**Livo** is free, with no limits, and it is the whole loop: bring in your Camera Roll, name the people, name the event and add a line of story, make a Memory, seal a capsule, pass it on, make a gift. It works with your Camera Roll and iCloud, keeps copies in iCloud Drive and Files, backs up and restores, receives what your family shares with you, and sends by AirDrop, Messages and Mail. Nothing to sign up for, and no limit on how much you make.
 
-**Curator** is for the person who maintains the family's photos: who has the shoebox of prints to scan, who has photos in many formats from many years, cameras, phones, drives, cards and cloud accounts, and who is trying to bring all of it into one place, name it, and make it available to the family for generations. Curator adds the tools for that. It is part of **Livo Plus**, the one purchase, shared with your Apple family, never a subscription; see [Free, and Livo Plus](https://livoenterprises.com/guide/livo-and-livo-plus.html) for the whole plan, including what Plus adds for giving.
+**Curator Tools** is for the person who maintains the family's photos: who has the shoebox of prints to scan, who has photos in many formats from many years, cameras, phones, drives, cards and cloud accounts, and who is trying to bring all of it into one place, name it, and make it available to the family for generations. Curator Tools is the set of tools for that. It is part of **Livo Plus**, the one purchase, shared with your Apple family, never a subscription; see [Free, and Livo Plus](https://livoenterprises.com/guide/livo-and-livo-plus.html) for the whole plan, including what Plus adds for giving.
 
-## What Curator adds
+## What Curator Tools adds
 
 - **Scan Prints**: printed photos in with the camera, a box at a time, with the words on them read for search. See [Scan Prints](https://livoenterprises.com/guide/scan-prints.html).
 - **OneDrive**: photos from OneDrive folders, backups copied off the phone, a second copy of every capsule in your own OneDrive, and capsules sent as links. See [OneDrive and your accounts](https://livoenterprises.com/guide/onedrive-and-your-accounts.html).
-- **Family Share** and the Family Library: what each person in the family shares from their own OneDrive, and what they share back. See [Family Share](https://livoenterprises.com/guide/family-share.html).
-- **Buckets** under Organize: a shelf for photos you want out of sight but not gone (a burst's thirty near-identical shots, the photos from a past relationship you are not ready to see every day). See [People, Places, Life Events, Tags and Buckets](https://livoenterprises.com/guide/people-places-and-more.html).
+- **Family Share** setup: sharing your own photos with the family from your own OneDrive. Seeing and receiving what the family shares is free, in Organize › Family. See [Family Share](https://livoenterprises.com/guide/family-share.html).
+- **Buckets** under Organize: a shelf for photos you want out of sight but not gone (a burst's thirty near-identical shots, the photos from a past relationship you are not ready to see every day). Moving photos into a Bucket is part of Livo Plus; opening a Bucket and taking photos out stays free. See [People, Places, Life Events, Tags and Buckets](https://livoenterprises.com/guide/people-places-and-more.html).
 - **More Kinds**: Reference and Saved images beside Selfie, Screenshot and Scan, with text recognition on them and **Read text again** in a photo's Info.
 - **More marks**: thumbs-down and Hide Thumbs Down, Picks, To Review.
 - **Deeper search**: the longer grammar (commas, "and", the Story pill).
@@ -23,17 +23,17 @@ Livo is for everyone with photos on an iPhone. Curator, part of Livo Plus, is fo
 - **Housekeeping**: Media Sources, Where my photos are, Send to Photos, Check a backup drive.
 - The **full selection bar** in the Gallery, with every action a tap away.
 
-## Nothing is hidden either way
+## Nothing is hidden or locked
 
-Curator never hides data. Everything a Curator tool made stays readable when Curator is off: Buckets as read-only lists, OneDrive photos already brought in still in the Gallery, capsules already copied to OneDrive still copied. Turning Curator off changes what is shown, never what is kept. A link in this guide to a Curator tool shows what the tool is and a one-line note that it is part of Curator, never an error.
+Curator Tools never hides or locks anything you made. Without Livo Plus, a Bucket still opens and photos still come out of it, OneDrive photos already brought in are still in the Gallery, and capsules already copied to OneDrive are still copied. Without Plus, a tap on Curator Tools shows what Plus is and what stays free, never an error, and changes nothing.
 
-## Turning it on
+## Getting to it
 
-[Settings › Curator](https://livoenterprises.com/go/settings) is the switch, and it works with Livo Plus; without Plus, a tap on it shows what Plus is. On, Livo shows the Curator tools everywhere. Off, Livo is the essentials, and the Curator tools are together on one screen, [Organize › Curator](https://livoenterprises.com/go/organize/curator), where what they made stays readable.
+**Curator Tools** is a row in Organize (the book icon). With Livo Plus it opens the tools. Without Plus it first shows what Plus is and what stays free, with the button to buy. There is no switch to turn on in Settings: Livo Plus is the one switch. **Family**, **Receive from Family** and **Backup & Restore** are rows of their own in Organize, and are free.
 
-## The Curator screen
+## The Curator Tools screen
 
-[Open Organize › Curator](https://livoenterprises.com/go/organize/curator). The Curator tools are on one screen, in four groups. Each link below opens that screen and marks the row for a moment; it never taps the row for you. These linked steps need a Livo build from 12 November 2026 or later (Settings › About › Build).
+[Open Organize › Curator Tools](https://livoenterprises.com/go/organize/curator). The tools are on one screen, in four groups. Each link below opens that screen and marks the row for a moment; it never taps the row for you. These linked steps need a Livo build from 20 November 2026 or later (Settings › About › Build).
 
 ### Sources
 
@@ -41,11 +41,11 @@ Where photos come from and where they live: [Scan Prints](https://livoenterprise
 
 ### Safekeeping
 
-[Backup & Restore](https://livoenterprises.com/go/organize/curator/safekeeping/backup), with the date of your last backup under its name. Check a backup drive is inside it. See [Backing up and restoring](https://livoenterprises.com/guide/backup-and-restore.html).
+[Backup & Restore](https://livoenterprises.com/go/organize/backup), with the date of your last backup under its name. It is free, and is a row of its own in Organize. Check a backup drive is inside it. See [Backing up and restoring](https://livoenterprises.com/guide/backup-and-restore.html).
 
 ### Family
 
-[Family](https://livoenterprises.com/go/organize/curator/family/inbox) shows what the family shared, with a count of what is new. [Receive from Family](https://livoenterprises.com/go/organize/curator/family/receive) adds it to your Gallery. [Family Share](https://livoenterprises.com/go/organize/curator/family/setup) sets up your own sharing. Share to Family itself is in every share sheet, for the photos you have selected. See [Family Share](https://livoenterprises.com/guide/family-share.html).
+[Family](https://livoenterprises.com/go/organize/family) shows what the family shared, with a count of what is new. [Receive from Family](https://livoenterprises.com/go/how/receive-family) adds it to your Gallery. Both are free, and are rows of their own in Organize. [Family Share](https://livoenterprises.com/go/organize/curator/family/setup) sets up your own sharing, and is part of Livo Plus. Share to Family itself is in every share sheet, for the photos you have selected. See [Family Share](https://livoenterprises.com/guide/family-share.html).
 
 ### Clean up and review
 

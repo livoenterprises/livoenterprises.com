@@ -1,8 +1,8 @@
 ---
 title: Moments and the Gallery
 description: Choosing a Moment, marking photos, selecting them, and what the bar at the bottom does.
-version: 5
-updated: 2026-11-11
+version: 6
+updated: 2026-11-20
 order: 4
 app: guide
 screen: gallery
@@ -23,7 +23,7 @@ Swipe a photo up to mark it (a thumbs up). The **N Marked** pill shows how many 
 
 ## Selecting photos
 
-Tap a photo to select it; keep dragging to select more. A row appears under the header: **Select All**, **Clear**, **+ Event** (put the selection in an event), **Make a Memory** and **Share**. The bar at the bottom offers **Tag** (people, places and tags on all of them at once), **Info** (one photo), **Delete** (which asks first and moves the photos to the Trash), and **…** for the rest: Rotate, Set Date, Stitch for videos, Find Moment, and the Curator tools when Curator is on.
+Tap a photo to select it; keep dragging to select more. A row appears under the header: **Select All**, **Clear**, **+ Event** (put the selection in an event), **Make a Memory** and **Share**. The bar at the bottom offers **Tag** (people, places and tags on all of them at once), **Info** (one photo), **Delete** (which asks first and moves the photos to the Trash), and **…** for the rest: Rotate, Set Date, Stitch for videos, Find Moment, and the Curator Tools with Livo Plus.
 
 ## Opening a photo
 
@@ -31,4 +31,4 @@ Tap a selected photo, or double-tap any photo, to see it full screen. Swipe betw
 
 ## The badges on a photo
 
-A small mark in the corner tells you what a photo is: video, LIVE, stitched, used in a Memory, or **Aa** when Livo has read text on it. Curator adds marks for a scanned print and a photo in a Bucket.
+A small mark in the corner tells you what a photo is: video, LIVE, stitched, used in a Memory, or **Aa** when Livo has read text on it. Livo Plus adds marks for a scanned print and a photo in a Bucket.

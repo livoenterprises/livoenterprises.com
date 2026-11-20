@@ -1,6 +1,6 @@
 # Sending to someone
 
-*Guide topic 13 · version 2 · updated 2026-11-09 · https://livoenterprises.com/guide/sending-to-someone.html*
+*Guide topic 13 · version 3 · updated 2026-11-20 · https://livoenterprises.com/guide/sending-to-someone.html*
 
 A capsule you send is a file. The person opens it in Livo with one tap, or in any browser without Livo at all.
 
@@ -8,7 +8,7 @@ A capsule you send is a file. The person opens it in Livo with one tap, or in an
 
 [Open Capsules](https://livoenterprises.com/go/vault), tap a capsule, then **Share with Livo**. The capsule goes into the share sheet: AirDrop when you are in the room, Messages or Mail when it is small enough, or Files for an iCloud Drive link to something bigger. From a Memory, **Share › Share with Livo** seals it first if it is not sealed yet. The file is named so that anyone can tell what to do with it: "Livo Capsule - Anna Lee - Friday Night - 2026-10-03 - UNZIP, then open START HERE.zip".
 
-For a gift, with a dedication and a video that plays with one tap, see [Making a gift](https://livoenterprises.com/guide/making-a-gift.html). With [Curator](https://livoenterprises.com/guide/curator.html), a capsule can also go as a OneDrive link, or to the whole family at once through Family Share.
+For a gift, with a dedication and a video that plays with one tap, see [Making a gift](https://livoenterprises.com/guide/making-a-gift.html). With Livo Plus, a capsule can also go as a OneDrive link, or to the whole family at once through Family Share.
 
 ## Receiving a capsule
 

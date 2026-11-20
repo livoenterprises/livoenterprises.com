@@ -1,8 +1,8 @@
 ---
 title: Where things are
 description: The Gallery, Memory Lane, Capsules, the book (Organize) and Search, in one page.
-version: 7
-updated: 2026-11-13
+version: 8
+updated: 2026-11-20
 order: 2
 app: guide
 screen: tour
@@ -30,7 +30,7 @@ Your Time Capsules: sealed Memories, kept as files you can hand on. Tap **Seal**
 
 [Open Organize](livo://organize)
 
-Everything else: Getting Started, the Guide, People, Places, Events, Life Events, Tags, Buckets, Activity, Trash, Curator and Settings. [Curator](livo://organize/curator) holds Backup & Restore, Family, Media Sources and the clean-up tools, in four groups: Sources, Safekeeping, Family, and Clean up and review. See [Curator](/guide/curator.html).
+Everything else: Getting Started, the Guide, People, Places, Events, Life Events, Tags, Buckets, Activity, Trash, Backup & Restore, Family, Receive from Family, Curator Tools and Settings. [Curator Tools](livo://organize/curator) is part of Livo Plus (without it, the row shows what Plus is) and holds Scan Prints, Media Sources, OneDrive Accounts and the clean-up tools, in four groups: Sources, Safekeeping, Family, and Clean up and review. See [Curator Tools](/guide/curator.html).
 
 ## Search
 

@@ -1,12 +1,12 @@
 # Editing photos and videos
 
-*Guide topic 9 · version 6 · updated 2026-11-11 · https://livoenterprises.com/guide/editing-photos-and-videos.html*
+*Guide topic 9 · version 7 · updated 2026-11-20 · https://livoenterprises.com/guide/editing-photos-and-videos.html*
 
 Every edit in Livo makes a new photo or video next to the original. The original is never changed, and nothing is deleted.
 
 ## The one rule
 
-Livo does not touch the files you brought in. Rotate is a note Livo keeps for itself. Edit Photo, Edit Segments, Save Frame and Stitch each make a **new** file, saved where the original lives (the Camera Roll, or with Curator the same OneDrive folder), and bring it into Livo with its own badge and its own line in the Filter. The original stays as it was. If you want it out of the way afterwards, a Bucket (a Curator tool) takes it off the Gallery without deleting it.
+Livo does not touch the files you brought in. Rotate is a note Livo keeps for itself. Edit Photo, Edit Segments, Save Frame and Stitch each make a **new** file, saved where the original lives (the Camera Roll, or with Livo Plus the same OneDrive folder), and bring it into Livo with its own badge and its own line in the Filter. The original stays as it was. If you want it out of the way afterwards, a Bucket (part of Livo Plus) takes it off the Gallery without deleting it.
 
 ## Rotate
 

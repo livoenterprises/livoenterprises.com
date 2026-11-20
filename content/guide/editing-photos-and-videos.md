@@ -1,8 +1,8 @@
 ---
 title: Editing photos and videos
 description: Rotate, crop and adjust a photo, cut a long video into dated segments, save one frame of a video as a photo, and join clips into one video. Livo never changes the original.
-version: 6
-updated: 2026-11-11
+version: 7
+updated: 2026-11-20
 order: 9
 app: guide
 screen: edit
@@ -11,7 +11,7 @@ lede: Every edit in Livo makes a new photo or video next to the original. The or
 
 ## The one rule
 
-Livo does not touch the files you brought in. Rotate is a note Livo keeps for itself. Edit Photo, Edit Segments, Save Frame and Stitch each make a **new** file, saved where the original lives (the Camera Roll, or with Curator the same OneDrive folder), and bring it into Livo with its own badge and its own line in the Filter. The original stays as it was. If you want it out of the way afterwards, a Bucket (a Curator tool) takes it off the Gallery without deleting it.
+Livo does not touch the files you brought in. Rotate is a note Livo keeps for itself. Edit Photo, Edit Segments, Save Frame and Stitch each make a **new** file, saved where the original lives (the Camera Roll, or with Livo Plus the same OneDrive folder), and bring it into Livo with its own badge and its own line in the Filter. The original stays as it was. If you want it out of the way afterwards, a Bucket (part of Livo Plus) takes it off the Gallery without deleting it.
 
 ## Rotate
 

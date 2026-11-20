@@ -1,6 +1,6 @@
-version: 9
-built: 2026-11-16
-livo_build: 20261117_1000_SearchAlwaysHasX
+version: 10
+built: 2026-11-20
+livo_build: 20261119_1810_SavedSwitchRemoved
 guide_url: https://livoenterprises.com/guide/
 pack_url: https://livoenterprises.com/livo-guide-pack.md
 site_url: https://livoenterprises.com

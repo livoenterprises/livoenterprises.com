@@ -1,6 +1,6 @@
 # Time Capsules
 
-*Guide topic 12 · version 4 · updated 2026-11-10 · https://livoenterprises.com/guide/time-capsules-and-the-vault.html*
+*Guide topic 12 · version 5 · updated 2026-11-20 · https://livoenterprises.com/guide/time-capsules-and-the-vault.html*
 
 A Time Capsule is a folder of your photos with their names and stories written into the files, plus a page that opens in any web browser, now or in thirty years.
 
@@ -14,7 +14,7 @@ The photos and videos at full quality, with the names, the place and the story w
 
 ## Keep a copy
 
-Until you choose a place, a capsule is only on this phone, in the Files app under On My iPhone › Livo › TimeCapsules. Under **Keep a copy** on the Capsules screen, add a folder from the Files app (iCloud Drive, or another app's folder) and every capsule you seal is copied there too, and checked now and then. See [Keeping capsules safe](https://livoenterprises.com/guide/keeping-capsules-safe.html). With [Curator](https://livoenterprises.com/guide/curator.html), OneDrive is a place as well.
+Until you choose a place, a capsule is only on this phone, in the Files app under On My iPhone › Livo › TimeCapsules. Under **Keep a copy** on the Capsules screen, add a folder from the Files app (iCloud Drive, or another app's folder) and every capsule you seal is copied there too, and checked now and then. See [Keeping capsules safe](https://livoenterprises.com/guide/keeping-capsules-safe.html). With Livo Plus, OneDrive is a place as well.
 
 ## The list
 

@@ -1,8 +1,8 @@
 # Ask an AI, try the demo, find missing photos, keep a second backup
 
-*Guide topic 27 · version 1 · updated 2026-11-15 · https://livoenterprises.com/guide/help-demo-and-keeping-safe.html*
+*Guide topic 27 · version 2 · updated 2026-11-20 · https://livoenterprises.com/guide/help-demo-and-keeping-safe.html*
 
-Four helpers, each a few taps from Getting Started or Curator.
+Four helpers, each a few taps from Getting Started or Organize.
 
 ## Ask an AI about Livo
 
@@ -28,7 +28,7 @@ New to Livo and not ready to bring in your own photos? Open [Getting Started](ht
 
 Sometimes Livo knows a photo but can no longer find its original, because it was deleted from Photos or moved in OneDrive. Livo keeps a smaller saved copy, with your story and tags, so nothing is lost, but the full-size photo is gone.
 
-Go to Organize › Curator › Clean up and review › **Find Missing Photos**.
+Go to Organize › Curator Tools › Clean up and review › **Find Missing Photos** (Curator Tools is part of Livo Plus).
 
 1. **Scan.** Livo counts the photos missing from both Photos and OneDrive. Nothing is changed.
 2. **Choose how to search.** Livo always asks before it starts, and says what it will change.
@@ -43,7 +43,7 @@ Photos still missing are marked. When you seal a capsule that holds them, Livo a
 
 Backups made by Livo live on your phone, and they are deleted if Livo is deleted. A second copy puts each backup in a folder you choose in the Files app, such as iCloud Drive, a OneDrive folder or a drive.
 
-Go to Organize › Curator › Backup & Restore and find **Second Copy**. Pick a folder; Livo copies the newest backup there at once, and after every backup you make. If the second copy fails, your backup on the phone is still safe, and the screen says what happened.
+Go to Organize › Backup & Restore and find **Second Copy**. Pick a folder; Livo copies the newest backup there at once, and after every backup you make. If the second copy fails, your backup on the phone is still safe, and the screen says what happened.
 
 - Livo keeps the newest five backups in that folder and removes only its own files.
 - **Copy the Newest Backup Now** tries again.

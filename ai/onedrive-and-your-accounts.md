@@ -1,10 +1,10 @@
 # OneDrive and your accounts
 
-*Guide topic 22 · version 5 · updated 2026-11-12 · https://livoenterprises.com/guide/onedrive-and-your-accounts.html*
+*Guide topic 22 · version 6 · updated 2026-11-20 · https://livoenterprises.com/guide/onedrive-and-your-accounts.html*
 
-With Curator and a Microsoft account, you get photos from OneDrive, backups off the phone, a second copy of every capsule, and Family Share.
+With Livo Plus and a Microsoft account, you get photos from OneDrive, backups off the phone, a second copy of every capsule, and Family Share.
 
-Part of [Curator](https://livoenterprises.com/guide/curator.html), in Livo Plus. Livo itself needs no account of any kind; everything on this page appears with Curator on.
+Part of [Curator Tools](https://livoenterprises.com/guide/curator.html), in Livo Plus. Livo itself needs no account of any kind; everything on this page appears with Livo Plus.
 
 ## Signing in
 

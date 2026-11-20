@@ -1,6 +1,6 @@
 # Tag the Moment
 
-*Guide topic 5 · version 1 · updated 2026-11-09 · https://livoenterprises.com/guide/tag-the-moment.html*
+*Guide topic 5 · version 2 · updated 2026-11-20 · https://livoenterprises.com/guide/tag-the-moment.html*
 
 One Moment, one fact at a time. Pick the people, tap Apply, and the whole day is named.
 
@@ -20,7 +20,7 @@ On **Event**, type a few letters to find any event you have made, or pick **Last
 
 ## Kind
 
-A Kind says what a photo is rather than who is in it: a selfie or a screenshot, so the Filter can hide them. Livo marks the ones it can tell on its own; this tab is for the rest. [Curator](https://livoenterprises.com/guide/curator.html) adds more Kinds.
+A Kind says what a photo is rather than who is in it: a selfie or a screenshot, so the Filter can hide them. Livo marks the ones it can tell on its own; this tab is for the rest. Livo Plus ([Curator Tools](https://livoenterprises.com/guide/curator.html)) adds more Kinds.
 
 ## The strip and the big photo
 

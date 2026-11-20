@@ -1,6 +1,6 @@
 # Where things are
 
-*Guide topic 2 · version 7 · updated 2026-11-13 · https://livoenterprises.com/guide/where-things-are.html*
+*Guide topic 2 · version 8 · updated 2026-11-20 · https://livoenterprises.com/guide/where-things-are.html*
 
 Livo has three surfaces along the bottom, a Search button, and a book of everything else.
 
@@ -26,7 +26,7 @@ Your Time Capsules: sealed Memories, kept as files you can hand on. Tap **Seal**
 
 [Open Organize](https://livoenterprises.com/go/organize)
 
-Everything else: Getting Started, the Guide, People, Places, Events, Life Events, Tags, Buckets, Activity, Trash, Curator and Settings. [Curator](https://livoenterprises.com/go/organize/curator) holds Backup & Restore, Family, Media Sources and the clean-up tools, in four groups: Sources, Safekeeping, Family, and Clean up and review. See [Curator](https://livoenterprises.com/guide/curator.html).
+Everything else: Getting Started, the Guide, People, Places, Events, Life Events, Tags, Buckets, Activity, Trash, Backup & Restore, Family, Receive from Family, Curator Tools and Settings. [Curator Tools](https://livoenterprises.com/go/organize/curator) is part of Livo Plus (without it, the row shows what Plus is) and holds Scan Prints, Media Sources, OneDrive Accounts and the clean-up tools, in four groups: Sources, Safekeeping, Family, and Clean up and review. See [Curator Tools](https://livoenterprises.com/guide/curator.html).
 
 ## Search
 

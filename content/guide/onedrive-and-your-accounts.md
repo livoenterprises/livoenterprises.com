@@ -1,15 +1,15 @@
 ---
 title: OneDrive and your accounts
 description: Signing in, what "Needs sign-in" means, and the folders Livo keeps in your OneDrive.
-version: 5
-updated: 2026-11-12
+version: 6
+updated: 2026-11-20
 order: 22
 app: guide
 screen: onedrive
-lede: With Curator and a Microsoft account, you get photos from OneDrive, backups off the phone, a second copy of every capsule, and Family Share.
+lede: With Livo Plus and a Microsoft account, you get photos from OneDrive, backups off the phone, a second copy of every capsule, and Family Share.
 ---
 
-Part of [Curator](/guide/curator.html), in Livo Plus. Livo itself needs no account of any kind; everything on this page appears with Curator on.
+Part of [Curator Tools](/guide/curator.html), in Livo Plus. Livo itself needs no account of any kind; everything on this page appears with Livo Plus.
 
 ## Signing in
 

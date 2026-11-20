@@ -1,8 +1,8 @@
 ---
 title: Bringing in your photos
 description: Importing from the Camera Roll and iCloud Photos, what Livo keeps, the badge on the ≡ menu, and the other ways photos arrive.
-version: 7
-updated: 2026-11-13
+version: 8
+updated: 2026-11-20
 order: 3
 app: guide
 screen: import
@@ -25,7 +25,7 @@ The **≡** menu carries a small red number when there is something new to bring
 
 ## Other ways photos arrive
 
-A Time Capsule or a gift someone sent you puts its photos in your Camera Roll and in Livo in one step; see [Sending to someone](/guide/sending-to-someone.html). With [Curator](/guide/curator.html), photos can also come from OneDrive and from printed photos you scan with the camera. [Open Scan Prints](livo://organize/curator/sources/scan-prints) to scan a printed photo, [open OneDrive Accounts](livo://organize/curator/sources/accounts) to connect OneDrive and choose folders to add, or [open Where My Photos Are](livo://organize/curator/sources/media-sources) to see where each photo is kept. A friend's Family Share arrives through [Receive from Family](livo://organize/curator/family/receive).
+A Time Capsule or a gift someone sent you puts its photos in your Camera Roll and in Livo in one step; see [Sending to someone](/guide/sending-to-someone.html). With Livo Plus ([Curator Tools](/guide/curator.html)), photos can also come from OneDrive and from printed photos you scan with the camera. [Open Scan Prints](livo://organize/curator/sources/scan-prints) to scan a printed photo, [open OneDrive Accounts](livo://organize/curator/sources/accounts) to connect OneDrive and choose folders to add, or [open Where My Photos Are](livo://organize/curator/sources/media-sources) to see where each photo is kept. A friend's Family Share arrives through [Receive from Family](livo://how/receive-family), which is free.
 
 ## Cleaning up
 

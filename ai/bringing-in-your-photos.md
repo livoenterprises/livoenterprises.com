@@ -1,6 +1,6 @@
 # Bringing in your photos
 
-*Guide topic 3 · version 7 · updated 2026-11-13 · https://livoenterprises.com/guide/bringing-in-your-photos.html*
+*Guide topic 3 · version 8 · updated 2026-11-20 · https://livoenterprises.com/guide/bringing-in-your-photos.html*
 
 Livo reads your Camera Roll and keeps a small copy of each photo. Your photos stay where they are, and Livo never deletes or changes them.
 
@@ -20,7 +20,7 @@ The **≡** menu carries a small red number when there is something new to bring
 
 ## Other ways photos arrive
 
-A Time Capsule or a gift someone sent you puts its photos in your Camera Roll and in Livo in one step; see [Sending to someone](https://livoenterprises.com/guide/sending-to-someone.html). With [Curator](https://livoenterprises.com/guide/curator.html), photos can also come from OneDrive and from printed photos you scan with the camera. [Open Scan Prints](https://livoenterprises.com/go/organize/curator/sources/scan-prints) to scan a printed photo, [open OneDrive Accounts](https://livoenterprises.com/go/organize/curator/sources/accounts) to connect OneDrive and choose folders to add, or [open Where My Photos Are](https://livoenterprises.com/go/organize/curator/sources/media-sources) to see where each photo is kept. A friend's Family Share arrives through [Receive from Family](https://livoenterprises.com/go/organize/curator/family/receive).
+A Time Capsule or a gift someone sent you puts its photos in your Camera Roll and in Livo in one step; see [Sending to someone](https://livoenterprises.com/guide/sending-to-someone.html). With Livo Plus ([Curator Tools](https://livoenterprises.com/guide/curator.html)), photos can also come from OneDrive and from printed photos you scan with the camera. [Open Scan Prints](https://livoenterprises.com/go/organize/curator/sources/scan-prints) to scan a printed photo, [open OneDrive Accounts](https://livoenterprises.com/go/organize/curator/sources/accounts) to connect OneDrive and choose folders to add, or [open Where My Photos Are](https://livoenterprises.com/go/organize/curator/sources/media-sources) to see where each photo is kept. A friend's Family Share arrives through [Receive from Family](https://livoenterprises.com/go/how/receive-family), which is free.
 
 ## Cleaning up
 

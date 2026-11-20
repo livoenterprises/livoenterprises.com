@@ -1,6 +1,6 @@
 # Events and the story
 
-*Guide topic 7 · version 3 · updated 2026-11-09 · https://livoenterprises.com/guide/describing-a-moment.html*
+*Guide topic 7 · version 4 · updated 2026-11-20 · https://livoenterprises.com/guide/describing-a-moment.html*
 
 A Moment is Livo's guess from the dates. An Event is what you say happened, and the story is how you would tell it.
 
@@ -30,7 +30,7 @@ The story is a sentence or a paragraph, in your words, written onto the photos t
 
 ## Tags
 
-A tag is one word or two ("cabin", "first day of school") for things that are not a person, place or event. Add them on one photo's Details strip, or on a selection with **Tag**, where the tags the photos already have are listed, each with a minus that takes it off every selected photo. Livo never adds a tag on its own. The list of all your tags, with rename and merge, is a [Curator](https://livoenterprises.com/guide/curator.html) tool under Organize.
+A tag is one word or two ("cabin", "first day of school") for things that are not a person, place or event. Add them on one photo's Details strip, or on a selection with **Tag**, where the tags the photos already have are listed, each with a minus that takes it off every selected photo. Livo never adds a tag on its own. The list of all your tags, with rename and merge, is under Organize › Tags, and is free.
 
 ## Undo
 

@@ -1,8 +1,8 @@
 ---
 title: Finding photos
 description: The Filter and Livo Search — the two ways to find photos by who, where, when and what.
-version: 3
-updated: 2026-11-09
+version: 4
+updated: 2026-11-20
 order: 8
 app: guide
 screen: search
@@ -11,7 +11,7 @@ lede: Filter narrows the Gallery by what you pick. Livo Search finds photos from
 
 ## Filter
 
-[Open the Filter](livo://gallery/filter) from the funnel at the top left of the Gallery. Pick people (any of them, or all of them together), places, events, tags, a year, month or day, and switches such as Marked Only, Faces Not All Named, No Faces, No Place, Photos or Videos, and Hide Selfies or Hide Screenshots. [Curator](/guide/curator.html) adds more: Hide Thumbs Down, From Family Only, Scanned Prints Only and the other Kinds. The filter keeps the Moment you are in and skips Moments with nothing in them; a banner at the top says what is on, and its ✕ clears it. The same filter also narrows Memory Lane.
+[Open the Filter](livo://gallery/filter) from the funnel at the top left of the Gallery. Pick people (any of them, or all of them together), places, events, tags, a year, month or day, and switches such as Marked Only, Faces Not All Named, No Faces, No Place, Photos or Videos, and Hide Selfies or Hide Screenshots. Livo Plus ([Curator Tools](/guide/curator.html)) adds more: Hide Thumbs Down, From Family Only, Scanned Prints Only and the other Kinds. The filter keeps the Moment you are in and skips Moments with nothing in them; a banner at the top says what is on, and its ✕ clears it. The same filter also narrows Memory Lane.
 
 ## Livo Search
 

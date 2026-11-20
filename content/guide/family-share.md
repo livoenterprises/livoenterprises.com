@@ -1,19 +1,19 @@
 ---
 title: Family Share
 description: Sharing Memories, photos and capsules with your whole family through your own OneDrive, and seeing what they share with you.
-version: 6
-updated: 2026-11-13
+version: 7
+updated: 2026-11-20
 order: 23
 app: guide
 screen: family
 lede: Each family member has a Livo Family Share folder in their own OneDrive. You write in yours; the family reads it. Nothing goes through a server.
 ---
 
-Part of [Curator](/guide/curator.html), in Livo Plus. Without it, a capsule or a gift still reaches anyone by AirDrop, Messages, Mail or an iCloud Drive link; see [Sending to someone](/guide/sending-to-someone.html).
+Setting up your own sharing is part of [Curator Tools](/guide/curator.html), in Livo Plus. Receiving what the family shares with you is free, and so is Organize › Family. Without Plus, a capsule or a gift still reaches anyone by AirDrop, Messages, Mail or an iCloud Drive link; see [Sending to someone](/guide/sending-to-someone.html).
 
 ## Setting up
 
-[Open Settings › OneDrive Accounts › Family Share](livo://settings/family-share). It is also on the [Curator screen](livo://organize/curator/family/setup). The screen looks at your OneDrive and tells you, in three parts, what is **already in place**, what **Livo will do** when you tap Set Up (make your Livo Family Share folder, share it with the family as view-only, write the family list into it), and **what you do** next. One person — the organizer — can sign in every family account on one phone and set them all up at once, then sign the others out; or each person does their own. Livo never removes anyone from a folder's sharing.
+[Open Settings › OneDrive Accounts › Family Share](livo://settings/family-share). It is also on the [Curator Tools screen](livo://organize/curator/family/setup). The screen looks at your OneDrive and tells you, in three parts, what is **already in place**, what **Livo will do** when you tap Set Up (make your Livo Family Share folder, share it with the family as view-only, write the family list into it), and **what you do** next. One person — the organizer — can sign in every family account on one phone and set them all up at once, then sign the others out; or each person does their own. Livo never removes anyone from a folder's sharing.
 
 ## Sharing
 
@@ -23,7 +23,7 @@ A Memory video shared this way is a plain video the family can play in the OneDr
 
 ## What the family shared
 
-[Open Organize › Curator › Family](livo://organize/family). One section per family member, newest first, with **NEW** on what arrived since you last looked, and "In your Livo" on what you already have. **Add to Livo** on a photo or video puts it in your Camera Roll and your Gallery with the sender's date, story, people and place. **Add to My Livo** on a capsule brings it in as described in [Sending to someone](/guide/sending-to-someone.html). **Play** and **View** just look.
+[Open Organize › Family](livo://organize/family). One section per family member, newest first, with **NEW** on what arrived since you last looked, and "In your Livo" on what you already have. **Add to Livo** on a photo or video puts it in your Camera Roll and your Gallery with the sender's date, story, people and place. **Add to My Livo** on a capsule brings it in as described in [Sending to someone](/guide/sending-to-someone.html). **Play** and **View** just look.
 
 The Organize book and the Gallery's **≡** menu carry a badge when the family has shared something new; **Receive from Family** (under **≡**, then **Add Photos**) brings in everything new at once. While Livo is closed, a quiet notification may tell you the family shared something. [Show me where](livo://how/receive-family).
 

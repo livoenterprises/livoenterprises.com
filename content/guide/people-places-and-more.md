@@ -1,8 +1,8 @@
 ---
 title: People, Places, Life Events, Tags and Buckets
-description: The lists behind your photos - People, Places, Events, Life Events and Tags in Livo; Buckets with Curator.
-version: 5
-updated: 2026-11-12
+description: The lists behind your photos - People, Places, Events, Life Events and Tags in Livo; Buckets, part of Livo Plus.
+version: 6
+updated: 2026-11-20
 order: 24
 app: guide
 screen: organize
@@ -31,9 +31,9 @@ Two entries for one event? Swipe an event and tap **Merge into…**, then pick t
 
 [Open Organize › Tags](livo://organize/tags). Every tag with its photo count, by name or by count. Swipe a tag, or tap it, for **Rename**, **Merge into…** or **Delete**. Renaming a tag to a name another tag already has merges them, and asks first. Delete asks too, and removes the tag from your photos without touching the photos or their stories. What Livo Search has learned about a renamed or merged tag follows it.
 
-## Buckets (Curator)
+## Buckets (Livo Plus)
 
-[Open Organize › Buckets](livo://organize/buckets). A Bucket is a hidden shelf: photos moved there leave the Gallery, Moments, Memories, search and every export until you move them back. Not the Trash — nothing is deleted. Swipe a Bucket to **Rename** or **Delete** it. Deleting a Bucket asks first, and every photo still in it goes back to the Gallery. To move photos from one Bucket to another, open the Bucket, select them, and tap the lock button, as in the Gallery.
+[Open Organize › Buckets](livo://organize/buckets). Moving photos into a Bucket is part of Livo Plus; opening a Bucket and taking photos out of it is free. A Bucket is a hidden shelf: photos moved there leave the Gallery, Moments, Memories, search and every export until you move them back. Not the Trash — nothing is deleted. Swipe a Bucket to **Rename** or **Delete** it. Deleting a Bucket asks first, and every photo still in it goes back to the Gallery. To move photos from one Bucket to another, open the Bucket, select them, and tap the lock button, as in the Gallery.
 
 ## Trash
 

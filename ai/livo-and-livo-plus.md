@@ -1,8 +1,8 @@
 # Free, and Livo Plus
 
-*Guide topic 19 · version 6 · updated 2026-11-12 · https://livoenterprises.com/guide/livo-and-livo-plus.html*
+*Guide topic 19 · version 7 · updated 2026-11-20 · https://livoenterprises.com/guide/livo-and-livo-plus.html*
 
-Livo is free, with no limits. Livo Plus is one purchase, made once, that adds the finished forms of a gift, two tools for creating, and the Curator tools for the family's archive.
+Livo is free, with no limits. Livo Plus is one purchase, made once, that adds the finished forms of a gift, two tools for creating, and Curator Tools for the family's archive.
 
 ## Free, forever
 
@@ -39,21 +39,21 @@ Made once, shared with your Apple family, never a subscription. It adds three ki
 - **Stitch videos**: several clips joined into one video, in your order, for a Memory or a gift.
 - **Save Frame as Photo**: a still from any moment of a video, saved as a photo of its own.
 
-**For the family's archive (Curator)** — for the one person who keeps thirty years of everyone's photos:
+**For the family's archive (Curator Tools)** — for the one person who keeps thirty years of everyone's photos:
 
 - **Scan Prints**: the shoebox in, with the camera, a stack of prints at a time, named as you go.
 - **OneDrive**: photos from OneDrive folders brought in; backups and a copy of every capsule kept in your own OneDrive; capsules sent as links.
-- **Family Share and the Family Library**: what each person shares from their own OneDrive, read-only to the others, with a catalog so the family's phones find photos by name.
-- **Buckets**: a shelf for photos you want out of sight but not gone. The thirty near-identical shots of a burst, the photos from a past relationship you are not ready to see every day but would not delete forever, the paperwork photographed for a form. They leave the Gallery and search, and come back with a tap.
+- **Family Share** setup: sharing your own photos with the family from your own OneDrive, read-only to the others, with a catalog so the family's phones find photos by name. Seeing and receiving what the family shares is free.
+- **Buckets**: a shelf for photos you want out of sight but not gone. The thirty near-identical shots of a burst, the photos from a past relationship you are not ready to see every day but would not delete forever, the paperwork photographed for a form. They leave the Gallery and search, and come back with a tap. Moving photos into a Bucket is part of Plus; opening a Bucket and taking photos out is free.
 - The **full selection bar**, with every action one tap away.
 - **Reference and Saved-image Kinds**, thumbs-down and Hide Thumbs Down, Picks and To Review: the triage tools for a very large library.
 - **Media Sources, Where my photos are, Send to Photos**, and **Check a backup drive**, which proves a mirror of your photos on an external drive is complete.
 
 ## The rules, either way
 
-- **Nothing already made is ever locked.** Without Plus, everything you have made stays yours to see, edit and export, and what the Curator tools made (Buckets, OneDrive copies) stays readable with Curator off.
+- **Nothing already made is ever locked.** Without Plus, everything you have made stays yours to see, edit and export, and what the Curator Tools made (Buckets, OneDrive copies) stays readable without Plus.
 - **Tools, never a clock or a count.** No trial that expires, no limit that fills up. Plus unlocks tools, once.
-- **One product.** Livo Plus is the only purchase. Curator is the name of its archive tools, and the switch for them is in Settings.
+- **One product.** Livo Plus is the only purchase. Curator Tools is the name of its archive tools. They open from Organize once you have Plus; there is no separate switch.
 - **Restore Purchases** is under Settings › About, for a new phone or a family member's.
 
 ## Why it is drawn this way

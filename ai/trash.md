@@ -1,6 +1,6 @@
 # Trash, and what Livo never deletes
 
-*Guide topic 18 · version 4 · updated 2026-11-11 · https://livoenterprises.com/guide/trash.html*
+*Guide topic 18 · version 5 · updated 2026-11-20 · https://livoenterprises.com/guide/trash.html*
 
 Deleting in Livo is two steps, and the second always says exactly what it does.
 
@@ -13,7 +13,7 @@ Deleting a photo, Memory, capsule, person or place moves it to the Trash ([Organ
 - A **photo**: Livo's record and its small copy. The photo in Photos (or OneDrive) is untouched, and Livo remembers not to import it again.
 - A **Memory**: the story, order and narration.
 - A **Time Capsule**: its record and its file on this phone (a copy you kept in a folder is removed only if you choose **Delete and Remove Its Copies**; a Keepsake's copy is never removed).
-- A **Bucket** (Curator): only the empty Bucket itself. Deleting a Bucket first sends its photos back to the Gallery.
+- A **Bucket** (Livo Plus): only the empty Bucket itself. Deleting a Bucket first sends its photos back to the Gallery.
 - A **person** or **place**: the entry itself. Restoring a merged person or place undoes the merge.
 
 The confirmation names the consequence for that kind of thing.

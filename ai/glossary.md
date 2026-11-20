@@ -7,9 +7,9 @@
 - **Event:** something that happened, such as "Family beach trip 2024", covering one or more Moments. **Life Event:** a dated fact about a person, such as a birth or a wedding.
 - **Kind:** what a photo is rather than who is in it, such as a selfie or a screenshot, so the Filter can hide them.
 - **Tags:** words on photos that you can search and filter by, renamed or merged in Organize › Tags.
-- **Bucket (Curator):** a hidden shelf. Photos moved there leave the Gallery, search and exports until you move them back. Nothing is deleted.
+- **Bucket (Livo Plus):** a hidden shelf. Photos moved there leave the Gallery, search and exports until you move them back. Nothing is deleted.
 - **Trash:** where deleted photos, Memories, capsules, people and places wait until you restore them or empty it. It never empties itself.
-- **Curator:** the Livo Plus tools for the one person who keeps the family's archive.
+- **Curator Tools:** the Livo Plus tools for the one person who keeps the family's archive.
 - **Livo Plus:** one purchase, made once and shared with your Apple family, never a subscription.
-- **Family Share and the Family Library:** how each person in the family shares photos from their own OneDrive and receives what others share. Curator tools.
+- **Family Share and the Family Library:** how each person in the family shares photos from their own OneDrive and receives what others share. Setting up sharing is Livo Plus; seeing and receiving what the family shares is free.
 - **Activity:** the list of what Livo is doing in the background, with Pause and Stop.

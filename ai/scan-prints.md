@@ -1,10 +1,10 @@
 # Scan Prints
 
-*Guide topic 21 · version 4 · updated 2026-11-13 · https://livoenterprises.com/guide/scan-prints.html*
+*Guide topic 21 · version 5 · updated 2026-11-20 · https://livoenterprises.com/guide/scan-prints.html*
 
 Hold the phone over a print. Livo finds its edges, straightens it, and keeps going to the next one.
 
-Part of [Curator](https://livoenterprises.com/guide/curator.html), in Livo Plus. With Curator on, **Scan Prints** is in the Gallery's **≡** menu, under **Add Photos**.
+Part of [Curator Tools](https://livoenterprises.com/guide/curator.html), in Livo Plus. With Plus, **Scan Prints** is in the Gallery's **≡** menu, under **Add Photos**.
 
 ## Scanning
 

@@ -1,8 +1,8 @@
 ---
 title: Keeping capsules safe
 description: How Livo keeps at least two copies of every Time Capsule, checks them, and tells you while a problem can still be fixed.
-version: 3
-updated: 2026-11-09
+version: 4
+updated: 2026-11-20
 order: 16
 app: guide
 screen: vault-places
@@ -11,7 +11,7 @@ lede: Two places at least, checked on a schedule, and you are told while it can 
 
 ## Keep a copy
 
-[Open Capsules › Keep a copy](livo://vault/places). **This phone** is always one place. Add up to five **folders of your own** from the Files app: iCloud Drive, Dropbox, Google Drive, a drive plugged into the phone. Every capsule you seal is copied to each of them. A place that is not reachable right now (a drive unplugged, no network) is simply "pending"; the copy is written the next time Livo sees it. Removing a place deletes nothing. With [Curator](/guide/curator.html), your OneDrive's **Livo Vault** folder is a place as well, on by default when you are signed in.
+[Open Capsules › Keep a copy](livo://vault/places). **This phone** is always one place. Add up to five **folders of your own** from the Files app: iCloud Drive, Dropbox, Google Drive, a drive plugged into the phone. Every capsule you seal is copied to each of them. A place that is not reachable right now (a drive unplugged, no network) is simply "pending"; the copy is written the next time Livo sees it. Removing a place deletes nothing. With Livo Plus, your OneDrive's **Livo Vault** folder is a place as well, on by default when you are signed in.
 
 Livo writes only its own capsule files into a place and never deletes anything there.
 
@@ -27,4 +27,4 @@ If one copy is damaged or missing, the capsule's screen offers **Repair** from a
 
 ## Keepsakes
 
-For a Memory that must never change, one you inherited, **Keep forever (a Keepsake)** on its screen, or when you receive it, marks it so that it is only ever repaired, never re-sealed or overwritten. With Curator, a Keepsake also gets a third copy in OneDrive › **Livo Keepsakes**, a folder Livo writes once and never deletes from.
+For a Memory that must never change, one you inherited, **Keep forever (a Keepsake)** on its screen, or when you receive it, marks it so that it is only ever repaired, never re-sealed or overwritten. With Livo Plus, a Keepsake also gets a third copy in OneDrive › **Livo Keepsakes**, a folder Livo writes once and never deletes from.

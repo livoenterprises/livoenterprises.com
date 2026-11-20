@@ -1,8 +1,8 @@
 ---
 title: Time Capsules
 description: Sealing Memories into a Time Capsule, what is inside one, where copies go, and how anyone can open it, with or without Livo.
-version: 4
-updated: 2026-11-10
+version: 5
+updated: 2026-11-20
 order: 12
 app: guide
 screen: vault
@@ -19,7 +19,7 @@ The photos and videos at full quality, with the names, the place and the story w
 
 ## Keep a copy
 
-Until you choose a place, a capsule is only on this phone, in the Files app under On My iPhone › Livo › TimeCapsules. Under **Keep a copy** on the Capsules screen, add a folder from the Files app (iCloud Drive, or another app's folder) and every capsule you seal is copied there too, and checked now and then. See [Keeping capsules safe](/guide/keeping-capsules-safe.html). With [Curator](/guide/curator.html), OneDrive is a place as well.
+Until you choose a place, a capsule is only on this phone, in the Files app under On My iPhone › Livo › TimeCapsules. Under **Keep a copy** on the Capsules screen, add a folder from the Files app (iCloud Drive, or another app's folder) and every capsule you seal is copied there too, and checked now and then. See [Keeping capsules safe](/guide/keeping-capsules-safe.html). With Livo Plus, OneDrive is a place as well.
 
 ## The list
 
