@@ -1,6 +1,6 @@
 # Settings and Livo Plus
 
-*Guide topic 25 · version 10 · updated 2026-11-20 · https://livoenterprises.com/guide/settings-and-your-look.html*
+*Guide topic 25 · version 11 · updated 2026-11-21 · https://livoenterprises.com/guide/settings-and-your-look.html*
 
 Settings is short on purpose. Most of what you need day to day is under Organize.
 
@@ -10,7 +10,7 @@ Settings is short on purpose. Most of what you need day to day is under Organize
 
 ## Your look
 
-[Settings › Appearance](https://livoenterprises.com/go/settings/appearance) offers five palettes: **Charcoal** (the darkest, the default), **Slate** and **Spring** (dark, with white lettering), **Daylight** (a warm off-white page with dark lettering and a teal accent, for daytime and for anyone who finds dark screens hard to read) and **Evening** (deep teal with cream). Photos are always shown on black whichever you choose.
+[Settings › Appearance](https://livoenterprises.com/go/settings/appearance) offers five palettes: **Charcoal** (the darkest), **Slate** and **Spring** (dark, with white lettering), **Daylight** (a warm off-white page with dark lettering and a teal accent, for daytime and for anyone who finds dark screens hard to read) and **Evening** (deep teal with cream, the look Livo starts with). Photos are always shown on black whichever you choose.
 
 ## Story Display
 

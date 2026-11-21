@@ -1,8 +1,8 @@
 ---
 title: Settings and Livo Plus
 description: Your name, the five palettes, how stories are shown, Livo Plus, what Livo Search has learned, and About.
-version: 10
-updated: 2026-11-20
+version: 11
+updated: 2026-11-21
 order: 25
 app: guide
 screen: settings
@@ -15,7 +15,7 @@ lede: Settings is short on purpose. Most of what you need day to day is under Or
 
 ## Your look
 
-[Settings › Appearance](livo://settings/appearance) offers five palettes: **Charcoal** (the darkest, the default), **Slate** and **Spring** (dark, with white lettering), **Daylight** (a warm off-white page with dark lettering and a teal accent, for daytime and for anyone who finds dark screens hard to read) and **Evening** (deep teal with cream). Photos are always shown on black whichever you choose.
+[Settings › Appearance](livo://settings/appearance) offers five palettes: **Charcoal** (the darkest), **Slate** and **Spring** (dark, with white lettering), **Daylight** (a warm off-white page with dark lettering and a teal accent, for daytime and for anyone who finds dark screens hard to read) and **Evening** (deep teal with cream, the look Livo starts with). Photos are always shown on black whichever you choose.
 
 ## Story Display
 

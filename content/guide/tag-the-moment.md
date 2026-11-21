@@ -1,8 +1,8 @@
 ---
 title: Tag the Moment
 description: Saying who is in a day's photos, what the event was and where it happened, one thing at a time, with the shortcuts that make it fast.
-version: 2
-updated: 2026-11-20
+version: 3
+updated: 2026-11-21
 order: 5
 app: guide
 screen: tag-moment
@@ -25,7 +25,7 @@ On **Event**, type a few letters to find any event you have made, or pick **Last
 
 ## Kind
 
-A Kind says what a photo is rather than who is in it: a selfie or a screenshot, so the Filter can hide them. Livo marks the ones it can tell on its own; this tab is for the rest. Livo Plus ([Curator Tools](/guide/curator.html)) adds more Kinds.
+A Kind says what a photo is rather than who is in it. There are six: **Selfie**, **Daily Life**, **Appointment** (a visit that comes around again, such as the doctor, the vet or a school meeting), **Reference** (something you photographed to keep what it says), **Saved image** (a screenshot, or a picture saved from somewhere else) and **Random** (taken just because). The Filter can hide some of them. Livo marks the ones it can tell on its own; this tab is for the rest. Livo Plus ([Curator Tools](/guide/curator.html)) adds more Kinds.
 
 ## The strip and the big photo
 

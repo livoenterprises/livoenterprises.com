@@ -5,7 +5,7 @@
 - **Memory:** a set of photos in order, a story, and your voice if you record one. Memories live in Memory Lane.
 - **Time Capsule (capsule):** one or more Memories sealed into a set of files you can hand on. Capsules live under the Capsules surface.
 - **Event:** something that happened, such as "Family beach trip 2024", covering one or more Moments. **Life Event:** a dated fact about a person, such as a birth or a wedding.
-- **Kind:** what a photo is rather than who is in it, such as a selfie or a screenshot, so the Filter can hide them.
+- **Kind:** what a photo is rather than who is in it. One of six: Selfie, Daily Life, Appointment (a visit that comes around again: the doctor, the vet, a school meeting), Reference, Saved image, Random.
 - **Tags:** words on photos that you can search and filter by, renamed or merged in Organize › Tags.
 - **Bucket (Livo Plus):** a hidden shelf. Photos moved there leave the Gallery, search and exports until you move them back. Nothing is deleted.
 - **Trash:** where deleted photos, Memories, capsules, people and places wait until you restore them or empty it. It never empties itself.

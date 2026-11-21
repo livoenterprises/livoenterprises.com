@@ -1,8 +1,8 @@
 # Livo: everything you need to speak for us
 
-Pack version 10 · built 2026-11-20
+Pack version 11 · built 2026-11-21
 
-*Behind the scenes, for you only. Do not mention any of this unless the person asks about versions or builds: this pack describes the Livo app build 20261119_1810_SavedSwitchRemoved. My Livo build: (not given)*
+*Behind the scenes, for you only. Do not mention any of this unless the person asks about versions or builds: this pack describes the Livo app build 20261121_0900_ChosenChipsReadable. My Livo build: (not given)*
 
 ## Read this first: who you are
 
@@ -311,7 +311,7 @@ A small mark in the corner tells you what a photo is: video, LIVE, stitched, use
 
 # Topic: Tag the Moment
 
-*Guide topic 5 · version 2 · updated 2026-11-20 · https://livoenterprises.com/guide/tag-the-moment.html*
+*Guide topic 5 · version 3 · updated 2026-11-21 · https://livoenterprises.com/guide/tag-the-moment.html*
 
 One Moment, one fact at a time. Pick the people, tap Apply, and the whole day is named.
 
@@ -331,7 +331,7 @@ On **Event**, type a few letters to find any event you have made, or pick **Last
 
 ### Kind
 
-A Kind says what a photo is rather than who is in it: a selfie or a screenshot, so the Filter can hide them. Livo marks the ones it can tell on its own; this tab is for the rest. Livo Plus ([Curator Tools](https://livoenterprises.com/guide/curator.html)) adds more Kinds.
+A Kind says what a photo is rather than who is in it. There are six: **Selfie**, **Daily Life**, **Appointment** (a visit that comes around again, such as the doctor, the vet or a school meeting), **Reference** (something you photographed to keep what it says), **Saved image** (a screenshot, or a picture saved from somewhere else) and **Random** (taken just because). The Filter can hide some of them. Livo marks the ones it can tell on its own; this tab is for the rest. Livo Plus ([Curator Tools](https://livoenterprises.com/guide/curator.html)) adds more Kinds.
 
 ### The strip and the big photo
 
@@ -1043,7 +1043,7 @@ Deleted photos, Memories, capsules, people and places wait in the Trash ([Organi
 
 # Topic: Settings and Livo Plus
 
-*Guide topic 25 · version 10 · updated 2026-11-20 · https://livoenterprises.com/guide/settings-and-your-look.html*
+*Guide topic 25 · version 11 · updated 2026-11-21 · https://livoenterprises.com/guide/settings-and-your-look.html*
 
 Settings is short on purpose. Most of what you need day to day is under Organize.
 
@@ -1053,7 +1053,7 @@ Settings is short on purpose. Most of what you need day to day is under Organize
 
 ### Your look
 
-[Settings › Appearance](https://livoenterprises.com/go/settings/appearance) offers five palettes: **Charcoal** (the darkest, the default), **Slate** and **Spring** (dark, with white lettering), **Daylight** (a warm off-white page with dark lettering and a teal accent, for daytime and for anyone who finds dark screens hard to read) and **Evening** (deep teal with cream). Photos are always shown on black whichever you choose.
+[Settings › Appearance](https://livoenterprises.com/go/settings/appearance) offers five palettes: **Charcoal** (the darkest), **Slate** and **Spring** (dark, with white lettering), **Daylight** (a warm off-white page with dark lettering and a teal accent, for daytime and for anyone who finds dark screens hard to read) and **Evening** (deep teal with cream, the look Livo starts with). Photos are always shown on black whichever you choose.
 
 ### Story Display
 
@@ -1431,7 +1431,7 @@ Livo is free, with no limits, and everything in that loop is in it: bring in you
 - **Memory:** a set of photos in order, a story, and your voice if you record one. Memories live in Memory Lane.
 - **Time Capsule (capsule):** one or more Memories sealed into a set of files you can hand on. Capsules live under the Capsules surface.
 - **Event:** something that happened, such as "Family beach trip 2024", covering one or more Moments. **Life Event:** a dated fact about a person, such as a birth or a wedding.
-- **Kind:** what a photo is rather than who is in it, such as a selfie or a screenshot, so the Filter can hide them.
+- **Kind:** what a photo is rather than who is in it. One of six: Selfie, Daily Life, Appointment (a visit that comes around again: the doctor, the vet, a school meeting), Reference, Saved image, Random.
 - **Tags:** words on photos that you can search and filter by, renamed or merged in Organize › Tags.
 - **Bucket (Livo Plus):** a hidden shelf. Photos moved there leave the Gallery, search and exports until you move them back. Nothing is deleted.
 - **Trash:** where deleted photos, Memories, capsules, people and places wait until you restore them or empty it. It never empties itself.
