@@ -1,6 +1,6 @@
 # Free, and Livo Plus
 
-*Guide topic 19 · version 7 · updated 2026-11-20 · https://livoenterprises.com/guide/livo-and-livo-plus.html*
+*Guide topic 19 · version 8 · updated 2026-11-17 · https://livoenterprises.com/guide/livo-and-livo-plus.html*
 
 Livo is free, with no limits. Livo Plus is one purchase, made once, that adds the finished forms of a gift, two tools for creating, and Curator Tools for the family's archive.
 
@@ -8,7 +8,7 @@ Livo is free, with no limits. Livo Plus is one purchase, made once, that adds th
 
 Everything you need to name your photos, make something from them, keep it safe and pass it on. No account, no sign-in, no counts.
 
-- **Bring in your photos and videos** from the Camera Roll and iCloud Photos, with the duplicate clean-up. Your photos stay where they are.
+- **Bring in your photos and videos** from the Camera Roll and iCloud Photos, with the duplicate clean-up. Your photos stay where you keep them, and Livo changes nothing without your approval.
 - **Moments, the Gallery, Filter and Livo Search.** Search by a name, a place, an event, a date, or words Livo has read on screenshots and saved pictures; tap the field to pick a person, place or event, and keep your favorite searches under the star (saved and pinned searches are free).
 - **Tag the Moment, Name the Faces, Edit Tags.** Who is in a day's photos, what the event was, where it happened; the faces one by one with the photo peek, the clean-up of tags, the recent names, Always offer.
 - **People, Places, Events, Life Events and Tags**, with their lists under Organize. A birthday or a wedding date on a person is what makes "Emma's 5th birthday" and "when Dad was my age" searchable. The Tags list renames, merges and deletes a tag across every photo, so a typo on forty photos is one fix.

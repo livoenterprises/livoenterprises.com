@@ -1,8 +1,8 @@
 # Bringing in your photos
 
-*Guide topic 3 · version 8 · updated 2026-11-20 · https://livoenterprises.com/guide/bringing-in-your-photos.html*
+*Guide topic 3 · version 9 · updated 2026-11-17 · https://livoenterprises.com/guide/bringing-in-your-photos.html*
 
-Livo reads your Camera Roll and keeps a small copy of each photo. Your photos stay where they are, and Livo never deletes or changes them.
+Livo reads your Camera Roll and keeps a small copy of each photo. Your photos stay where they are. Livo changes, moves or deletes nothing unless you approve it.
 
 ## Add from Camera Roll
 
@@ -12,7 +12,7 @@ If you allowed Livo only some of your photos, it works with those and says so. B
 
 ## What Livo keeps
 
-For every photo: its date, place, size and a small copy (800 × 800) that Livo uses when Photos is slow, when a photo is only in iCloud, or when it is gone from this phone. Your photos themselves stay in your Camera Roll. Deleting a photo in Livo never deletes it in Photos.
+For every photo: its date, place, size and a small copy (800 × 800) that Livo uses when Photos is slow, when a photo is only in iCloud, or when it is gone from this phone. Your photos themselves stay in your Camera Roll. Deleting a photo in Livo does not delete it in Photos; only you can do that, in Photos.
 
 ## The badge on the ≡ menu
 

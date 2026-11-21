@@ -1,6 +1,6 @@
 # Keeping capsules safe
 
-*Guide topic 16 · version 4 · updated 2026-11-20 · https://livoenterprises.com/guide/keeping-capsules-safe.html*
+*Guide topic 16 · version 5 · updated 2026-11-17 · https://livoenterprises.com/guide/keeping-capsules-safe.html*
 
 Two places at least, checked on a schedule, and you are told while it can still be fixed. That is the promise behind Capsules.
 
@@ -8,7 +8,7 @@ Two places at least, checked on a schedule, and you are told while it can still 
 
 [Open Capsules › Keep a copy](https://livoenterprises.com/go/vault/places). **This phone** is always one place. Add up to five **folders of your own** from the Files app: iCloud Drive, Dropbox, Google Drive, a drive plugged into the phone. Every capsule you seal is copied to each of them. A place that is not reachable right now (a drive unplugged, no network) is simply "pending"; the copy is written the next time Livo sees it. Removing a place deletes nothing. With Livo Plus, your OneDrive's **Livo Vault** folder is a place as well, on by default when you are signed in.
 
-Livo writes only its own capsule files into a place and never deletes anything there.
+Livo writes only its own capsule files into a place you chose, and deletes nothing there unless you approve it.
 
 ## Checking
 

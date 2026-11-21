@@ -1,6 +1,6 @@
 # Getting started
 
-*Guide topic 1 · version 5 · updated 2026-11-09 · https://livoenterprises.com/guide/getting-started.html*
+*Guide topic 1 · version 6 · updated 2026-11-17 · https://livoenterprises.com/guide/getting-started.html*
 
 Livo asks for nothing at first launch. Getting Started is six optional steps, in the order that gets your first capsule onto a computer.
 
@@ -8,7 +8,7 @@ Open it from the line under the Gallery's header, from [Organize › Getting Sta
 
 ## 1. Bring in your photos
 
-Point Livo at your Camera Roll. Livo makes small copies and leaves your photos where they are; it never deletes or changes them. Livo asks for permission to your photos when the import starts. See [Bringing in your photos](https://livoenterprises.com/guide/bringing-in-your-photos.html).
+Point Livo at your Camera Roll. Livo makes small copies and leaves your photos where they are. It changes, moves or deletes nothing unless you approve it. Livo asks for permission to your photos when the import starts. See [Bringing in your photos](https://livoenterprises.com/guide/bringing-in-your-photos.html).
 
 ## 2. Name the people
 

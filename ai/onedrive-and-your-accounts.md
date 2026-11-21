@@ -1,6 +1,6 @@
 # OneDrive and your accounts
 
-*Guide topic 22 · version 6 · updated 2026-11-20 · https://livoenterprises.com/guide/onedrive-and-your-accounts.html*
+*Guide topic 22 · version 7 · updated 2026-11-17 · https://livoenterprises.com/guide/onedrive-and-your-accounts.html*
 
 With Livo Plus and a Microsoft account, you get photos from OneDrive, backups off the phone, a second copy of every capsule, and Family Share.
 
@@ -16,7 +16,7 @@ Microsoft asks for a new sign-in after a password change, after 90 days without 
 
 ## Livo's folders in your OneDrive
 
-Livo makes these at the top of your OneDrive, only when you use the feature, and writes only inside them:
+Livo makes these at the top of your OneDrive, only when you use the feature. By default it writes only inside them:
 
 - **Livo Backup** — your backups; private.
 - **Livo Vault** — a copy of every Time Capsule you seal.
@@ -24,4 +24,4 @@ Livo makes these at the top of your OneDrive, only when you use the feature, and
 - **Livo Family Share** — what you share with the family; shared with them as view-only.
 - **Livo Sent** — capsules you sent as a link.
 
-None of them is ever imported as photos. Livo deletes inside them only what you ask it to (a backup, your Family Share files, a deleted capsule's copy), and never in anyone else's OneDrive.
+None of them is ever imported as photos. Livo deletes only what you approve (a backup, your Family Share files, a deleted capsule's copy), and never in anyone else's OneDrive.

@@ -22,7 +22,7 @@ Read https://livoenterprises.com/ai/00-instructions.md first (the rules and a ma
 - [Order prints](https://livoenterprises.com/ai/order-prints.md): Print-size photos, the gift book, a poster, and a book made from any Memories and pages in your order, ready for a print service or your own printer.
 - [Keeping capsules safe](https://livoenterprises.com/ai/keeping-capsules-safe.md): How Livo keeps at least two copies of every Time Capsule, checks them, and tells you while a problem can still be fixed.
 - [Backup & Restore](https://livoenterprises.com/ai/backup-and-restore.md): What a backup holds, where it goes, and how to restore onto this phone or a new one.
-- [Trash, and what Livo never deletes](https://livoenterprises.com/ai/trash.md): The two steps of deleting, what Empty Trash really removes, and the things Livo will never touch.
+- [Trash, and deleting only with your approval](https://livoenterprises.com/ai/trash.md): The two steps of deleting, what Empty Trash really removes, and what Livo does only with your approval.
 - [Free, and Livo Plus](https://livoenterprises.com/ai/livo-and-livo-plus.md): Exactly what is free forever in Livo, what the one purchase (Livo Plus) adds and why each piece is useful, and the rules that hold either way.
 - [Curator Tools](https://livoenterprises.com/ai/curator.md): What Curator Tools is, who it is for, the tools it adds, and how it fits in Livo Plus.
 - [Scan Prints](https://livoenterprises.com/ai/scan-prints.md): Bringing printed photos into Livo with the camera, a box at a time, with the words on them read for search.

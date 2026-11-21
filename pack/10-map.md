@@ -19,4 +19,4 @@
 
 **Settings (inside Organize).** Your Name, Appearance (five palettes), Story Display (Show Names Instead of "I"), OneDrive Accounts, Livo Search (Saved searches, What Livo has learned), and About (About Livo, Privacy Policy, Support, Send Feedback, the version and the build).
 
-**Photos stay where they are.** Livo keeps a small copy of each photo and its names, places and stories. It never deletes or changes the originals in Photos.
+**Photos stay where they are.** Livo keeps a small copy of each photo and its names, places and stories. It never changes, moves or deletes the originals in Photos unless you approve it.

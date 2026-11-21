@@ -1,8 +1,8 @@
 ---
 title: Support
 description: Help with Livo (LivoCapsule) - how to reach us, and answers to common questions.
-version: 9
-updated: 2026-11-20
+version: 10
+updated: 2026-11-17
 web: support.html
 nav: Support
 app: support
@@ -31,7 +31,7 @@ Microsoft's rules, not Livo's: the account drops to the free 5 GB, an over-limit
 
 ### Does Livo upload my photos anywhere?
 
-No. Livo Enterprises has no servers. Livo reads your Camera Roll and iCloud Photos through Apple's own Photos library, and writes capsules and backups only where you choose in Files. The only other network use is optional and part of Livo Plus: if you sign in to a Microsoft OneDrive account, Livo reads photos from it, keeps copies of your backups and capsules in your own OneDrive, and shares with your family through a folder there. Everything goes from your phone to Apple or Microsoft and nowhere else.
+No. Livo Enterprises has no servers. Livo reads your Camera Roll and iCloud Photos through Apple's own Photos library, and writes capsules and backups only where you choose in Files. The only other network use is optional and part of Livo Plus: if you sign in to a Microsoft OneDrive account, Livo reads photos from it, keeps copies of your backups and capsules in OneDrive accounts you control, only when you turn that on, and shares with your family through a folder there. Everything goes from your phone to Apple or Microsoft and nowhere else.
 
 ### Is Livo free?
 

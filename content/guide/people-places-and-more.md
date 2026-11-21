@@ -1,8 +1,8 @@
 ---
 title: People, Places, Life Events, Tags and Buckets
 description: The lists behind your photos - People, Places, Events, Life Events and Tags in Livo; Buckets, part of Livo Plus.
-version: 6
-updated: 2026-11-20
+version: 7
+updated: 2026-11-17
 order: 24
 app: guide
 screen: organize
@@ -37,4 +37,4 @@ Two entries for one event? Swipe an event and tap **Merge into…**, then pick t
 
 ## Trash
 
-Deleted photos, Memories, capsules, people and places wait in the Trash ([Organize › Trash](livo://organize/trash)) until you restore them or empty it. See [Trash, and what Livo never deletes](/guide/trash.html).
+Deleted photos, Memories, capsules, people and places wait in the Trash ([Organize › Trash](livo://organize/trash)) until you restore them or empty it. See [Trash, and deleting only with your approval](/guide/trash.html).

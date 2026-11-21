@@ -1,6 +1,6 @@
-# Trash, and what Livo never deletes
+# Trash, and deleting only with your approval
 
-*Guide topic 18 · version 5 · updated 2026-11-20 · https://livoenterprises.com/guide/trash.html*
+*Guide topic 18 · version 6 · updated 2026-11-17 · https://livoenterprises.com/guide/trash.html*
 
 Deleting in Livo is two steps, and the second always says exactly what it does.
 
@@ -18,6 +18,6 @@ Deleting a photo, Memory, capsule, person or place moves it to the Trash ([Organ
 
 The confirmation names the consequence for that kind of thing.
 
-## What Livo never deletes
+## What Livo deletes only with your approval
 
-Your photos and videos in Photos. Anything in iCloud Drive or OneDrive outside Livo's own folders, or in another person's account. Anything in a Keep-a-copy folder you chose, other than the capsule copies Livo itself wrote there. A Keepsake file. A capsule file you opened from the Files app. Nothing is ever deleted on its own, on a schedule, or because space is low.
+Nothing is ever deleted on its own, on a schedule, or because space is low. Livo removes only what you selected and confirmed. Your photos and videos in Photos, anything in iCloud Drive or OneDrive outside Livo's own folders, and anything in a Keep-a-copy folder you chose (other than the capsule copies Livo itself wrote there) are left alone unless you approve a change to them. Whatever you choose, Livo never touches another person's account, a Keepsake file, or a capsule file you opened from the Files app.

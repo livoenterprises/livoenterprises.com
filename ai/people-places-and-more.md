@@ -1,6 +1,6 @@
 # People, Places, Life Events, Tags and Buckets
 
-*Guide topic 24 · version 6 · updated 2026-11-20 · https://livoenterprises.com/guide/people-places-and-more.html*
+*Guide topic 24 · version 7 · updated 2026-11-17 · https://livoenterprises.com/guide/people-places-and-more.html*
 
 Everything you name lives in Organize, the book icon, and nothing is named without your tap.
 
@@ -32,4 +32,4 @@ Two entries for one event? Swipe an event and tap **Merge into…**, then pick t
 
 ## Trash
 
-Deleted photos, Memories, capsules, people and places wait in the Trash ([Organize › Trash](https://livoenterprises.com/go/organize/trash)) until you restore them or empty it. See [Trash, and what Livo never deletes](https://livoenterprises.com/guide/trash.html).
+Deleted photos, Memories, capsules, people and places wait in the Trash ([Organize › Trash](https://livoenterprises.com/go/organize/trash)) until you restore them or empty it. See [Trash, and deleting only with your approval](https://livoenterprises.com/guide/trash.html).

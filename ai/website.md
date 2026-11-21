@@ -193,7 +193,7 @@ A capsule never needs LivoCapsule. A browser will always do. But if the iPhone a
 
 Keeps the originals original
 
-Your photos stay in your photo library. LivoCapsule never deletes or alters them, and it works without the internet. A capsule holds copies; the library stays yours.
+Your photos stay in your photo library. LivoCapsule changes nothing in it without your approval, and it works without the internet. A capsule holds copies; the library stays yours.
 
 Finds what you mean
 

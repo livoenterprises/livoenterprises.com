@@ -1,6 +1,6 @@
 # Privacy Policy
 
-*Version 5 · updated 2026-11-10*
+*Version 6 · updated 2026-11-17*
 
 Livo keeps your photos, stories and recordings on your phone and in storage you choose. Livo Enterprises does not collect them, does not see them, and has no servers that could.
 
@@ -16,7 +16,7 @@ Time Capsules and backups are ordinary files. Capsules are kept in the Files app
 
 Each permission is asked for the first time a feature needs it, and each can be withdrawn at any time in iOS Settings. Livo keeps working without it, minus that feature.
 
-- **Photos.** To show your photo library, bring photos into Livo, and save new photos (edited copies, Memory videos, scanned prints, photos received from family) to it. If you allow only some photos, Livo works with those. Livo never deletes or changes an original.
+- **Photos.** To show your photo library, bring photos into Livo, and save new photos (edited copies, Memory videos, scanned prints, photos received from family) to it. If you allow only some photos, Livo works with those. Livo never deletes or changes an original unless you approve it.
 - **Camera.** Only for Scan Prints, which photographs printed pictures one at a time with Apple's document scanner. The scans are saved to your Camera Roll.
 - **Microphone.** Only when you tap record, to capture a narration. The recording is saved on your device with the Memory it belongs to.
 - **Location.** Livo reads the location already inside your photos to suggest place names. It never tracks where your device is.
@@ -41,7 +41,7 @@ Livo writes only inside those folders in your own OneDrive, deletes there only w
 
 ## Other places you choose
 
-You can ask Livo to keep copies of your Time Capsules in other folders you pick in the Files app, such as iCloud Drive or another cloud service. Livo writes only its own capsule files there and never deletes anything in those folders.
+You can ask Livo to keep copies of your Time Capsules in other folders you pick in the Files app, such as iCloud Drive or another cloud service. Livo writes only its own capsule files there and deletes nothing in those folders unless you approve it.
 
 ## What we don't do
 

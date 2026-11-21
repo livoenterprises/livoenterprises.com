@@ -1,8 +1,8 @@
 ---
 title: Getting started
 description: The six steps on Livo's Getting Started list, in the order a first capsule gets made.
-version: 5
-updated: 2026-11-09
+version: 6
+updated: 2026-11-17
 order: 1
 app: guide
 screen: getting-started
@@ -13,7 +13,7 @@ Open it from the line under the Gallery's header, from [Organize › Getting Sta
 
 ## 1. Bring in your photos
 
-Point Livo at your Camera Roll. Livo makes small copies and leaves your photos where they are; it never deletes or changes them. Livo asks for permission to your photos when the import starts. See [Bringing in your photos](/guide/bringing-in-your-photos.html).
+Point Livo at your Camera Roll. Livo makes small copies and leaves your photos where they are. It changes, moves or deletes nothing unless you approve it. Livo asks for permission to your photos when the import starts. See [Bringing in your photos](/guide/bringing-in-your-photos.html).
 
 ## 2. Name the people
 

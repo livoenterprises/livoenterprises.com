@@ -1,12 +1,12 @@
 ---
 title: Backup & Restore
 description: What a backup holds, where it goes, and how to restore onto this phone or a new one.
-version: 6
-updated: 2026-11-20
+version: 7
+updated: 2026-11-17
 order: 17
 app: guide
 screen: backup
-lede: A backup holds everything Livo knows about your photos. Your photos themselves stay where they are.
+lede: A backup holds everything Livo knows about your photos. Your photos stay in storage you control. A backup copies what Livo knows about them.
 ---
 
 ## What is in a backup

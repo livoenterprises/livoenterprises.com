@@ -1,8 +1,8 @@
 # Backup & Restore
 
-*Guide topic 17 · version 6 · updated 2026-11-20 · https://livoenterprises.com/guide/backup-and-restore.html*
+*Guide topic 17 · version 7 · updated 2026-11-17 · https://livoenterprises.com/guide/backup-and-restore.html*
 
-A backup holds everything Livo knows about your photos. Your photos themselves stay where they are.
+A backup holds everything Livo knows about your photos. Your photos stay in storage you control. A backup copies what Livo knows about them.
 
 ## What is in a backup
 

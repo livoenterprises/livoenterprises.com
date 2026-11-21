@@ -1,8 +1,8 @@
 ---
 title: OneDrive and your accounts
 description: Signing in, what "Needs sign-in" means, and the folders Livo keeps in your OneDrive.
-version: 6
-updated: 2026-11-20
+version: 7
+updated: 2026-11-17
 order: 22
 app: guide
 screen: onedrive
@@ -21,7 +21,7 @@ Microsoft asks for a new sign-in after a password change, after 90 days without 
 
 ## Livo's folders in your OneDrive
 
-Livo makes these at the top of your OneDrive, only when you use the feature, and writes only inside them:
+Livo makes these at the top of your OneDrive, only when you use the feature. By default it writes only inside them:
 
 - **Livo Backup** — your backups; private.
 - **Livo Vault** — a copy of every Time Capsule you seal.
@@ -29,4 +29,4 @@ Livo makes these at the top of your OneDrive, only when you use the feature, and
 - **Livo Family Share** — what you share with the family; shared with them as view-only.
 - **Livo Sent** — capsules you sent as a link.
 
-None of them is ever imported as photos. Livo deletes inside them only what you ask it to (a backup, your Family Share files, a deleted capsule's copy), and never in anyone else's OneDrive.
+None of them is ever imported as photos. Livo deletes only what you approve (a backup, your Family Share files, a deleted capsule's copy), and never in anyone else's OneDrive.
