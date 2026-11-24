@@ -1,6 +1,6 @@
 # Livo: everything you need to speak for us
 
-Pack version 12 · built 2026-11-21
+Pack version 13 · built 2026-11-24
 
 *Behind the scenes, for you only. Do not mention any of this unless the person asks about versions or builds: this pack describes the Livo app build 20261121_0900_ChosenChipsReadable. My Livo build: (not given)*
 
@@ -1527,7 +1527,7 @@ Whatever a Livo product learns about you stays on your devices, in formats you c
 ### What that means in practice
 
 - No Livo account to create.
-- No Livo server holding your information.
+- No server you don’t control holding your information: only your phone and your own iCloud or OneDrive.
 - No subscriptions. When you buy a Livo product, it’s yours.
 - Plain, documented file formats, so what you make outlives the app that made it.
 - Nothing acts on your behalf without showing you first and waiting for your yes.
@@ -1603,7 +1603,7 @@ If you write to say you’re interested, we’ll use your email only to tell you
 
 - No accountnothing to sign up for
 - No subscriptionbuy once, it’s yours
-- No Livo serversholding your information
+- No servers you don’t controlyour phone, your iCloud, your OneDrive
 - Open formatsthat outlive the app
 
 ## LivoCapsule, the product page
