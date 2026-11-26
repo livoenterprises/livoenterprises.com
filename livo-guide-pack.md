@@ -1,6 +1,6 @@
 # Livo: everything you need to speak for us
 
-Pack version 13 · built 2026-11-24
+Pack version 14 · built 2026-11-25
 
 *Behind the scenes, for you only. Do not mention any of this unless the person asks about versions or builds: this pack describes the Livo app build 20261121_0900_ChosenChipsReadable. My Livo build: (not given)*
 
@@ -180,7 +180,7 @@ The topics, in order. Each is also at https://livoenterprises.com/guide/<name>.h
 24. **People, Places, Life Events, Tags and Buckets** — The lists behind your photos - People, Places, Events, Life Events and Tags in Livo; Buckets, part of Livo Plus.
 25. **Settings and Livo Plus** — Your name, the five palettes, how stories are shown, Livo Plus, what Livo Search has learned, and About.
 26. **When something looks wrong** — What the captions mean, finding a photo that is not on this phone, Activity, and how to reach us.
-27. **Ask an AI, try the demo, find missing photos, keep a second backup** — Four things that are easy to miss: asking an AI assistant about Livo, trying Livo with demo photos, finding photos Livo lost track of, and keeping a copy of your backups outside the app.
+27. **Ask an AI, try the demo, find missing photos, keep a second backup** — Five things that are easy to miss: asking an AI assistant about Livo, trying Livo with demo photos (who and what is in the demo, and what to search for), finding photos Livo lost track of, and keeping a copy of your backups outside the app.
 28. **Let an AI assistant write your search** — Describe the photos you want to an AI assistant in your own words; it asks what it needs, writes the search the way Livo reads it, and gives you a link that puts it in Livo's search box.
 29. **Privacy Policy** — what Livo keeps and where.
 30. **Support** — questions and how to reach us.
@@ -1134,7 +1134,7 @@ In Organize › Settings, scroll to the About section at the bottom and tap **Se
 
 # Topic: Ask an AI, try the demo, find missing photos, keep a second backup
 
-*Guide topic 27 · version 2 · updated 2026-11-20 · https://livoenterprises.com/guide/help-demo-and-keeping-safe.html*
+*Guide topic 27 · version 3 · updated 2026-11-25 · https://livoenterprises.com/guide/help-demo-and-keeping-safe.html*
 
 Four helpers, each a few taps from Getting Started or Organize.
 
@@ -1157,6 +1157,38 @@ New to Livo and not ready to bring in your own photos? Open [Getting Started](ht
 - While the demo runs, the doors that bring photos in are closed (Add from Camera Roll, Add from OneDrive, Receive from Family, Scan Prints and capsule import), and each one tells you why. That way nothing of yours can get mixed in.
 - A line under the Gallery header says this is the demo library. Tap it to open the demo screen.
 - When you are done, tap **Clear the demo and start fresh**. Livo removes the demo photos, Memories and capsules, and keeps your name, your look and your settings. Nothing on your phone is touched.
+
+### Who and what is in the demo
+
+The demo is an invented family. Nobody in it is a real person, and every name below is there so you can search for it.
+
+- **People** (Organize › People): Emma (daughter), Noah (son), Olivia (spouse), Grace (mother), Robert (father), Tom (brother) and Maya (friend).
+- **Places** (Organize › Places): Our House (Charlotte, North Carolina), Freedom Park (Charlotte), Grandma and Grandpa's House (Asheville, North Carolina, also called "Grandma's house"), Lake House (Mooresville, North Carolina, also called "the lake house"), Folly Beach (South Carolina) and Beaufort Waterfront (Beaufort, South Carolina).
+- **Events** (Organize › Events): Emma's First Summer (June to August 2016), Summer at the Lake (July 8 to 15, 2023), Beach Week (June 15 to 22, 2024), Thanksgiving 2024 (November 28, 2024), Christmas 2025 (December 24 and 25, 2025) and Snow Day (January 18, 2026).
+- **Life Events** (Organize › Life Events): Our Wedding (June 18, 2011), Noah's Birthday (September 2, 2013) and Emma's Birthday (March 14, 2016).
+- **Memories** (Memory Lane): Summer at the Lake, Thanksgiving 2024 and Christmas 2025. Each has its own music, and each opens with a few lines of story.
+- **Photos and clips:** 34 photos and 4 short clips, all of the invented family.
+
+### What to try in the demo
+
+1. **Look around the Gallery.** Photos are grouped by Moment, one day at a time, newest first. Tap the calendar to pick a Moment. Double-tap a photo to open it full screen. Swipe a photo up to mark it with a thumbs up.
+2. **Open a Memory.** Go to Memory Lane and double-tap Summer at the Lake. Play it, change its music, or open the Share menu and choose Share as Video.
+3. **See who is where.** Open Organize › People, choose Emma, and see every photo she is in. Do the same for a place or an event.
+4. **Tag something.** Select a photo and tap Tag, or use Name the Faces on a Moment, to see how names and places get added. Nothing you do here touches your own photos.
+5. **Search.** Tap Search and type any of the lines below. Under the search box Livo shows chips for how it read each part. Tap a chip to change it, or its × to drop it.
+6. **Make something.** Make a Gift or a Scrapbook from a Memory, or seal a capsule. The demo runs the whole app, with Livo Plus tools turned on while it runs.
+
+### Searches to try in the demo
+
+- **People:** *Emma*, *Emma and Noah*, *Emma or Tom*, *only Emma*, *Emma and Noah without Olivia*.
+- **Relationships:** *my mom*, *the kids*, *my parents*.
+- **Places:** *Grandma's house*, *the lake house*, *Folly Beach*, *Asheville*, *Charlotte*, *South Carolina*, *Emma not at the lake*.
+- **Events and Memories:** *Beach Week*, *Snow Day*, *Thanksgiving 2024*, *Christmas 2025*, *Summer at the Lake*.
+- **Dates:** *2024*, *summer 2023*, *June 2024*, *Christmas 2025*, *Thanksgiving*.
+- **Life Events and ages:** *our wedding*, *Noah's birthday*, *Emma's birthday*, *when Emma was a baby*.
+- **Kinds:** *videos*, *has a story*, *untagged*.
+
+Search reads plain words, so there is more than one way to say each of these. If a line finds nothing, look at the chips under the box to see how Livo read it. For what else Search understands, see the topic [Let an AI assistant write your search](https://livoenterprises.com/guide/search-with-an-assistant.html) or ask an assistant, as described at the top of this page.
 
 ### Find missing photos
 
