@@ -1,8 +1,8 @@
 ---
 title: Ask an AI, try the demo, find missing photos, keep a second backup
 description: Five things that are easy to miss: asking an AI assistant about Livo, trying Livo with demo photos (who and what is in the demo, and what to search for), finding photos Livo lost track of, and keeping a copy of your backups outside the app.
-version: 3
-updated: 2026-11-25
+version: 4
+updated: 2026-11-26
 order: 27
 app: guide
 lede: Four helpers, each a few taps from Getting Started or Organize.
@@ -59,6 +59,12 @@ The demo is an invented family. Nobody in it is a real person, and every name be
 - **Kinds:** *videos*, *has a story*, *untagged*.
 
 Search reads plain words, so there is more than one way to say each of these. If a line finds nothing, look at the chips under the box to see how Livo read it. For what else Search understands, see the topic [Let an AI assistant write your search](/guide/search-with-an-assistant.html) or ask an assistant, as described at the top of this page.
+
+## Ask an AI about the demo
+
+An AI assistant that has Livo's prompt knows the demo family, so you can ask it things like **"Who is in the demo?"**, **"What places and events are in it?"** or **"Write me a search for Emma and Noah at the lake house."** It gives you the search as a line to copy and as a link that opens it in Livo. To set it up, open [Getting Started](livo://getting-started), tap **Ask an AI about Livo**, tap **Copy the prompt** and paste it into your assistant.
+
+The assistant knows the demo family only. It cannot see your own photos, names or places. For those, open Organize › People, Places, Events or Life Events to see the exact names, then use them in your search.
 
 ## Find missing photos
 
