@@ -1,12 +1,12 @@
 ---
 title: Family Share
 description: Sharing Memories, photos and capsules with your whole family through your own OneDrive, and seeing what they share with you.
-version: 7
-updated: 2026-11-20
+version: 8
+updated: 2026-11-27
 order: 23
 app: guide
 screen: family
-lede: Each family member has a Livo Family Share folder in their own OneDrive. You write in yours; the family reads it. Nothing goes through a server.
+lede: Each family member has a Livo Family Share folder in their own OneDrive. You write in yours; the family reads it. Nothing goes through a Livo server.
 ---
 
 Setting up your own sharing is part of [Curator Tools](/guide/curator.html), in Livo Plus. Receiving what the family shares with you is free, and so is Organize › Family. Without Plus, a capsule or a gift still reaches anyone by AirDrop, Messages, Mail or an iCloud Drive link; see [Sending to someone](/guide/sending-to-someone.html).

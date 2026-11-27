@@ -1,5 +1,5 @@
-version: 15
-built: 2026-11-26
+version: 16
+built: 2026-11-27
 livo_build: 20261121_0900_ChosenChipsReadable
 guide_url: https://livoenterprises.com/guide/
 pack_url: https://livoenterprises.com/livo-guide-pack.md

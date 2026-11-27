@@ -61,10 +61,16 @@ Your data is yours
 
 Whatever a Livo product learns about you stays on your devices, in formats you can open without us. It goes to other people only when you decide, and only to the people you choose.
 
+### Not posted to a platform
+
+Your family’s memories shouldn’t be posted to a platform. They should stay on your own devices first, and in storage you pay for when you want to share them, by invitation.
+
+On a social network you post into the company’s space. Its network and rules decide who sees what you shared, and you can’t really tell who has. With OneDrive, iCloud or Dropbox you are the customer, paying for a place to keep your things. You choose the people, you can see who they are, and you can take your files and leave. Livo works only the second way. We run no server between you and your family, and a Livo product never posts anything for you.
+
 ### What that means in practice
 
 - No Livo account to create.
-- No server you don’t control holding your information: only your phone and your own iCloud or OneDrive.
+- Nothing posted to a platform: your memories stay on your own devices and in storage you pay for, shared only with people you invite.
 - No subscriptions. When you buy a Livo product, it’s yours.
 - Plain, documented file formats, so what you make outlives the app that made it.
 - Nothing acts on your behalf without showing you first and waiting for your yes.
@@ -140,7 +146,7 @@ If you write to say you’re interested, we’ll use your email only to tell you
 
 - No accountnothing to sign up for
 - No subscriptionbuy once, it’s yours
-- No servers you don’t controlyour phone, your iCloud, your OneDrive
+- Nothing postedyour own storage, shared by invitation
 - Open formatsthat outlive the app
 
 ## LivoCapsule, the product page

@@ -1,8 +1,8 @@
 # Family Share
 
-*Guide topic 23 · version 7 · updated 2026-11-20 · https://livoenterprises.com/guide/family-share.html*
+*Guide topic 23 · version 8 · updated 2026-11-27 · https://livoenterprises.com/guide/family-share.html*
 
-Each family member has a Livo Family Share folder in their own OneDrive. You write in yours; the family reads it. Nothing goes through a server.
+Each family member has a Livo Family Share folder in their own OneDrive. You write in yours; the family reads it. Nothing goes through a Livo server.
 
 Setting up your own sharing is part of [Curator Tools](https://livoenterprises.com/guide/curator.html), in Livo Plus. Receiving what the family shares with you is free, and so is Organize › Family. Without Plus, a capsule or a gift still reaches anyone by AirDrop, Messages, Mail or an iCloud Drive link; see [Sending to someone](https://livoenterprises.com/guide/sending-to-someone.html).
 
