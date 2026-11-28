@@ -1,12 +1,12 @@
 # Making a Memory
 
-*Guide topic 10 · version 4 · updated 2026-11-09 · https://livoenterprises.com/guide/making-a-memory.html*
+*Guide topic 10 · version 5 · updated 2026-11-27 · https://livoenterprises.com/guide/making-a-memory.html*
 
 A Memory is a set of photos in order, a story, and your voice if you want it. It is what gets sealed, shared and given.
 
 ## Starting one
 
-Three ways. Mark the photos you want (swipe up in the Gallery) and tap **New Memory** on the marked row. Or select photos and tap **Make a Memory** on the selection row. Or open a Moment's menu and tap **Make a Memory of these**. The canvas opens with the photos in the order they were taken; the first is the hero.
+Three ways. Mark the photos you want (swipe a photo to the right in the Gallery) and tap **New Memory** on the marked row. Or select photos and tap **Make a Memory** on the selection row. Or open a Moment's menu and tap **Make a Memory of these**. The canvas opens with the photos in the order they were taken; the first is the hero.
 
 ## The canvas
 

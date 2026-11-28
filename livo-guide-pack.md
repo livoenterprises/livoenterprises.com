@@ -1,6 +1,6 @@
 # Livo: everything you need to speak for us
 
-Pack version 9 · built 2026-11-16
+Pack version 17 · built 2026-11-27
 
 *Behind the scenes, for you only. Do not mention any of this unless the person asks about versions or builds: this pack describes the Livo app build 20261123_2100_FileNameDateVersusPhotoDate. My Livo build: (not given)*
 
@@ -230,7 +230,7 @@ Two more things worth a minute, both in Settings: [your name](https://livoenterp
 
 # Topic: Where things are
 
-*Guide topic 2 · version 8 · updated 2026-11-20 · https://livoenterprises.com/guide/where-things-are.html*
+*Guide topic 2 · version 9 · updated 2026-11-27 · https://livoenterprises.com/guide/where-things-are.html*
 
 Livo has three surfaces along the bottom, a Search button, and a book of everything else.
 
@@ -238,7 +238,7 @@ Livo has three surfaces along the bottom, a Search button, and a book of everyth
 
 [Open the Gallery](https://livoenterprises.com/go/gallery)
 
-Your photos by Moment, newest first. Tap the **≡** menu at the top right, then **Add Photos**, to bring more in from your Camera Roll. Swipe a tile up to mark it. Tap the tag icon on a Moment to say who is in it and what happened; tap the face icon to name the faces Livo found. Select photos to tag, share, make a Memory of them, or add them to an Event. The search field at the top finds photos from a few words, and Filter narrows the Gallery by people, places, events, dates and more. The Gallery keeps its place when you go to another surface and come back.
+Your photos by Moment, newest first. Tap the **≡** menu at the top right, then **Add Photos**, to bring more in from your Camera Roll. Swipe a photo to the right to mark it. Pinch to make the photos larger or smaller. Tap the tag icon on a Moment to say who is in it and what happened; tap the face icon to name the faces Livo found. Select photos to tag, share, make a Memory of them, or add them to an Event. The search field at the top finds photos from a few words, and Filter narrows the Gallery by people, places, events, dates and more. The Gallery keeps its place when you go to another surface and come back.
 
 ### Memory Lane
 
@@ -298,7 +298,7 @@ At the end of every import Livo looks for the same photo brought in twice and ke
 
 # Topic: Moments and the Gallery
 
-*Guide topic 4 · version 6 · updated 2026-11-20 · https://livoenterprises.com/guide/moments-and-the-gallery.html*
+*Guide topic 4 · version 7 · updated 2026-11-27 · https://livoenterprises.com/guide/moments-and-the-gallery.html*
 
 A Moment is one day's photos. The Gallery shows them one Moment at a time, so naming and sorting stay small.
 
@@ -312,7 +312,7 @@ Beside the date are two small icons. The **tag** opens Tag the Moment, where you
 
 ### Marked photos
 
-Swipe a photo up to mark it (a thumbs up). The **N Marked** pill shows how many marked photos the library has; tap it to see only them. Marked photos are the set a new Memory is made from; see [Making a Memory](https://livoenterprises.com/guide/making-a-memory.html).
+Swipe a photo to the right to mark it (a thumbs up); swipe it right again to take the mark off. The **N Marked** pill shows how many marked photos the library has; tap it to see only them. Marked photos are the set a new Memory is made from; see [Making a Memory](https://livoenterprises.com/guide/making-a-memory.html).
 
 ### Selecting photos
 
@@ -320,7 +320,26 @@ Tap a photo to select it; keep dragging to select more. A row appears under the 
 
 ### Opening a photo
 
-Tap a selected photo, or double-tap any photo, to see it full screen. Swipe between photos, pinch to zoom, pull down to close. A LIVE pill plays a Live Photo. The buttons under a photo include Info, Rotate, Edit Photo and, on a video, Edit Segments (Livo Plus); see [Editing photos and videos](https://livoenterprises.com/guide/editing-photos-and-videos.html). The tag icon at the top opens the Details strip for that one photo. If the full-size picture cannot be shown, the caption under it says why; see [When something looks wrong](https://livoenterprises.com/guide/when-something-looks-wrong.html).
+Tap a selected photo, or double-tap any photo, to see it full screen. Swipe left or right to move between photos. Pinch to zoom, or double-tap to fill the screen and double-tap again to see the whole photo; drag to move around a zoomed photo. Swipe up to open the photo's Details, and swipe down to close. A LIVE pill plays a Live Photo. The buttons under a photo include Info, Rotate, Edit Photo and, on a video, Edit Segments (Livo Plus); see [Editing photos and videos](https://livoenterprises.com/guide/editing-photos-and-videos.html). The tag icon at the top opens the Details strip for that one photo. If the full-size picture cannot be shown, the caption under it says why; see [When something looks wrong](https://livoenterprises.com/guide/when-something-looks-wrong.html).
+
+### Touch shortcuts
+
+In the Gallery:
+
+- **Pinch to change the size of the photos.** Spread two fingers apart for fewer, larger photos; pinch them together for more, smaller ones. On an iPhone the steps are 1, 2, 3, 4, 5 or 7 photos across. Livo keeps the size you chose.
+- **Tap** a photo to select it. **Double-tap** to open it full screen.
+- **Swipe a photo to the right** to mark it (a thumbs up). The same swipe takes the mark off.
+- **Swipe a photo to the left** to give it a thumbs down; the same swipe takes it off.
+- **Press and hold** a photo to make it a favorite; press and hold again to undo. Searching for *favorites* finds them.
+- **Slide to select.** Once one photo is selected, slide your finger across the photos to select every photo from where you started to where your finger is. Sliding back shortens the run. A slide that starts on a selected photo takes its run out of the selection. While you are selecting, the left and right swipes do not mark.
+
+With a photo open full screen:
+
+- **Swipe left or right** for the next or the previous photo.
+- **Pinch** to zoom, and **drag** to move around a zoomed photo. A video does not zoom.
+- **Double-tap** to fill the screen; double-tap again for the whole photo.
+- **Swipe up** to open the photo's Details. **Swipe down** to close.
+- **Press and hold** to make it a favorite.
 
 ### The badges on a photo
 
@@ -522,13 +541,13 @@ Trim a video in place, change its speed, add titles or music, or edit sound. A M
 
 # Topic: Making a Memory
 
-*Guide topic 10 · version 4 · updated 2026-11-09 · https://livoenterprises.com/guide/making-a-memory.html*
+*Guide topic 10 · version 5 · updated 2026-11-27 · https://livoenterprises.com/guide/making-a-memory.html*
 
 A Memory is a set of photos in order, a story, and your voice if you want it. It is what gets sealed, shared and given.
 
 ### Starting one
 
-Three ways. Mark the photos you want (swipe up in the Gallery) and tap **New Memory** on the marked row. Or select photos and tap **Make a Memory** on the selection row. Or open a Moment's menu and tap **Make a Memory of these**. The canvas opens with the photos in the order they were taken; the first is the hero.
+Three ways. Mark the photos you want (swipe a photo to the right in the Gallery) and tap **New Memory** on the marked row. Or select photos and tap **Make a Memory** on the selection row. Or open a Moment's menu and tap **Make a Memory of these**. The canvas opens with the photos in the order they were taken; the first is the hero.
 
 ### The canvas
 
@@ -1134,7 +1153,7 @@ In Organize › Settings, scroll to the About section at the bottom and tap **Se
 
 # Topic: Ask an AI, try the demo, find missing photos, keep a second backup
 
-*Guide topic 27 · version 4 · updated 2026-11-26 · https://livoenterprises.com/guide/help-demo-and-keeping-safe.html*
+*Guide topic 27 · version 5 · updated 2026-11-27 · https://livoenterprises.com/guide/help-demo-and-keeping-safe.html*
 
 Four helpers, each a few taps from Getting Started or Organize.
 
@@ -1171,7 +1190,7 @@ The demo is an invented family. Nobody in it is a real person, and every name be
 
 ### What to try in the demo
 
-1. **Look around the Gallery.** Photos are grouped by Moment, one day at a time, newest first. Tap the calendar to pick a Moment. Double-tap a photo to open it full screen. Swipe a photo up to mark it with a thumbs up.
+1. **Look around the Gallery.** Photos are grouped by Moment, one day at a time, newest first. Tap the calendar to pick a Moment. Double-tap a photo to open it full screen. Swipe a photo to the right to mark it with a thumbs up. Pinch to make the photos larger or smaller.
 2. **Open a Memory.** Go to Memory Lane and double-tap Summer at the Lake. Play it, change its music, or open the Share menu and choose Share as Video.
 3. **See who is where.** Open Organize › People, choose Emma, and see every photo she is in. Do the same for a place or an event.
 4. **Tag something.** Select a photo and tap Tag, or use Name the Faces on a Moment, to see how names and places get added. Nothing you do here touches your own photos.
@@ -1484,7 +1503,7 @@ Livo is free, with no limits, and everything in that loop is in it: bring in you
 # Glossary
 
 - **Moment:** a day's photos grouped together in the Gallery, newest first. Tag the Moment says who is in it and what happened.
-- **Marked:** a photo you swiped up on (a thumbs up). Marked photos are the set a new Memory is made from.
+- **Marked:** a photo you swiped to the right (a thumbs up). Marked photos are the set a new Memory is made from.
 - **Memory:** a set of photos in order, a story, and your voice if you record one. Memories live in Memory Lane.
 - **Time Capsule (capsule):** one or more Memories sealed into a set of files you can hand on. Capsules live under the Capsules surface.
 - **Event:** something that happened, such as "Family beach trip 2024", covering one or more Moments. **Life Event:** a dated fact about a person, such as a birth or a wedding.

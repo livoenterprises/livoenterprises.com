@@ -1,5 +1,5 @@
-version: 9
-built: 2026-11-16
+version: 17
+built: 2026-11-27
 livo_build: 20261123_2100_FileNameDateVersusPhotoDate
 guide_url: https://livoenterprises.com/guide/
 pack_url: https://livoenterprises.com/livo-guide-pack.md

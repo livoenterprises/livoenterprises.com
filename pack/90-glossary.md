@@ -1,7 +1,7 @@
 # Glossary
 
 - **Moment:** a day's photos grouped together in the Gallery, newest first. Tag the Moment says who is in it and what happened.
-- **Marked:** a photo you swiped up on (a thumbs up). Marked photos are the set a new Memory is made from.
+- **Marked:** a photo you swiped to the right (a thumbs up). Marked photos are the set a new Memory is made from.
 - **Memory:** a set of photos in order, a story, and your voice if you record one. Memories live in Memory Lane.
 - **Time Capsule (capsule):** one or more Memories sealed into a set of files you can hand on. Capsules live under the Capsules surface.
 - **Event:** something that happened, such as "Family beach trip 2024", covering one or more Moments. **Life Event:** a dated fact about a person, such as a birth or a wedding.

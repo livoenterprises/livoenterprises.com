@@ -1,8 +1,8 @@
 ---
 title: Moments and the Gallery
 description: Choosing a Moment, marking photos, selecting them, and what the bar at the bottom does.
-version: 6
-updated: 2026-11-20
+version: 7
+updated: 2026-11-27
 order: 4
 app: guide
 screen: gallery
@@ -19,7 +19,7 @@ Beside the date are two small icons. The **tag** opens Tag the Moment, where you
 
 ## Marked photos
 
-Swipe a photo up to mark it (a thumbs up). The **N Marked** pill shows how many marked photos the library has; tap it to see only them. Marked photos are the set a new Memory is made from; see [Making a Memory](/guide/making-a-memory.html).
+Swipe a photo to the right to mark it (a thumbs up); swipe it right again to take the mark off. The **N Marked** pill shows how many marked photos the library has; tap it to see only them. Marked photos are the set a new Memory is made from; see [Making a Memory](/guide/making-a-memory.html).
 
 ## Selecting photos
 
@@ -27,7 +27,26 @@ Tap a photo to select it; keep dragging to select more. A row appears under the 
 
 ## Opening a photo
 
-Tap a selected photo, or double-tap any photo, to see it full screen. Swipe between photos, pinch to zoom, pull down to close. A LIVE pill plays a Live Photo. The buttons under a photo include Info, Rotate, Edit Photo and, on a video, Edit Segments (Livo Plus); see [Editing photos and videos](/guide/editing-photos-and-videos.html). The tag icon at the top opens the Details strip for that one photo. If the full-size picture cannot be shown, the caption under it says why; see [When something looks wrong](/guide/when-something-looks-wrong.html).
+Tap a selected photo, or double-tap any photo, to see it full screen. Swipe left or right to move between photos. Pinch to zoom, or double-tap to fill the screen and double-tap again to see the whole photo; drag to move around a zoomed photo. Swipe up to open the photo's Details, and swipe down to close. A LIVE pill plays a Live Photo. The buttons under a photo include Info, Rotate, Edit Photo and, on a video, Edit Segments (Livo Plus); see [Editing photos and videos](/guide/editing-photos-and-videos.html). The tag icon at the top opens the Details strip for that one photo. If the full-size picture cannot be shown, the caption under it says why; see [When something looks wrong](/guide/when-something-looks-wrong.html).
+
+## Touch shortcuts
+
+In the Gallery:
+
+- **Pinch to change the size of the photos.** Spread two fingers apart for fewer, larger photos; pinch them together for more, smaller ones. On an iPhone the steps are 1, 2, 3, 4, 5 or 7 photos across. Livo keeps the size you chose.
+- **Tap** a photo to select it. **Double-tap** to open it full screen.
+- **Swipe a photo to the right** to mark it (a thumbs up). The same swipe takes the mark off.
+- **Swipe a photo to the left** to give it a thumbs down; the same swipe takes it off.
+- **Press and hold** a photo to make it a favorite; press and hold again to undo. Searching for *favorites* finds them.
+- **Slide to select.** Once one photo is selected, slide your finger across the photos to select every photo from where you started to where your finger is. Sliding back shortens the run. A slide that starts on a selected photo takes its run out of the selection. While you are selecting, the left and right swipes do not mark.
+
+With a photo open full screen:
+
+- **Swipe left or right** for the next or the previous photo.
+- **Pinch** to zoom, and **drag** to move around a zoomed photo. A video does not zoom.
+- **Double-tap** to fill the screen; double-tap again for the whole photo.
+- **Swipe up** to open the photo's Details. **Swipe down** to close.
+- **Press and hold** to make it a favorite.
 
 ## The badges on a photo
 

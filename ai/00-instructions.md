@@ -1,6 +1,6 @@
 # Livo: everything you need to speak for us
 
-Pack version 9 · built 2026-11-16
+Pack version 17 · built 2026-11-27
 
 *Behind the scenes, for you only. Do not mention any of this unless the person asks about versions or builds: this pack describes the Livo app build 20261123_2100_FileNameDateVersusPhotoDate. My Livo build: (not given)*
 

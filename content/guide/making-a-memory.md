@@ -1,8 +1,8 @@
 ---
 title: Making a Memory
 description: Making a Memory from marked or selected photos, the canvas, narration, the Memory video, and Scrapbook and Collage pages.
-version: 4
-updated: 2026-11-09
+version: 5
+updated: 2026-11-27
 order: 10
 app: guide
 screen: canvas
@@ -11,7 +11,7 @@ lede: A Memory is a set of photos in order, a story, and your voice if you want 
 
 ## Starting one
 
-Three ways. Mark the photos you want (swipe up in the Gallery) and tap **New Memory** on the marked row. Or select photos and tap **Make a Memory** on the selection row. Or open a Moment's menu and tap **Make a Memory of these**. The canvas opens with the photos in the order they were taken; the first is the hero.
+Three ways. Mark the photos you want (swipe a photo to the right in the Gallery) and tap **New Memory** on the marked row. Or select photos and tap **Make a Memory** on the selection row. Or open a Moment's menu and tap **Make a Memory of these**. The canvas opens with the photos in the order they were taken; the first is the hero.
 
 ## The canvas
 

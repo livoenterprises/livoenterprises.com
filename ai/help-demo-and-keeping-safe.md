@@ -1,6 +1,6 @@
 # Ask an AI, try the demo, find missing photos, keep a second backup
 
-*Guide topic 27 · version 4 · updated 2026-11-26 · https://livoenterprises.com/guide/help-demo-and-keeping-safe.html*
+*Guide topic 27 · version 5 · updated 2026-11-27 · https://livoenterprises.com/guide/help-demo-and-keeping-safe.html*
 
 Four helpers, each a few taps from Getting Started or Organize.
 
@@ -37,7 +37,7 @@ The demo is an invented family. Nobody in it is a real person, and every name be
 
 ## What to try in the demo
 
-1. **Look around the Gallery.** Photos are grouped by Moment, one day at a time, newest first. Tap the calendar to pick a Moment. Double-tap a photo to open it full screen. Swipe a photo up to mark it with a thumbs up.
+1. **Look around the Gallery.** Photos are grouped by Moment, one day at a time, newest first. Tap the calendar to pick a Moment. Double-tap a photo to open it full screen. Swipe a photo to the right to mark it with a thumbs up. Pinch to make the photos larger or smaller.
 2. **Open a Memory.** Go to Memory Lane and double-tap Summer at the Lake. Play it, change its music, or open the Share menu and choose Share as Video.
 3. **See who is where.** Open Organize › People, choose Emma, and see every photo she is in. Do the same for a place or an event.
 4. **Tag something.** Select a photo and tap Tag, or use Name the Faces on a Moment, to see how names and places get added. Nothing you do here touches your own photos.

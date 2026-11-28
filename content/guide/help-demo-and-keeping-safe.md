@@ -1,8 +1,8 @@
 ---
 title: Ask an AI, try the demo, find missing photos, keep a second backup
 description: Five things that are easy to miss: asking an AI assistant about Livo, trying Livo with demo photos (who and what is in the demo, and what to search for), finding photos Livo lost track of, and keeping a copy of your backups outside the app.
-version: 4
-updated: 2026-11-26
+version: 5
+updated: 2026-11-27
 order: 27
 app: guide
 lede: Four helpers, each a few taps from Getting Started or Organize.
@@ -41,7 +41,7 @@ The demo is an invented family. Nobody in it is a real person, and every name be
 
 ## What to try in the demo
 
-1. **Look around the Gallery.** Photos are grouped by Moment, one day at a time, newest first. Tap the calendar to pick a Moment. Double-tap a photo to open it full screen. Swipe a photo up to mark it with a thumbs up.
+1. **Look around the Gallery.** Photos are grouped by Moment, one day at a time, newest first. Tap the calendar to pick a Moment. Double-tap a photo to open it full screen. Swipe a photo to the right to mark it with a thumbs up. Pinch to make the photos larger or smaller.
 2. **Open a Memory.** Go to Memory Lane and double-tap Summer at the Lake. Play it, change its music, or open the Share menu and choose Share as Video.
 3. **See who is where.** Open Organize › People, choose Emma, and see every photo she is in. Do the same for a place or an event.
 4. **Tag something.** Select a photo and tap Tag, or use Name the Faces on a Moment, to see how names and places get added. Nothing you do here touches your own photos.
